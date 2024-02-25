@@ -12,3 +12,8 @@ lesbians (franka and liskarm): 22 may 2019
 mousse cake: 23 may 2019
 chen salute: 23 may 2019
 amiya stare: 22 may 2019
+
+checklist:
+	stickers (usually 16 count)
+	README.txt
+	info.json

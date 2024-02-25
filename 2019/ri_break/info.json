@@ -1,0 +1,106 @@
+{
+	"pack":"ri_break",
+	"fullname":"Take a Break",
+	"cn-date":"2019-12-17",
+	"cn-src":null,
+	"en-date":null,
+	"en-src":null,
+	"stickers":[
+		{
+			"key":0,
+			"name":"kroos_happy",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/kroos_happy.png",
+			"alt":"Kroos beaming as she holds an apple in her right hand and her crossbow in her left."
+		},
+		{
+			"key":1,
+			"name":"yato_worry",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/yato_worry.png",
+			"alt":"Yato fretfully wipes sweat from her brow with the back of her hand."
+		},
+		{
+			"key":2,
+			"name":"yato_happy",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/yato_happy.png",
+			"alt":"Yato smiles while bringing her left hand to cup her cheek, looking refreshed. In her right hand is a beverage with the cap removed."
+		},
+		{
+			"key":3,
+			"name":"hibiscus_tasty",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/hibiscus_tasty.png",
+			"alt":"Hibiscus holds up a plate with a burger. The burger's filling is notably very green. She's smiling with her tongue sticking out at the side of her mouth, believing her burger will be delicious."
+		},
+		{
+			"key":4,
+			"name":"lava_search",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/lava_search.png",
+			"alt":"Lava overturns an empty plastic bag in confusion, looking for a bag of potato chips."
+		},
+		{
+			"key":5,
+			"name":"lava_nom",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/lava_nom.png",
+			"alt":"Lava is enjoying what seems to be a fast food meal of a burger and a coke. A shadowy Hibiscus looms behind Lava, twinkle in her eyes."
+		},
+		{
+			"key":6,
+			"name":"durin_yawn",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/durin_yawn.png",
+			"alt":"Durin yawns, reaching a hand up to dab a tear at the corner of her eye with an oversized sleeve."
+		},
+		{
+			"key":7,
+			"name":"durin_owch",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/durin_owch.png",
+			"alt":"Durin looks mildly annoyed as her hands reach up to her head. There's a bandage in the shape of a cross on her head, indicating she was hurt there."
+		},
+		{
+			"key":8,
+			"name":"dobermann_mad",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/dobermann_mad.png",
+			"alt":"Dobermann angrily holds up her whip, tightening it with both hands. It's a threat that she's about to dole out some discipline."
+		},
+		{
+			"key":9,
+			"name":"rangers_tail",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/rangers_tail.png",
+			"alt":"Rangers huffs out a contented sigh with his eyes closed as he pets his curled-up tail."
+		},
+		{
+			"key":10,
+			"name":"beagle_swet",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/beagle_swet.png",
+			"alt":"Beagles sweats profusely in a panic as she hides her report card behind her back."
+		},
+		{
+			"key":11,
+			"name":"fang_idea",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/fang_idea.png",
+			"alt":"Fang thumps her left fist onto her right palm in revelation, having just come up with an idea."
+		},
+		{
+			"key":12,
+			"name":"noir_mask",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/noir_mask.png",
+			"alt":"Noir has taken off his usual mask, holding it in his right hand. He uses his left to hold a bunny mask based on Amiya to his face, getting a laugh out of silliness."
+		},
+		{
+			"key":13,
+			"name":"kroos_nap",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/kroos_nap.png",
+			"alt":"Kroos is sleeping soundly with a bubble from her nose. In the background, the alarm clock jumps up as it goes off. "
+		},
+		{
+			"key":14,
+			"name":"amiya_love",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/amiya_love.png",
+			"alt":"Amiya smiles as she lovingly holds a bunny doll that looks like her. The doll has a red ribbon tied into a bow around its neck."
+		},
+		{
+			"key":15,
+			"name":"kaltsit_huff",
+			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/kaltsit_huff.png",
+			"alt":"Kal'tsit crosses her arms with her eyes closed in thought. She looks both annoyed and perplexed."
+		}
+	]
+}

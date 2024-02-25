@@ -5,6 +5,7 @@ https://x.com/ArknightsEN/status/1284103056762650625?s=20
 Sticker sheet retrieved from Arknights Choearth Weibo blog by Xue
 https://weibo.com/u/6441489862
 https://sincerelyandyourstruly.neocities.org/
+
 Stickers from @arknights-archive on tumblr
 https://arknights-archive.tumblr.com/post/726298027486298112/anecdotes-12
 https://arknights-archive.tumblr.com/post/726301060448337920/anecdotes-ii-22
