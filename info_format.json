@@ -1,0 +1,16 @@
+{
+	"pack":"folder_name",
+	"fullname":"Official or Translated Name",
+	"cn-date":"YYYY-MM-DD",
+	"cn-src":null,
+	"en-date":"YYYY-MM-DD",
+	"en-src":"link",
+	"stickers":[
+		{
+			"key":0,
+			"name":"sticker_name",
+			"href":"https://noktalis.github.io/ak-stickers/year/pack/sticker_name.png",
+			"alt":"Alternative text"
+		}
+	]
+}
