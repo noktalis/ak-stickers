@@ -106,6 +106,12 @@
 			"alt":"Firewatch stands before a button with a deadpan expression. The lid on the button is labelled 'DANGER' and has been removed out of the way. The button makes a sound as Firewatch's finger presses down on it."
 		},
 		{
+			"key":18,
+			"name":"firewatch_button_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/firewatch_button_en.png",
+			"alt":"Firewatch stands before a button with a deadpan expression. The lid on the button is labelled 'DANGER' and has been removed out of the way. The button beeps as Firewatch's finger presses down on it."
+		},
+		{
 			"key":16,
 			"name":"kroos_quiet",
 			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/kroos_quiet.png",
