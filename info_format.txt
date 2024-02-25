@@ -1,0 +1,28 @@
+Released to CN on Month DD, YYYY
+<date source link>
+Released to EN on Month DD, YYYY
+<date source link>
+
+(if sheet from Xue)
+Sticker sheet retrieved from the Arknights Choearth Weibo blog by Xue
+https://weibo.com/u/6441489862
+https://sincerelyandyourstruly.neocities.org/
+
+(if sheet from Oyuki twitter)
+Sticker sheet downloaded from @oyuki_gms <link>
+
+Stickers from <site>
+<link>
+
+(if stickers edited and cropped myself)
+Stickers cropped from sticker sheet by Nat
+
+
+Corresponds to <event>
+<terra wiki article>
+
+(or)
+
+Doesn't seem to correspond to any particular event.
+
+Features [characters].
