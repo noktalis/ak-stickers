@@ -1,0 +1,145 @@
+{
+	"pack":"op_intel",
+	"fullname":"Operation Intelligence",
+	"cn-date":"2019-10-24",
+	"cn-src":null,
+	"en-date":"2020-04-07",
+	"en-src":"https://twitter.com/ArknightsEN/status/1247771424833454081",
+	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726315555885301760/operational-intelligence-stickers-12",
+	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726318522037354496/operational-intelligence-stickers-22",
+	"en-edit":true,
+	"stickers":[
+		{
+			"key":0,
+			"name":"executor_whack",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_whack.png",
+			"alt":"Executor performs a 'percussive maintenance' on a screen with an antenna on its side."
+		},
+		{
+			"key":1,
+			"name":"executor_whack_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_whack_en.png",
+			"alt":"Executor performs a 'percussive maintenance' on a screen with an antenna on its side. It makes a loud 'Thwack-' sound."
+		},
+		{
+			"key":2,
+			"name":"executor_sign",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_sign.png",
+			"alt":"Executors holds out a document in his left hand and a pen in his right, telling someone to sign."
+		},
+		{
+			"key":3,
+			"name":"executor_sign_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_sign_en.png",
+			"alt":"Executors holds out a document in his left hand and a pen in his right, telling someone, 'Sign here.'"
+		},
+		{
+			"key":4,
+			"name":"flamebringer_nay",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/flamebringer_nay.png",
+			"alt":"Flamebringer declines something in a similar fashion to the Drake meme format. He holds out his hand as if to push something away, his body leaning away from whatever it is. For best meme effectiveness, this image should be paired with the other Flamebringer sticker in the pack."
+		},
+		{
+			"key":5,
+			"name":"flamebringer_yay",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/flamebringer_yay.png",
+			"alt":"Flamebringer approves of something with a thumbs up. His other elbow is on the handle of his sword as he leans casually. For best meme effectiveness, this image should be paired with the other Flamebringer sticker in the pack."
+		},
+		{
+			"key":6,
+			"name":"vermeil_pout",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_pout.png",
+			"alt":"Vermeil is on the verge of tears. She's pouting, her eyes are teary, and her body is shaking."
+		},
+		{
+			"key":7,
+			"name":"vermeil_sniff",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_sniff.png",
+			"alt":"Vermeil sniffs the air with her eyes closed and her ears perked up. The sniffing sound effect is written in Chinese."
+		},
+		{
+			"key":8,
+			"name":"vermeil_sniff_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_sniff_en.png",
+			"alt":"Vermeil sniffs the air with her eyes closed and her ears perked up. The sniffing sound effect is written in English."
+		},
+		{
+			"key":9,
+			"name":"vermeil_frustration",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_frustration.png",
+			"alt":"In a fit of frustration, Vermeil throws her metal, prosthetic arm at the ground."
+		},
+		{
+			"key":10,
+			"name":"amiya_spray",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/amiya_spray.png",
+			"alt":"Amiya wears a gas mask as she sprays a bottle of disinfectant."
+		},
+		{
+			"key":11,
+			"name":"amiya_spray_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/amiya_spray_en.png",
+			"alt":"Amiya wears a gas mask as she sprays a bottle of disinfectant. The bottle makes a 'Pschitt' sound."
+		},
+		{
+			"key":12,
+			"name":"magallan_hug",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/magallan_hug.png",
+			"alt":"Magallan beams as she hugs Emperor from behind. Emperor sighs in exasperation."
+		},
+		{
+			"key":13,
+			"name":"magallan_run",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/magallan_run.png",
+			"alt":"Magallan is running from something, kicking up a trail of dust in her wake."
+		},
+		{
+			"key":14,
+			"name":"silence_scan",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_scan.png",
+			"alt":"Silence scans Doctor's head with a handheld device. It makes a sound as it completes the scan."
+		},
+		{
+			"key":15,
+			"name":"silence_scan_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_scan_en.png",
+			"alt":"Silence scans Doctor's head with a handheld device. It goes 'Beep!' as it completes the scan."
+		},
+		{
+			"key":16,
+			"name":"silence_shout",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_shout.png",
+			"alt":"Silence dramatically says something. Her right hand is closed into a fist and her expression is dubious. Chances are that someone made a mistake in the labratory."
+		},
+		{
+			"key":17,
+			"name":"radiation_sign",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/radiation_sign.png",
+			"alt":"A yellow sign warning of radiation. On the sign is the image of a gas mask with cat ears. Below the image is the word 'RADIATION.'"
+		},
+		{
+			"key":18,
+			"name":"jessica_depression",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/jessica_depression.png",
+			"alt":"Jessica sits in a crater with her knees under her chin. Her tail is curled around her body as she hugs her knees. A shovel lies at her feet. The words 'I'm fine' caption the image."
+		},
+		{
+			"key":19,
+			"name":"jessica_depression_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/jessica_depression_en.png",
+			"alt":"Jessica sits in a crater with her knees under her chin. Her tail is curled around her body as she hugs her knees. A shovel lies at her feet. Under the crater are the words, 'This is fine.'"
+		},
+		{
+			"key":20,
+			"name":"meteorite_camera",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/meteorite_camera.png",
+			"alt":"Meteorite snaps a photo with a handheld camera held up to her deadpan face."
+		},
+		{
+			"key":21,
+			"name":"meteorite_explosion",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/meteorite_explosion.png",
+			"alt":"Cool operators don't look at explosions, they blow things up and walk away. Meteorite does exactly this with a bored expression, unphased by the explosion behind her."
+		}
+	]
+}
