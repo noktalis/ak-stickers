@@ -1,0 +1,492 @@
+[
+	{
+		"pack":"ch6",
+		"fullname":"Episode 6",
+		"cn-date":"2019-12-30",
+		"cn-src":null,
+		"en-date":"2020-07-17",
+		"en-src":"https://x.com/ArknightsEN/status/1284103056762650625?s=20",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726298027486298112/anecdotes-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726301060448337920/anecdotes-ii-22",
+		"en-edit":false,
+		"stickers":[
+			{
+				"key":0,
+				"name":"ambriel_lost",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/ambriel_lost.png",
+				"alt":"Ambriel scratches her head, looking visibly confused. There's a sweat drop of on her cheek, but a music note implies she's still calm."
+			},
+			{
+				"key":1,
+				"name":"ambriel_mischief",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/ambriel_mischief.png",
+				"alt":"Ambriel rubs her hands together as if scheming mischief. She looks frenzied, as her eyes are delirious, her cheeks are flushed, and there's drool from the corner of her mouth."
+			},
+			{
+				"key":2,
+				"name":"greythroat_wtf",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/greythroat_wtf.png",
+				"alt":"GreyThroat makes a dumbfounded face with some mild disgust. '???' shows her bafflement."
+			},
+			{
+				"key":3,
+				"name":"blaze_greythroat_run",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/blaze_greythroat_run.png",
+				"alt":"Blaze is running away from the foreground. Greythroat is to the side of Blaze with her eyes bugged out in surprise, looking like she narrowly jumped out of Blaze's path."
+			},
+			{
+				"key":4,
+				"name":"blaze_doctor_comrade",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/blaze_doctor_comrade.png",
+				"alt":"Blaze beams as she and Doctor have their arms over each other's shoulders. Despite Doctor's face being obscured by a helment and hood, he also seems very happy."
+			},
+			{
+				"key":5,
+				"name":"blaze_kidnap",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/blaze_kidnap.png",
+				"alt":"Blaze is dragging an unconscious Doctor across the floor. She is surprised by a shadow that falls over them, looking up in surprise to find Amiya. Blaze will likely get in trouble for this."
+			},
+			{
+				"key":6,
+				"name":"reed_swet",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/reed_swet.png",
+				"alt":"Reed has broken out into a sweat. She leans toward the right side of the image, while cautiously looking at the left side as if she were being chased."
+			},
+			{
+				"key":7,
+				"name":"broca_grumpy",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/broca_grumpy.png",
+				"alt":"Broca is snarling, upset with something. His distress seems to radiate off him."
+			},
+			{
+				"key":8,
+				"name":"cardigan_barf",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/cardigan_barf.png",
+				"alt":"Only Cardigan's head is seen. Her eyes are screwed close as she barfs up a rainbow."
+			},
+			{
+				"key":9,
+				"name":"silverash_sulk",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/silverash_sulk.png",
+				"alt":"SilverAsh looks depressed as a gloomy shadow falls over his face. A sign in the background indicates that cats are not allowed and unfortunately, SilverAsh is nothing if not a cat man."
+			},
+			{
+				"key":10,
+				"name":"pramanix_throw",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/pramanix_throw.png",
+				"alt":"Pramanix has her hands are up as if she were surrendering, a bell tossed over her shoulder as she walks away from the viewer. It seems as if she were walking away in exasperation."
+			},
+			{
+				"key":11,
+				"name":"schwarz_tea",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/schwarz_tea.png",
+				"alt":"Schwarz holds a steaming hot cup of tea. A gleam indicates that the tea is of high quality and/or taste."
+			},
+			{
+				"key":12,
+				"name":"vigna_nom",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/vigna_nom.png",
+				"alt":"Vigna has her cheeks stuffed with crumbs around her mouth. In her hands is what looks like an originium slug with a bite taken out of its spikes."
+			},
+			{
+				"key":13,
+				"name":"gavial_rage",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/gavial_rage.png",
+				"alt":"Gavial is incredibly angry and posed for combat. In her left hand is her healing staff, while her right hand gestures for an opponent to engage her in a fight."
+			},
+			{
+				"key":14,
+				"name":"estelle_despair",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/estelle_despair.png",
+				"alt":"Estelle is making a face as if she were deeply uncomfortable and/or in pain. She has broken out into a sweat and a tiny bird sits on her left horn."
+			},
+			{
+				"key":15,
+				"name":"nearl_wince",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ch6/nearl_wince.png",
+				"alt":"Nearl squints her eyes and recoils in surprise from the foreground. A bright light is emitted from the bottom left corner of the image."
+			}
+		]
+	},
+	{
+		"pack":"ri_break",
+		"fullname":"Take a Break",
+		"cn-date":"2019-12-17",
+		"cn-src":null,
+		"en-date":null,
+		"en-src":null,
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726303937841528832/taking-a-break-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726306817202913280/taking-a-break-22",
+		"en-edit":false,
+		"stickers":[
+			{
+				"key":0,
+				"name":"kroos_happy",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/kroos_happy.png",
+				"alt":"Kroos beaming as she holds an apple in her right hand and her crossbow in her left."
+			},
+			{
+				"key":1,
+				"name":"yato_worry",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/yato_worry.png",
+				"alt":"Yato fretfully wipes sweat from her brow with the back of her hand."
+			},
+			{
+				"key":2,
+				"name":"yato_happy",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/yato_happy.png",
+				"alt":"Yato smiles while bringing her left hand to cup her cheek, looking refreshed. In her right hand is a beverage with the cap removed."
+			},
+			{
+				"key":3,
+				"name":"hibiscus_tasty",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/hibiscus_tasty.png",
+				"alt":"Hibiscus holds up a plate with a burger. The burger's filling is notably very green. She's smiling with her tongue sticking out at the side of her mouth, believing her burger will be delicious."
+			},
+			{
+				"key":4,
+				"name":"lava_search",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/lava_search.png",
+				"alt":"Lava overturns an empty plastic bag in confusion, looking for a bag of potato chips."
+			},
+			{
+				"key":5,
+				"name":"lava_nom",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/lava_nom.png",
+				"alt":"Lava is enjoying what seems to be a fast food meal of a burger and a coke. A shadowy Hibiscus looms behind Lava, twinkle in her eyes."
+			},
+			{
+				"key":6,
+				"name":"durin_yawn",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/durin_yawn.png",
+				"alt":"Durin yawns, reaching a hand up to dab a tear at the corner of her eye with an oversized sleeve."
+			},
+			{
+				"key":7,
+				"name":"durin_owch",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/durin_owch.png",
+				"alt":"Durin looks mildly annoyed as her hands reach up to her head. There's a bandage in the shape of a cross on her head, indicating she was hurt there."
+			},
+			{
+				"key":8,
+				"name":"dobermann_mad",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/dobermann_mad.png",
+				"alt":"Dobermann angrily holds up her whip, tightening it with both hands. It's a threat that she's about to dole out some discipline."
+			},
+			{
+				"key":9,
+				"name":"rangers_tail",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/rangers_tail.png",
+				"alt":"Rangers huffs out a contented sigh with his eyes closed as he pets his curled-up tail."
+			},
+			{
+				"key":10,
+				"name":"beagle_swet",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/beagle_swet.png",
+				"alt":"Beagles sweats profusely in a panic as she hides her report card behind her back."
+			},
+			{
+				"key":11,
+				"name":"fang_idea",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/fang_idea.png",
+				"alt":"Fang thumps her left fist onto her right palm in revelation, having just come up with an idea."
+			},
+			{
+				"key":12,
+				"name":"noir_mask",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/noir_mask.png",
+				"alt":"Noir has taken off his usual mask, holding it in his right hand. He uses his left to hold a bunny mask based on Amiya to his face, getting a laugh out of silliness."
+			},
+			{
+				"key":13,
+				"name":"kroos_nap",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/kroos_nap.png",
+				"alt":"Kroos is sleeping soundly with a bubble from her nose. In the background, the alarm clock jumps up as it goes off. "
+			},
+			{
+				"key":14,
+				"name":"amiya_love",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/amiya_love.png",
+				"alt":"Amiya smiles as she lovingly holds a bunny doll that looks like her. The doll has a red ribbon tied into a bow around its neck."
+			},
+			{
+				"key":15,
+				"name":"kaltsit_huff",
+				"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/kaltsit_huff.png",
+				"alt":"Kal'tsit crosses her arms with her eyes closed in thought. She looks both annoyed and perplexed."
+			}
+		]
+	},
+	{
+		"pack":"code_of_brawl",
+		"fullname":"Code of Brawl",
+		"cn-date":"2019-11-20",
+		"cn-src":null,
+		"en-date":"2020-06-01",
+		"en-src":"https://x.com/ArknightsEN/status/1267409828411871232?s=20",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726309716258603008/code-of-brawl-stickers-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726312613051564032/code-of-brawl-stickers-22",
+		"en-edit":true,
+		"stickers":[
+			{
+				"key":0,
+				"name":"mostima_precious",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/mostima_precious.png",
+				"alt":"Mostima's eyes shine excitedly as she is presented with a box of donuts by a pair of disembodied hands. A heavenly light is emitted from the donuts in the box, making the air around Mostima sparkle."
+			},
+			{
+				"key":1,
+				"name":"breeze_floof",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/breeze_floof.png",
+				"alt":"Breeze grins as she affectionately pets a fox. Alongside them are the words 'mofu mofu' that indicate the fox is very soft and fluffy to the touch."
+			},
+			{
+				"key":2,
+				"name":"breeze_floof_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/breeze_floof_en.png",
+				"alt":"Breeze grins as she affectionately pets a fox. Alongside them is the word 'Floofing' that indicates the fox is fluffy."
+			},
+			{
+				"key":3,
+				"name":"bison_note",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/bison_note.png",
+				"alt":"Bison takes notes with a clipboard, a pen, and a deadpan expression."
+			},
+			{
+				"key":4,
+				"name":"may_untitledduck",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/may_untitledduck.png",
+				"alt":"May stands dumbfounded, scratching her head as she looking for her gun. Behind her is a duck with May's gun in its mouth, waddling away from May. This sticker is drawn in a different art style to the rest of the sticker pack, instead emulating the art style of the game 'Untitled Goose Game.'"
+			},
+			{
+				"key":5,
+				"name":"ethan_trick",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/ethan_trick.png",
+				"alt":"Ethan grins as he does a trick with his yo-yo, creating an image with the yo-yo's string."
+			},
+			{
+				"key":6,
+				"name":"waaifu_annoyed",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/waaifu_annoyed.png",
+				"alt":"Waai Fu seems irritated and disheveled as she uses her claws to scratch something."
+			},
+			{
+				"key":7,
+				"name":"mostima_offer",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/mostima_offer.png",
+				"alt":"Mostima grins as she holds out and offering of sausages to someone. Only the other person's hand is visible, shown to be gesturing a polite decline of Mostima's offer. The two sausages she's offering are skewered onto the tip of the ancient, dangerous staff, the Black Lock."
+			},
+			{
+				"key":8,
+				"name":"waaifu_think",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/waaifu_think.png",
+				"alt":"Waai Fu is pondering with her right hand under her chin, and her left arm resting along the bottom of the image as if it were a table."
+			},
+			{
+				"key":9,
+				"name":"ethan_fail",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/ethan_fail.png",
+				"alt":"Ethan lies facedown on the ground. He's tied up by his own yo-yo, his arms pinned to his sides. The word 'fail' appears above him in both Chinese and English."
+			},
+			{
+				"key":10,
+				"name":"ethan_fail_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/ethan_fail_en.png",
+				"alt":"Ethan lies facedown on the ground. He's tied up by his own yo-yo, his arms pinned to his sides. The word 'failed' appears above him."
+			},
+			{
+				"key":11,
+				"name":"may_drown",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/may_drown.png",
+				"alt":"May splashing around in water with a panicked expression. Although it gives the impression that she's drowning, it's important to note that she only seems to be waist-deep in water, and that actual drowning is much quieter."
+			},
+			{
+				"key":12,
+				"name":"siege_angry",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/siege_angry.png",
+				"alt":"Siege holds her hammer in her right hand as she stands over the limp body of the Doctor. The Doctor's head has been smashed into the wall, leaving a sizable hole that their head currently rests in. Based on Siege's anger, they probably upset Siege somehow."
+			},
+			{
+				"key":13,
+				"name":"warfarin_sleep",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/warfarin_sleep.png",
+				"alt":"Warfarin is asleep, wearing a sleep mask and cuddling a bat plushie that looks like her. Of course, as a vampire, she's also hanging upside down."
+			},
+			{
+				"key":14,
+				"name":"nightingale_tweet",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/nightingale_tweet.png",
+				"alt":"Nightingale is on her phone with her back to the viewer. A small icon above her head indicates that she is using the Terra equivalent of Twitter."
+			},
+			{
+				"key":15,
+				"name":"firewatch_button",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/firewatch_button.png",
+				"alt":"Firewatch stands before a button with a deadpan expression. The lid on the button is labelled 'DANGER' and has been removed out of the way. The button makes a sound as Firewatch's finger presses down on it."
+			},
+			{
+				"key":18,
+				"name":"firewatch_button_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/firewatch_button_en.png",
+				"alt":"Firewatch stands before a button with a deadpan expression. The lid on the button is labelled 'DANGER' and has been removed out of the way. The button beeps as Firewatch's finger presses down on it."
+			},
+			{
+				"key":16,
+				"name":"kroos_quiet",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/kroos_quiet.png",
+				"alt":"Kroos is about to say her famous line 'kokodayo~!' but it cut off by the Doctor slapping a hand over her mouth. As a result, she is only able to get the first 'ko-' out before she opens her eyes in surprise."
+			},
+			{
+				"key":17,
+				"name":"rope_huh",
+				"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/rope_huh.png",
+				"alt":"Rope is confused as she holds up her hook, finding a torn tentacle pierced on one of the claws."
+			}
+		]
+	},
+	{
+		"pack":"op_intel",
+		"fullname":"Operation Intelligence",
+		"cn-date":"2019-10-24",
+		"cn-src":null,
+		"en-date":"2020-04-07",
+		"en-src":"https://twitter.com/ArknightsEN/status/1247771424833454081",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726315555885301760/operational-intelligence-stickers-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726318522037354496/operational-intelligence-stickers-22",
+		"en-edit":true,
+		"stickers":[
+			{
+				"key":0,
+				"name":"executor_whack",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_whack.png",
+				"alt":"Executor performs a 'percussive maintenance' on a screen with an antenna on its side."
+			},
+			{
+				"key":1,
+				"name":"executor_whack_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_whack_en.png",
+				"alt":"Executor performs a 'percussive maintenance' on a screen with an antenna on its side. It makes a loud 'Thwack-' sound."
+			},
+			{
+				"key":2,
+				"name":"executor_sign",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_sign.png",
+				"alt":"Executors holds out a document in his left hand and a pen in his right, telling someone to sign."
+			},
+			{
+				"key":3,
+				"name":"executor_sign_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_sign_en.png",
+				"alt":"Executors holds out a document in his left hand and a pen in his right, telling someone, 'Sign here.'"
+			},
+			{
+				"key":4,
+				"name":"flamebringer_nay",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/flamebringer_nay.png",
+				"alt":"Flamebringer declines something in a similar fashion to the Drake meme format. He holds out his hand as if to push something away, his body leaning away from whatever it is. For best meme effectiveness, this image should be paired with the other Flamebringer sticker in the pack."
+			},
+			{
+				"key":5,
+				"name":"flamebringer_yay",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/flamebringer_yay.png",
+				"alt":"Flamebringer approves of something with a thumbs up. His other elbow is on the handle of his sword as he leans casually. For best meme effectiveness, this image should be paired with the other Flamebringer sticker in the pack."
+			},
+			{
+				"key":6,
+				"name":"vermeil_pout",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_pout.png",
+				"alt":"Vermeil is on the verge of tears. She's pouting, her eyes are teary, and her body is shaking."
+			},
+			{
+				"key":7,
+				"name":"vermeil_sniff",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_sniff.png",
+				"alt":"Vermeil sniffs the air with her eyes closed and her ears perked up. The sniffing sound effect is written in Chinese."
+			},
+			{
+				"key":8,
+				"name":"vermeil_sniff_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_sniff_en.png",
+				"alt":"Vermeil sniffs the air with her eyes closed and her ears perked up. The sniffing sound effect is written in English."
+			},
+			{
+				"key":9,
+				"name":"vermeil_frustration",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_frustration.png",
+				"alt":"In a fit of frustration, Vermeil throws her metal, prosthetic arm at the ground."
+			},
+			{
+				"key":10,
+				"name":"amiya_spray",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/amiya_spray.png",
+				"alt":"Amiya wears a gas mask as she sprays a bottle of disinfectant."
+			},
+			{
+				"key":11,
+				"name":"amiya_spray_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/amiya_spray_en.png",
+				"alt":"Amiya wears a gas mask as she sprays a bottle of disinfectant. The bottle makes a 'Pschitt' sound."
+			},
+			{
+				"key":12,
+				"name":"magallan_hug",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/magallan_hug.png",
+				"alt":"Magallan beams as she hugs Emperor from behind. Emperor sighs in exasperation."
+			},
+			{
+				"key":13,
+				"name":"magallan_run",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/magallan_run.png",
+				"alt":"Magallan is running from something, kicking up a trail of dust in her wake."
+			},
+			{
+				"key":14,
+				"name":"silence_scan",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_scan.png",
+				"alt":"Silence scans Doctor's head with a handheld device. It makes a sound as it completes the scan."
+			},
+			{
+				"key":15,
+				"name":"silence_scan_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_scan_en.png",
+				"alt":"Silence scans Doctor's head with a handheld device. It goes 'Beep!' as it completes the scan."
+			},
+			{
+				"key":16,
+				"name":"silence_shout",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_shout.png",
+				"alt":"Silence dramatically says something. Her right hand is closed into a fist and her expression is dubious. Chances are that someone made a mistake in the labratory."
+			},
+			{
+				"key":17,
+				"name":"radiation_sign",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/radiation_sign.png",
+				"alt":"A yellow sign warning of radiation. On the sign is the image of a gas mask with cat ears. Below the image is the word 'RADIATION.'"
+			},
+			{
+				"key":18,
+				"name":"jessica_depression",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/jessica_depression.png",
+				"alt":"Jessica sits in a crater with her knees under her chin. Her tail is curled around her body as she hugs her knees. A shovel lies at her feet. The words 'I'm fine' caption the image."
+			},
+			{
+				"key":19,
+				"name":"jessica_depression_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/jessica_depression_en.png",
+				"alt":"Jessica sits in a crater with her knees under her chin. Her tail is curled around her body as she hugs her knees. A shovel lies at her feet. Under the crater are the words, 'This is fine.'"
+			},
+			{
+				"key":20,
+				"name":"meteorite_camera",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/meteorite_camera.png",
+				"alt":"Meteorite snaps a photo with a handheld camera held up to her deadpan face."
+			},
+			{
+				"key":21,
+				"name":"meteorite_explosion",
+				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/meteorite_explosion.png",
+				"alt":"Cool operators don't look at explosions, they blow things up and walk away. Meteorite does exactly this with a bored expression, unphased by the explosion behind her."
+			}
+		]
+	}
+]
