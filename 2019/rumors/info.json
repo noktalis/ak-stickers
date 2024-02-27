@@ -1,0 +1,109 @@
+{
+	"pack":"rumors",
+	"fullname":"Rumors",
+	"cn-date":"2019-09-23",
+	"cn-src":null,
+	"en-date":null,
+	"en-src":null,
+	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726321405702045696/rumors-12",
+	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726327317270544384/rumors-12",
+	"en-edit":false,
+	"stickers":[
+		{
+			"key":0,
+			"name":"silverash_yo",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/silverash_yo.png",
+			"alt":"SilverAsh is laying on his stomach. A person seems to have caught his attention, as he raises his left hand in greeting. According to Xue's translation, SilverAsh says, 'Yo!' A rainbow is emitting from his back for some reason."
+		},
+		{
+			"key":1,
+			"name":"silverash_frustrated",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/silverash_frustrated.png",
+			"alt":"SilverAsh is turned away from the viewer, fuming with his arms crossed. His tail, on the other hand, is wagging energetically."
+		},
+		{
+			"key":2,
+			"name":"pramanix_dread",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/pramanix_dread.png",
+			"alt":"Pramanix trembles and sweats bullets with an anxious expression. According to Xue's translation, Pramanix exclaims something along the lines of, 'Forced into a life of labor!!'"
+		},
+		{
+			"key":3,
+			"name":"pramanix_murder",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/pramanix_murder.png",
+			"alt":"Pramanix looms menacingly, radiating an aura of doom and gloom. There's a shadow over her eyes as they glint with a desire for violence. In her right hand is a bell, stained with blood as if it had been used to inflict blunt force trauma. According to Xue's translation, the words around Pramanix say, 'I'm starting to feel like murder'"
+		},
+		{
+			"key":4,
+			"name":"cliffheart_pout",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/cliffheart_pout.png",
+			"alt":"Cliffheart sits in the corner of the image, huddled with her knees to her chin and her arms wrapped around her knees. She has a pitiful expression and a tear rolling down from her left eye."
+		},
+		{
+			"key":5,
+			"name":"cliffheart_beam",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/cliffheart_beam.png",
+			"alt":"Cliffheart beams while ready and posed to climb with her hook in her hands."
+		},
+		{
+			"key":6,
+			"name":"courier_embarassed",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/courier_embarassed.png",
+			"alt":"Courier sheepishly smiles, floundering and embarassed. His ears are also blushing in embarassment."
+		},
+		{
+			"key":7,
+			"name":"courier_confused",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/courier_confused.png",
+			"alt":"Courier taps his right index finger to his chin, confused. There are not one, not three, but eight question marks scattered around his head to show how confused he is."
+		},
+		{
+			"key":8,
+			"name":"matterhorn_sneeze",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/matterhorn_sneeze.png",
+			"alt":"Matterhorn lets out a great, big sneeze, going 'Achoo!!'"
+		},
+		{
+			"key":9,
+			"name":"matterhorn_aaa",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/matterhorn_aaa.png",
+			"alt":"Matterhorn stares up at something with apprehension and disbelief. According to Xue's translating, Matterhorn is going, 'aaaaaaaaaa'"
+		},
+		{
+			"key":10,
+			"name":"zima_muted",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/zima_muted.png",
+			"alt":"Zima holds her axe in her hands with a displeased expression and blank eyes. There is the symbol of 'mute' or 'no volume' above her head. Zima is silent, but the shadow over her face indicates she has some choice words for whoever muted her."
+		},
+		{
+			"key":11,
+			"name":"zima_rage",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/zima_rage.png",
+			"alt":"Zima has a furious expression as she wields her axe. There is the shadow of a bear with its teeth bared and eyes glinted with murder behind Zima. Presumably, this is Zima's 'animal' self since she is based off a bear."
+		},
+		{
+			"key":12,
+			"name":"gummy_sing",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/gummy_sing.png",
+			"alt":"Gummy smiles with her eyes closed and her right hand over her heart. It almost looks like she's singing, although there's no music notes to indicate so."
+		},
+		{
+			"key":13,
+			"name":"gummy_cheer",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/gummy_cheer.png",
+			"alt":"Gummy grins with starry-eyed joy with both her arms raised. She holds her frying pan in her left hand."
+		},
+		{
+			"key":14,
+			"name":"istina_sulk",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/istina_sulk.png",
+			"alt":"Istina frowns like she's had something sour or foul tasting. A cloud of gloom seems to loom over her head."
+		},
+		{
+			"key":15,
+			"name":"istina_glasses",
+			"href":"https://noktalis.github.io/ak-stickers/2019/rumors/istina_glasses.png",
+			"alt":"Istina has a sharp look in her eyes as there's a glint at the corner of her right eye. She's pushing up her glasses with her left hand. According to Xue's translation, the words around Istina say, 'Glasses of knowledge'"
+		}
+	]
+}
