@@ -1,9 +1,9 @@
-- misc (schwarz cup of tea, ch 6): 30 dec 2019
-- misc (hibiscus burger): 17 dec 2019
+- misc (schwarz cup of tea)(ch 6): 30 dec 2019
+- misc (hibiscus burger) (ri_break): 17 dec 2019
 - code of brawl: 20 nov 2019
 - op intelligence: 24 oct 2019
-misc (karlan + ursus): 23 sep 2019
-working (ptilopsis notif): 16 aug 2019
+- misc (karlan + ursus) (rumors): 23 sep 2019
+- working (ptilopsis notif): 16 aug 2019
 amiya: 9 aug 2019
 chen nom: 19 jul 2019
 words: 19 jul 2019
@@ -17,3 +17,6 @@ checklist:
 	stickers (usually 16 count)
 	README.txt
 	info.json
+
+TODO:
+	
