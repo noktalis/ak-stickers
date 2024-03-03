@@ -21,5 +21,4 @@ checklist:
 TODO:
 	all amiya (decide quality control)
 	words
-	set 1 alt text
 	set 2 alt text
