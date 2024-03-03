@@ -4,8 +4,8 @@
 - op intelligence: 24 oct 2019
 - misc (karlan + ursus) (rumors): 23 sep 2019
 - working (ptilopsis notif): 16 aug 2019
-amiya: 9 aug 2019
-chen nom: 19 jul 2019
+all amiya: 9 aug 2019
+chen nom (lungmen): 19 jul 2019
 words: 19 jul 2019
 misc (amiya doing thing with hands, chen busts down door): jul 4 2019
 lesbians (franka and liskarm): 22 may 2019
@@ -19,4 +19,5 @@ checklist:
 	info.json
 
 TODO:
-	
+	all amiya (decide quality control)
+	words
