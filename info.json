@@ -829,6 +829,103 @@
 		]
 	},
 	{
+		"pack":"set2",
+		"fullname":"Set 2",
+		"cn-date":"2019-04-29",
+		"cn-src":null,
+		"en-date":null,
+		"en-src":null,
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726385713490378752/sticker-pack-2",
+		"tumblr-source2":null,
+		"en-edit":false,
+		"stickers":[
+			{
+				"key":0,
+				"name":"amiya_sheepish",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/amiya_sheepish.png",
+				"alt":"Amiya smiles sheepishly with only her right eye closed. Two bandaids are on her head, forming a cross. She reaches up for the back of her head with her left arm, adding to her sheepishness. According to Xue, the words along the bottom read, 'Ehe :star:'"
+			},
+			{
+				"key":1,
+				"name":"amiya_confused",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/amiya_confused.png",
+				"alt":"Amiya reaches up for the back her head with her left arm, two bandaids forming a cross on her right side of her head. Her expression is unsure. According to Xue, the words along the left read, 'What just happened'"
+			},
+			{
+				"key":2,
+				"name":"amiya_tear",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/amiya_tear.png",
+				"alt":"Amiya reaches up for the back her head with her left arm, two bandaids forming a cross on her right side of her head. She has her eyes closed with tears leaking from her eyes as she smiles awkwardly. According to Xue, the word at the top left corner reads, 'Oh.'"
+			},
+			{
+				"key":3,
+				"name":"lappland_best",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/lappland_best.png",
+				"alt":"Lappland winks with her left eye. She has a cocky grin with her left fist on her hip and her right arm extended holding her sword. According to Xue, the words in the top left corner reads, 'Best'"
+			},
+			{
+				"key":4,
+				"name":"texas_rush",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/texas_rush.png",
+				"alt":"Texas carries a large box with a smaller, flat box on top. She breaks out into a sweat while running. According the Xue, the text along the left reads, 'Coming!!'"
+			},
+			{
+				"key":5,
+				"name":"texas_fall",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/texas_fall.png",
+				"alt":"Texas has her eyes closed as the image zooms in on her face, implying that she tripped. She appears to be holding two boxes in her arms, although her arms have been cut out of frame. According to Xue, the word in the top left reads, 'AH!'"
+			},
+			{
+				"key":6,
+				"name":"exusiai_yo",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/exusiai_yo.png",
+				"alt":"Exusiai wears a smug expression as she holds a Penguin Logisitics tablet or clipboard in her left hand. She holds something shaped like a thick pen in her right hand. According to Xue, the word in the top left corner reads, 'Yo'"
+			},
+			{
+				"key":7,
+				"name":"exusiai_work",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/exusiai_work.png",
+				"alt":"Exusiai's tongue sticks out at the corner of her mouth, conveying mischieviousness. She's holding something shaped like a thick pen in her right hand and a board in her right. According to an uncertain Xue, the words along the left probably read, 'You haven't worked yourself to death yet?'"
+			},
+			{
+				"key":8,
+				"name":"kaltsit_doctor",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/kaltsit_doctor.png",
+				"alt":"Kal'tsit wears a stethoscope on her cat ears. She stoically holds out the chest piece of the stethoscope, as if pressing it against someone's chest. According to Xue, the words along the bottom read, 'I doubt you're sick'"
+			},
+			{
+				"key":9,
+				"name":"kaltsit_disapprove",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/kaltsit_disapprove.png",
+				"alt":"Kal'tsit wears a stethoscope as the image zooms in on her face. She's wearing a disapproving expression. According the Xue, the words along the bottom read, 'Any objections?'"
+			},
+			{
+				"key":10,
+				"name":"chen_boss",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/chen_boss.png",
+				"alt":"Ch'en has her mouth open like she's in the middle of talking hastily about something. Her arms are crossed and her left eye is closed. It seems like she's sitting in a chair with a backrest. According to Xue, the words along the top read, 'Yeah, yeah, go ahead'"
+			},
+			{
+				"key":11,
+				"name":"chen_disapprove",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/amiya_sheepish.png",
+				"alt":"Ch'en seems to be glaring at something with her arms crossed. According to Xue, the words along the bottom read, 'Every time you open your mouth, it's trouble'"
+			},
+			{
+				"key":12,
+				"name":"emperor_tired",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/emperor_tired.png",
+				"alt":"Emperor seems to be laying down or heavily reclined as the bottom of his beak is visible. A snot bubble is forming from his nostril, signifying he is asleep. According to Xue, the words along the left read, 'Exhausted'"
+			},
+			{
+				"key":13,
+				"name":"misha_sulk",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set2/misha_sulk.png",
+				"alt":"Misha seems to be curled up while sitting on the floor, although the frame is cut off at around her chest. There's a bandaid on her right cheek, and a speech bubble indicates her silence. According to Xue, the words along the right possibly read, 'Go away.'"
+			}
+		]
+	},
+	{
 		"pack":"set1",
 		"fullname":"Set 1",
 		"cn-date":"2019-04-29",
