@@ -13,3 +13,13 @@ bunnies (angelina has a star wand): 12 feb 2020
 all chen: 29 jan 2020
 cny2020 (amiya party popper): 21 jan 2020
 mostima: 7 dec 2020
+
+checklist:
+	stickers (usually 16 count)
+	README.txt
+	info.json
+
+TODO:
+
+
+
