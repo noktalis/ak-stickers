@@ -19,7 +19,6 @@ checklist:
 	info.json
 
 TODO:
-	all_amiya (info json)
 	set 4
 	set 5
 	set 6
