@@ -21,4 +21,5 @@ checklist:
 TODO:
 	set 5 (import, info json)
 	set 6 (import, info json)
-	set 7
+	set 7 (import, info json)
+	
