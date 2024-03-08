@@ -19,7 +19,7 @@ checklist:
 	info.json
 
 TODO:
-	set 5 (import, info json)
+	set 5 (info json)
 	set 6 (import, info json)
 	set 7 (import, info json)
 	ch5 (import, info json)

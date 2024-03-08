@@ -1,0 +1,19 @@
+{
+	"pack":"set5",
+	"fullname":"Set 5",
+	"cn-date":"2019-05-22",
+	"cn-src":null,
+	"en-date":null,
+	"en-src":null,
+	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726368214167207937/everyday-rhodes-i-12",
+	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726371132360491008/sticker-pack-5-22",
+	"en-edit":false,
+	"stickers":[
+		{
+			"key":0,
+			"name":"sticker_name",
+			"href":"https://noktalis.github.io/ak-stickers/year/pack/sticker_name.png",
+			"alt":"Alttext"
+		}
+	]
+}
