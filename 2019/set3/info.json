@@ -13,43 +13,50 @@
 			"key":0,
 			"name":"silence_sus",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/silence_sus.png",
-			"alt":"Silence glances over her shoulder with a dubious expression. According to Xue, the words along the left read, 'What are you doing?'"
+			"alt":"Silence glances over her shoulder with a dubious expression. According to Xue, the words along the left read, 'What are you doing?'",
+			"caption":"What are you doing"
 		},
 		{
 			"key":1,
 			"name":"ptilo_shock",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/ptilo_shock.png",
-			"alt":"Ptilopsis has her eyes wide open like she's been surprised. According to Xue, the words along the left read, 'Shocked'"
+			"alt":"Ptilopsis has her eyes wide open like she's been surprised. According to Xue, the words along the left read, 'Shocked'",
+			"caption":"Shocked"
 		},
 		{
 			"key":2,
 			"name":"ifrit_gremlin",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/ifrit_gremlin.png",
-			"alt":"Ifrit grins mischieviously as she holds a test tube in her left hand and what seems to be a flask in her right hand. According to Xue, the words along the top read, 'Causing an accident'"
+			"alt":"Ifrit grins mischieviously as she holds a test tube in her left hand and what seems to be a flask in her right hand. According to Xue, the words along the top read, 'Causing an accident'",
+			"caption":"Causing an accident"
 		},
 		{
 			"key":3,
 			"name":"kal_interest",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/kal_interest.png",
-			"alt":"Kal'tsit has a mug in her right hand while she holds her chin with her left in thought. Her interest seems to be piqued. According to Xue, the words beside Kal'tsit read, 'Is that so?'"
+			"alt":"Kal'tsit has a mug in her right hand while she holds her chin with her left in thought. Her interest seems to be piqued. According to Xue, the words beside Kal'tsit read, 'Is that so?'",
+			"caption":"Is that so"
 		},
 		{
 			"key":4,
 			"name":"silence_carefree",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/silence_carefree.png",
-			"alt":"Silence holds a round flask with a sprout and soil inside. Her eyes are closed and her mouth is open, as if caught blinking in the middle of an explanation. According to Xue, the words along the left read, 'Feeling carefree'"
+			"alt":"Silence holds a round flask with a sprout and soil inside. Her eyes are closed and her mouth is open, as if caught blinking in the middle of an explanation. According to Xue, the words along the left read, 'Feeling carefree.'",
+			"caption":"Feeling carefree"
 		},
 		{
 			"key":5,
 			"name":"ptilo_trouble",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/ptilo_trouble.png",
-			"alt":"Ptilopsis takes on a grave and determined expression upon learning something surprising. She has her staff in her left hand and papers in her right. According to Xue, the words along the right read, 'Aw crap.'"
+			"alt":"Ptilopsis takes on a grave and determined expression upon learning something surprising. She has her staff in her left hand and papers in her right. According to Xue, the words along the right read, 'Aw crap.'",
+			"caption":"Aw crap."
 		},
 		{
 			"key":6,
 			"name":"ifrit_here",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/ifrit_here.png",
-			"alt":"The image is very zoomed in to focus on Ifrit's face. Her expression is fanatically crazed, and her mouth is wide open in a grin. According to Xue, the words along the bottom read, 'HERE!!!'"
+			"alt":"The image is very zoomed in to focus on Ifrit's face. Her expression is fanatically crazed, and her mouth is wide open in a grin. According to Xue, the words along the bottom read, 'HERE!!!'",
+			"caption":"HERE!!!"
 		},
 		{
 			"key":7,
@@ -61,37 +68,43 @@
 			"key":8,
 			"name":"croissant_wink",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/croissant_wink.png",
-			"alt":"The image is zoomed in on Croissant's face, winking with her right eye. She has a toothy grin. According to Xue, the words along the bottom read, 'Leave it to me'"
+			"alt":"The image is zoomed in on Croissant's face, winking with her right eye. She has a toothy grin. According to Xue, the words along the bottom read, 'Leave it to me!'",
+			"caption":"Leave it to me"
 		},
 		{
 			"key":9,
 			"name":"hoshi_hey",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/hoshi_hey.png",
-			"alt":"The image is zoomed in on Hoshiguma's face. Her eyes are wide and her pupils are vertical slits. Her smile is wider than usual, showing her razor sharp teeth. According to Xue, the words along the top read, 'Hey hey'"
+			"alt":"The image is zoomed in on Hoshiguma's face. Her eyes are wide and her pupils are vertical slits. Her smile is wider than usual, showing her razor sharp teeth. According to Xue, the words along the top read, 'Hey hey.'",
+			"caption":"Hey hey"
 		},
 		{
 			"key":10,
 			"name":"chen_yum",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/chen_yum.png",
-			"alt":"Ch'en has her mouth open in the middle of taking a bite out of something in her hand. According to Xue, the words along the left read, 'Yummy!!'"
+			"alt":"Ch'en has her mouth open in the middle of taking a bite out of something in her hand. According to Xue, the words along the left read, 'Yummy!!'",
+			"caption":"Yummy!!"
 		},
 		{
 			"key":11,
 			"name":"wei_ok",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/wei_ok.png",
-			"alt":"Wei Yenwu has a smugly pleased expression as he leans into his right elbow on a table. His smoking pipe is also in his right hand. According to Xue, the words along the left read, 'I think it is ok'"
+			"alt":"Wei Yenwu has a smugly pleased expression as he leans into his right elbow on a table. His smoking pipe is also in his right hand. According to Xue, the words along the left read, 'I think it is ok.'",
+			"caption":"I think it is ok"
 		},
 		{
 			"key":12,
 			"name":"croissant_fish",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/croissant_fish.png",
-			"alt":"Croissant holds a tray with both hands. A raw fish is about to fall onto the tray. According to Xue, the words along the bottom read, 'Eating meat~'"
+			"alt":"Croissant holds a tray with both hands. A raw fish is about to fall onto the tray. According to Xue, the words along the bottom read, 'Eating meat~'",
+			"caption":"Eating meat~"
 		},
 		{
 			"key":13,
 			"name":"hoshi_hoh",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/hoshi_hoh.png",
-			"alt":"Hoshiguma looks apprehensive, like she just heard something she didn't particularly like. Her mouth is partially open as sweat beads on her face. According to Xue, the word on the left reads, 'Hoh'"
+			"alt":"Hoshiguma looks apprehensive, like she just heard something she didn't particularly like. Her mouth is partially open as sweat beads on her face. According to Xue, the word on the left reads, 'Hoh.'",
+			"caption":"Hoh"
 		},
 		{
 			"key":14,
@@ -103,7 +116,8 @@
 			"key":15,
 			"name":"wei_smug",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set3/wei_smug.png",
-			"alt":"Wei Yenwu leans into on his right elbow on a table while holding his smoking pipe. He has a deviously smug expression. According to Xue, the words along the left read, 'Yeah, can ya?'"
+			"alt":"Wei Yenwu leans into on his right elbow on a table while holding his smoking pipe. He has a deviously smug expression. According to Xue, the words along the left read, 'Yeah, can ya?'",
+			"caption":"Yeah, can ya"
 		}
 	]
 }
