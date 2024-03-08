@@ -504,7 +504,8 @@
 				"key":0,
 				"name":"silverash_yo",
 				"href":"https://noktalis.github.io/ak-stickers/2019/rumors/silverash_yo.png",
-				"alt":"SilverAsh is laying on his stomach. A person seems to have caught his attention, as he raises his left hand in greeting. According to Xue's translation, SilverAsh says, 'Yo!' A rainbow is emitting from his back for some reason."
+				"alt":"SilverAsh is laying on his stomach. A person seems to have caught his attention, as he raises his left hand in greeting. According to Xue's translation, SilverAsh says, 'Yo!' A rainbow is emitting from his back for some reason.",
+				"caption":"Yo!"
 			},
 			{
 				"key":1,
@@ -516,13 +517,15 @@
 				"key":2,
 				"name":"pramanix_dread",
 				"href":"https://noktalis.github.io/ak-stickers/2019/rumors/pramanix_dread.png",
-				"alt":"Pramanix trembles and sweats bullets with an anxious expression. According to Xue's translation, Pramanix exclaims something along the lines of, 'Forced into a life of labor!!'"
+				"alt":"Pramanix trembles and sweats bullets with an anxious expression. According to Xue's translation, Pramanix exclaims something along the lines of, 'Forced into a life of labor!!'",
+				"caption":"Forced into a life of labor!!"
 			},
 			{
 				"key":3,
 				"name":"pramanix_murder",
 				"href":"https://noktalis.github.io/ak-stickers/2019/rumors/pramanix_murder.png",
-				"alt":"Pramanix looms menacingly, radiating an aura of doom and gloom. There's a shadow over her eyes as they glint with a desire for violence. In her right hand is a bell, stained with blood as if it had been used to inflict blunt force trauma. According to Xue's translation, the words around Pramanix say, 'I'm starting to feel like murder'"
+				"alt":"Pramanix looms menacingly, radiating an aura of doom and gloom. There's a shadow over her eyes as they glint with a desire for violence. In her right hand is a bell, stained with blood as if it had been used to inflict blunt force trauma. According to Xue's translation, the words around Pramanix say, 'I'm starting to feel like murder.'",
+				"caption":"I'm starting to feel like murder"
 			},
 			{
 				"key":4,
@@ -552,13 +555,15 @@
 				"key":8,
 				"name":"matterhorn_sneeze",
 				"href":"https://noktalis.github.io/ak-stickers/2019/rumors/matterhorn_sneeze.png",
-				"alt":"Matterhorn lets out a great, big sneeze, going 'Achoo!!'"
+				"alt":"Matterhorn lets out a great, big sneeze, going 'Achoo!!'",
+				"caption":"Achoo!!"
 			},
 			{
 				"key":9,
 				"name":"matterhorn_aaa",
 				"href":"https://noktalis.github.io/ak-stickers/2019/rumors/matterhorn_aaa.png",
-				"alt":"Matterhorn stares up at something with apprehension and disbelief. According to Xue's translating, Matterhorn is going, 'aaaaaaaaaa'"
+				"alt":"Matterhorn stares up at something with apprehension and disbelief. According to Xue's translating, Matterhorn is going, 'aaaaaaaaaa'",
+				"caption":"aaaaaaaaaa"
 			},
 			{
 				"key":10,
@@ -594,7 +599,8 @@
 				"key":15,
 				"name":"istina_glasses",
 				"href":"https://noktalis.github.io/ak-stickers/2019/rumors/istina_glasses.png",
-				"alt":"Istina has a sharp look in her eyes as there's a glint at the corner of her right eye. She's pushing up her glasses with her left hand. According to Xue's translation, the words around Istina say, 'Glasses of knowledge'"
+				"alt":"Istina has a sharp look in her eyes as there's a glint at the corner of her right eye. She's pushing up her glasses with her left hand. According to Xue's translation, the words around Istina say, 'Glasses of knowledge.'",
+				"caption":"Glasses of knowledge"
 			}
 		]
 	},
