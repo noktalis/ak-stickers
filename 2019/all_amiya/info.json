@@ -28,12 +28,6 @@
 			"alt":"Amiya has her right hand on her hip while her left pinky scratches at her rabbit ear. Amiya has a thought bubble of text. The official translation is, 'here we go again'"
 		},
 		{
-			"key":3,
-			"name":"amiya_trouble_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_trouble_en.png",
-			"alt":"Amiya has her right hand on her hip while her left pinky scratches at her rabbit ear. She has a thought bubble that says, 'here we go again'"
-		},
-		{
 			"key":4,
 			"name":"amiya_punch",
 			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_punch.png",
@@ -56,12 +50,6 @@
 			"name":"amiya_point",
 			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_point.png",
 			"alt":"Amiya points at someone that isn't in frame. She appears to be smiling as she says something. According to the official translation, Amiya is saying, 'are you even human'"
-		},
-		{
-			"key":8,
-			"name":"amiya_point_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_point_en.png",
-			"alt":"Amiya points at someone that isn't in frame. She appears to be smiling as she says, 'are you even human'"
 		},
 		{
 			"key":9,
@@ -94,12 +82,6 @@
 			"alt":"Amiya looks down at a piece of paper with a shadow over her face. Despite her smile, it does not seem like good news. According to the official translation, she shouts, 'back to grinding'"
 		},
 		{
-			"key":14,
-			"name":"amiya_work_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_work_en.png",
-			"alt":"Amiya looks down at a piece of paper with a shadow over her face. Despite her smile, it does not seem like good news. She shouts, 'back to grinding'"
-		},
-		{
 			"key":15,
 			"name":"amiya_wow",
 			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_wow.png",
@@ -122,6 +104,24 @@
 			"name":"amiya_despair",
 			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_despair.png",
 			"alt":"Amiya is reduced to grayscale as she gloomily looks down in despair."
+		},
+		{
+			"key":3,
+			"name":"amiya_trouble_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_trouble_en.png",
+			"alt":"Amiya has her right hand on her hip while her left pinky scratches at her rabbit ear. She has a thought bubble that says, 'here we go again'"
+		},
+		{
+			"key":8,
+			"name":"amiya_point_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_point_en.png",
+			"alt":"Amiya points at someone that isn't in frame. She appears to be smiling as she says, 'are you even human'"
+		},
+		{
+			"key":14,
+			"name":"amiya_work_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/all_amiya/amiya_work_en.png",
+			"alt":"Amiya looks down at a piece of paper with a shadow over her face. Despite her smile, it does not seem like good news. She shouts, 'back to grinding'"
 		}
 	]
 }
