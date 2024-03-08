@@ -25,13 +25,8 @@
 			"key":2,
 			"name":"mayer_frenzy",
 			"href":"https://noktalis.github.io/ak-stickers/2019/working/mayer_frenzy.png",
-			"alt":"Mayer grins with frenzied elation, her left index finger hovering over a remote in her right hand. According to Xue, the Chinese text above her head translates to, 'It's fine if I do it again! There's no way it'll hurt!'"
-		},
-		{
-			"key":3,
-			"name":"mayer_frenzy_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/working/mayer_frenzy_en.png",
-			"alt":"Mayer grins with frenzied elation, her left index finger hovering over a remote in her right hand. The text above her head says, 'It won't hurt!'"
+			"alt":"Mayer grins with frenzied elation, her left index finger hovering over a remote in her right hand. According to Xue, the Chinese text above her head translates to, 'It's fine if I do it again! There's no way it'll hurt!'",
+			"caption":"It's fine if I do it again! There's no way it'll hurt!"
 		},
 		{
 			"key":4,
@@ -110,6 +105,12 @@
 			"name":"emperor_sip",
 			"href":"https://noktalis.github.io/ak-stickers/2019/working/emperor_sip.png",
 			"alt":"Emperor loudly sips from a wine glass. The speech bubble above him presumably says 'Sip—' in Chinese."
+		},
+		{
+			"key":3,
+			"name":"mayer_frenzy_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/working/mayer_frenzy_en.png",
+			"alt":"Mayer grins with frenzied elation, her left index finger hovering over a remote in her right hand. The text above her head says, 'It won't hurt!'"
 		},
 		{
 			"key":17,
