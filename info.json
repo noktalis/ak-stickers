@@ -1091,31 +1091,36 @@
 				"key":0,
 				"name":"amiya_stare",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/amiya_stare.png",
-				"alt":"Amiya stares down at something with a blank expression. According to Xue, she says, 'Mm (yes).'"
+				"alt":"Amiya stares down at something with a blank expression. According to Xue, she says, 'Mm (yes).'",
+				"caption":"Mm (yes)."
 			},
 			{
 				"key":1,
 				"name":"amiya_search",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/amiya_search.png",
-				"alt":"Amiya looms over the viewer, her face covered in a dark shadow. According to Xue, she says, 'Are you here?'"
+				"alt":"Amiya looms over the viewer, her face covered in a dark shadow. According to Xue, she says, 'Are you here?'",
+				"caption":"Are you here?"
 			},
 			{
 				"key":2,
 				"name":"doctor_amiya_pat",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/doctor_amiya_pat.png",
-				"alt":"Doctor comfortingly pats the head of a fretting Amiya. According to Xue, the words above them are a 'pat pat' sound effect."
+				"alt":"Doctor comfortingly pats the head of a fretting Amiya. According to Xue, the words above them are a 'pat pat' sound effect.",
+				"caption":"SFX: pat pat"
 			},
 			{
 				"key":3,
 				"name":"doctor_rise",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/doctor_rise.png",
-				"alt":"Doctor lays in bed, their hands folded on their chest. Although their face is totally obscured by their helmet, two white dots indicate their eyes are wide open and they are wake. According to Xue, the words next to them say, 'I RISE.'"
+				"alt":"Doctor lays in bed, their hands folded on their chest. Although their face is totally obscured by their helmet, two white dots indicate their eyes are wide open and they are wake. According to Xue, the words next to them say, 'I RISE.'",
+				"caption":"I RISE."
 			},
 			{
 				"key":4,
 				"name":"amiya_nah",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/amiya_nah.png",
-				"alt":"Amiya holds up her right hand, waving it side to side in polite declination. According to Xue, she says, 'That's not the case.'"
+				"alt":"Amiya holds up her right hand, waving it side to side in polite declination. According to Xue, she says, 'That's not the case.'",
+				"caption":"That's not the case."
 			},
 			{
 				"key":5,
@@ -1127,31 +1132,36 @@
 				"key":6,
 				"name":"feater_complain",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/feater_complain.png",
-				"alt":"FEater has her eyes closed in dramatic agony as she loudly complains. According to Xue, she says, 'I'm always dealing with the shit end of the stick'"
+				"alt":"FEater has her eyes closed in dramatic agony as she loudly complains. According to Xue, she says, 'I'm always dealing with the shit end of the stick!'",
+				"caption":"I'm always dealing with the shit end of the stick"
 			},
 			{
 				"key":7,
 				"name":"doctor_sleep",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/doctor_sleep.png",
-				"alt":"Doctor lays in bed, their hands folded on their chest. According to Xue, the words next to them say, 'sleep like the dead.'"
+				"alt":"Doctor lays in bed, their hands folded on their chest. According to Xue, the words next to them say, 'sleep like the dead.'",
+				"caption":"Sleep like the dead."
 			},
 			{
 				"key":8,
 				"name":"specter_maniac",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/specter_maniac.png",
-				"alt":"The image is zoomed in on Specter's maniacal grin and red eyes. A third of the image is filled a sound effect. According to Xue, the sound effect is along the lines of 'HAHAHAHAHA!!'"
+				"alt":"The image is zoomed in on Specter's maniacal grin and red eyes. A third of the image is filled a sound effect. According to Xue, the sound effect is along the lines of 'HAHAHAHAHA!!'",
+				"caption":"HAHAHAHAHA!!"
 			},
 			{
 				"key":9,
 				"name":"specter_tired",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/specter_tired.png",
-				"alt":"Specter lies face down like a starfish while holding her bonesaw in her hands. The text above her consists of the English word 'lay' and a Chinese character. According to Xue, this is a pun on 'lying down' in English and 'tired' in Chinese. Properly translated as a whole, it would be, 'passed out'"
+				"alt":"Specter lies face down like a starfish while holding her bonesaw in her hands. The text above her consists of the English word 'lay' and a Chinese character. According to Xue, this is a pun on 'lying down' in English and 'tired' in Chinese. Properly translated as a whole, it would be, 'passed out'",
+				"caption":"Passed out."
 			},
 			{
 				"key":10,
 				"name":"myrrh_nom",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/myrrh_nom.png",
-				"alt":"Myrrh chews a tuft of grass in her mouth. According to Xue, the sound effect is 'nom.'"
+				"alt":"Myrrh chews a tuft of grass in her mouth. According to Xue, the sound effect is 'nom.'",
+				"caption":"SFX: nom."
 			},
 			{
 				"key":11,
@@ -1163,13 +1173,15 @@
 				"key":12,
 				"name":"kal_glug",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/kal_glug.png",
-				"alt":"Kal'tsit has her left hand on her hip while she uses her right hand to chug from a mug. According to Xue, the sound effect is 'glug glug glug'"
+				"alt":"Kal'tsit has her left hand on her hip while she uses her right hand to chug from a mug. According to Xue, the sound effect is 'glug glug glug.'",
+				"caption":"SFX: glug glug glug"
 			},
 			{
 				"key":13,
 				"name":"kal_attack",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/kal_attack.png",
-				"alt":"Kal'tsit dramatically points to attack something while Mon3tr looms over her shoulder. A red gleam over Mon3tr's head threatens danger. According to Xue, Kal'tsit says something along the lines of, 'Get them.'"
+				"alt":"Kal'tsit dramatically points to attack something while Mon3tr looms over her shoulder. A red gleam over Mon3tr's head threatens danger. According to Xue, Kal'tsit says something along the lines of, 'Get them.'",
+				"caption":"Get them."
 			},
 			{
 				"key":14,
@@ -1181,7 +1193,8 @@
 				"key":15,
 				"name":"admins_return",
 				"href":"https://noktalis.github.io/ak-stickers/2019/set4/admins_return.png",
-				"alt":"Kal'tsit and Amiya walk away from the viewer. The Doctor is being dragged between them by their arms, Kal'tsit on their right and Amiya on their left. According to Xue, the words beside them read, 'Returning.'"
+				"alt":"Kal'tsit and Amiya walk away from the viewer. The Doctor is being dragged between them by their arms, Kal'tsit on their right and Amiya on their left. According to Xue, the words beside them read, 'Returning.'",
+				"caption":"Returning."
 			}
 		]
 	},
@@ -1193,7 +1206,7 @@
 		"en-date":null,
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726379946419929088/sticker-pack-3-12",
-		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726382854050824192/sticker-pack-3-22",
+	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726382854050824192/sticker-pack-3-22",
 		"en-edit":false,
 		"stickers":[
 			{
