@@ -22,12 +22,6 @@
 			"alt":"Breeze grins as she affectionately pets a fox. Alongside them are the words 'mofu mofu' that indicate the fox is very soft and fluffy to the touch."
 		},
 		{
-			"key":2,
-			"name":"breeze_floof_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/breeze_floof_en.png",
-			"alt":"Breeze grins as she affectionately pets a fox. Alongside them is the word 'Floofing' that indicates the fox is fluffy."
-		},
-		{
 			"key":3,
 			"name":"bison_note",
 			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/bison_note.png",
@@ -70,12 +64,6 @@
 			"alt":"Ethan lies facedown on the ground. He's tied up by his own yo-yo, his arms pinned to his sides. The word 'fail' appears above him in both Chinese and English."
 		},
 		{
-			"key":10,
-			"name":"ethan_fail_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/ethan_fail_en.png",
-			"alt":"Ethan lies facedown on the ground. He's tied up by his own yo-yo, his arms pinned to his sides. The word 'failed' appears above him."
-		},
-		{
 			"key":11,
 			"name":"may_drown",
 			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/may_drown.png",
@@ -106,12 +94,6 @@
 			"alt":"Firewatch stands before a button with a deadpan expression. The lid on the button is labelled 'DANGER' and has been removed out of the way. The button makes a sound as Firewatch's finger presses down on it."
 		},
 		{
-			"key":18,
-			"name":"firewatch_button_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/firewatch_button_en.png",
-			"alt":"Firewatch stands before a button with a deadpan expression. The lid on the button is labelled 'DANGER' and has been removed out of the way. The button beeps as Firewatch's finger presses down on it."
-		},
-		{
 			"key":16,
 			"name":"kroos_quiet",
 			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/kroos_quiet.png",
@@ -122,6 +104,24 @@
 			"name":"rope_huh",
 			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/rope_huh.png",
 			"alt":"Rope is confused as she holds up her hook, finding a torn tentacle pierced on one of the claws."
+		},
+		{
+			"key":2,
+			"name":"breeze_floof_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/breeze_floof_en.png",
+			"alt":"Breeze grins as she affectionately pets a fox. Alongside them is the word 'Floofing' that indicates the fox is fluffy."
+		},
+		{
+			"key":10,
+			"name":"ethan_fail_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/ethan_fail_en.png",
+			"alt":"Ethan lies facedown on the ground. He's tied up by his own yo-yo, his arms pinned to his sides. The word 'failed' appears above him."
+		},
+		{
+			"key":18,
+			"name":"firewatch_button_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/firewatch_button_en.png",
+			"alt":"Firewatch stands before a button with a deadpan expression. The lid on the button is labelled 'DANGER' and has been removed out of the way. The button beeps as Firewatch's finger presses down on it."
 		}
 	]
 }
