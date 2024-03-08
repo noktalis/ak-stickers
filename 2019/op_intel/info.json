@@ -16,22 +16,10 @@
 			"alt":"Executor performs a 'percussive maintenance' on a screen with an antenna on its side."
 		},
 		{
-			"key":1,
-			"name":"executor_whack_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_whack_en.png",
-			"alt":"Executor performs a 'percussive maintenance' on a screen with an antenna on its side. It makes a loud 'Thwack-' sound."
-		},
-		{
 			"key":2,
 			"name":"executor_sign",
 			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_sign.png",
 			"alt":"Executors holds out a document in his left hand and a pen in his right, telling someone to sign."
-		},
-		{
-			"key":3,
-			"name":"executor_sign_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_sign_en.png",
-			"alt":"Executors holds out a document in his left hand and a pen in his right, telling someone, 'Sign here.'"
 		},
 		{
 			"key":4,
@@ -58,12 +46,6 @@
 			"alt":"Vermeil sniffs the air with her eyes closed and her ears perked up. The sniffing sound effect is written in Chinese."
 		},
 		{
-			"key":8,
-			"name":"vermeil_sniff_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_sniff_en.png",
-			"alt":"Vermeil sniffs the air with her eyes closed and her ears perked up. The sniffing sound effect is written in English."
-		},
-		{
 			"key":9,
 			"name":"vermeil_frustration",
 			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_frustration.png",
@@ -74,12 +56,6 @@
 			"name":"amiya_spray",
 			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/amiya_spray.png",
 			"alt":"Amiya wears a gas mask as she sprays a bottle of disinfectant."
-		},
-		{
-			"key":11,
-			"name":"amiya_spray_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/amiya_spray_en.png",
-			"alt":"Amiya wears a gas mask as she sprays a bottle of disinfectant. The bottle makes a 'Pschitt' sound."
 		},
 		{
 			"key":12,
@@ -100,12 +76,6 @@
 			"alt":"Silence scans Doctor's head with a handheld device. It makes a sound as it completes the scan."
 		},
 		{
-			"key":15,
-			"name":"silence_scan_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_scan_en.png",
-			"alt":"Silence scans Doctor's head with a handheld device. It goes 'Beep!' as it completes the scan."
-		},
-		{
 			"key":16,
 			"name":"silence_shout",
 			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_shout.png",
@@ -124,12 +94,6 @@
 			"alt":"Jessica sits in a crater with her knees under her chin. Her tail is curled around her body as she hugs her knees. A shovel lies at her feet. The words 'I'm fine' caption the image."
 		},
 		{
-			"key":19,
-			"name":"jessica_depression_en",
-			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/jessica_depression_en.png",
-			"alt":"Jessica sits in a crater with her knees under her chin. Her tail is curled around her body as she hugs her knees. A shovel lies at her feet. Under the crater are the words, 'This is fine.'"
-		},
-		{
 			"key":20,
 			"name":"meteorite_camera",
 			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/meteorite_camera.png",
@@ -140,6 +104,42 @@
 			"name":"meteorite_explosion",
 			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/meteorite_explosion.png",
 			"alt":"Cool operators don't look at explosions, they blow things up and walk away. Meteorite does exactly this with a bored expression, unphased by the explosion behind her."
+		},
+		{
+			"key":1,
+			"name":"executor_whack_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_whack_en.png",
+			"alt":"Executor performs a 'percussive maintenance' on a screen with an antenna on its side. It makes a loud 'Thwack-' sound."
+		},
+		{
+			"key":3,
+			"name":"executor_sign_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_sign_en.png",
+			"alt":"Executors holds out a document in his left hand and a pen in his right, telling someone, 'Sign here.'"
+		},
+		{
+			"key":8,
+			"name":"vermeil_sniff_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_sniff_en.png",
+			"alt":"Vermeil sniffs the air with her eyes closed and her ears perked up. The sniffing sound effect is written in English."
+		},
+		{
+			"key":11,
+			"name":"amiya_spray_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/amiya_spray_en.png",
+			"alt":"Amiya wears a gas mask as she sprays a bottle of disinfectant. The bottle makes a 'Pschitt' sound."
+		},
+		{
+			"key":15,
+			"name":"silence_scan_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_scan_en.png",
+			"alt":"Silence scans Doctor's head with a handheld device. It goes 'Beep!' as it completes the scan."
+		},
+		{
+			"key":19,
+			"name":"jessica_depression_en",
+			"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/jessica_depression_en.png",
+			"alt":"Jessica sits in a crater with her knees under her chin. Her tail is curled around her body as she hugs her knees. A shovel lies at her feet. Under the crater are the words, 'This is fine.'"
 		}
 	]
 }
