@@ -874,7 +874,8 @@
 				"key":1,
 				"name":"chen_arrest",
 				"href":"https://noktalis.github.io/ak-stickers/2019/lungmen/chen_arrest.png",
-				"alt":"Ch'en is running while holding handcuffs in her left hand. According to Xue, the Chinese text above her translates to 'SOUND THE ALARM!'"
+				"alt":"Ch'en is running while holding handcuffs in her left hand. According to Xue, the Chinese text above her translates to 'SOUND THE ALARM!'",
+				"caption":"SOUND THE ALARM!"
 			},
 			{
 				"key":2,
@@ -892,7 +893,8 @@
 				"key":4,
 				"name":"feater_bored",
 				"href":"https://noktalis.github.io/ak-stickers/2019/lungmen/feater_bored.png",
-				"alt":"FEater crosses her arms with a sullen expression. According to Xue, the Chinese text above her translates to 'sooooo boooooriiiiiingggg.'"
+				"alt":"FEater crosses her arms with a sullen expression. According to Xue, the Chinese text above her translates to 'sooooo boooooriiiiiingggg.'",
+				"caption":"Sooooo boooooriiiiiingggg"
 			},
 			{
 				"key":5,
@@ -922,7 +924,8 @@
 				"key":9,
 				"name":"chen_nom",
 				"href":"https://noktalis.github.io/ak-stickers/2019/lungmen/chen_nom.png",
-				"alt":"Ch'en's eyes shine like stars as she eats something tasty from a bag. The dish takes the form of small, brown circles. The words on the bag are difficult to read due to image quality, but Xue approximates that it says, 'hand-fried egg.'"
+				"alt":"Ch'en's eyes shine like stars as she eats something tasty from a bag. The dish takes the form of small, brown circles. The words on the bag are difficult to read due to image quality, but Xue approximates that it says, 'hand-fried egg.'",
+				"caption":"Hand-fried egg"
 			},
 			{
 				"key":10,
@@ -958,7 +961,8 @@
 				"key":15,
 				"name":"chen_alert",
 				"href":"https://noktalis.github.io/ak-stickers/2019/lungmen/chen_alert.png",
-				"alt":"Ch'en's expression is very serious as if something important has just happened. In her hands is a newspaper that she is no longer looking at. According the Xue, the Chinese text beside Ch'en translate to, 'It's the smell of crime.'"
+				"alt":"Ch'en's expression is very serious as if something important has just happened. In her hands is a newspaper that she is no longer looking at. According the Xue, the Chinese text beside Ch'en translate to, 'It's the smell of crime.'",
+				"caption":"It's the smell of crime"
 			}
 		]
 	},{
