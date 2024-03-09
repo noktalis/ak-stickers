@@ -965,7 +965,186 @@
 				"caption":"It's the smell of crime"
 			}
 		]
-	},{
+	},
+	{
+		"pack":"set6",
+		"fullname":"Set 6/Everyday Lungmen",
+		"cn-date":"2019-06-07",
+		"cn-src":null,
+		"en-date":null,
+		"en-src":"https://www.arknights.global/fankit",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726362383735554048/everyday-lungmen-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726365202258542592/everyday-lungmen-12",
+		"en-edit":true,
+		"stickers":[
+			{
+				"key":0,
+				"name":"fumizuki_thanks",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/fumizuki_thanks.png",
+				"alt":"Fumizuki bows her head in thanks. According to Xue, the text on the left reads, 'Thank you for your hard work'",
+				"caption":"Thank you for your hard work"
+			},
+			{
+				"key":1,
+				"name":"chen_salute",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/chen_salute.png",
+				"alt":"Ch'en stands at attention and salutes with her right arm. According to Xue, she says, 'Orders received.'",
+				"caption":"Orders received."
+			},
+			{
+				"key":2,
+				"name":"chen_shoo",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/chen_shoo.png",
+				"alt":"Ch'en furiously swats at some originium slugs with her sword. According to the official translation, the sound effect is 'shoo shoo shoo'"
+			},
+			{
+				"key":3,
+				"name":"empty_wallet",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/empty_wallet.png",
+				"alt":"An empty wallet is held by Wei Yenwu's left hand, while his right hand motions to how empty it is."
+			},
+			{
+				"key":4,
+				"name":"hoshi_cheer",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/hoshi_cheer.png",
+				"alt":"Hoshiguma smiles as she holds up a mug of foamy beer. Above her is the word, 'Cheer!'"
+			},
+			{
+				"key":5,
+				"name":"talulah_tea",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/talulah_tea.png",
+				"alt":"Talulah stoically holds the handle of a teacup in her right hand while holding the saucer in her left."
+			},
+			{
+				"key":6,
+				"name":"shirayuki_peek",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/shirayuki_peek.png",
+				"alt":"Shirayuki peeks her head out from behind a concrete pole convered in papers."
+			},
+			{
+				"key":7,
+				"name":"weasel_top",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/weasel_top.png",
+				"alt":"The head and forearms of a white long-tailed weasel. A black bandana is tied around its left forearm, a reference to Shirayuki."
+			},
+			{
+				"key":8,
+				"name":"hoshi_stroll",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/hoshi_stroll.png",
+				"alt":"Hoshiguma smiles as she motions for someone to come closer with her right hand. According to Xue, she says, 'Go on a trip with me.'",
+				"caption":"Go on a trip with me"
+			},
+			{
+				"key":9,
+				"name":"amiya_think",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/amiya_think.png",
+				"alt":"Bunny Amiya sits in the corner of the image. A thought bubble indicates that she's thinking of carrots. According to Xue, the words on the left read, 'Earnest contemplation'",
+				"caption":"Earnest contemplation"
+			},
+			{
+				"key":10,
+				"name":"shaw_warning",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/shaw_warning.png",
+				"alt":"The image is draw in the style of a safety sign. The background is a light green while everything else is drawn as black silhouettes. Shaw is drawn standing on an elevated platform and using a water hose to blast a person on the lower platform into falling over. According to the official translation, along the bottom it reads, 'Watch Your Step'"
+			},
+			{
+				"key":11,
+				"name":"weasel_middle",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/weasel_middle.png",
+				"alt":"The middle section of a white long-tailed weasel. Without context, it just looks like a pair of parallel lines."
+			},
+			{
+				"key":12,
+				"name":"wei_chilling",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/wei_chilling.png",
+				"alt":"Wei Yenwu beams with his eyes closed and his arms crossed. According to Xue, he says, 'Don't mention it!'",
+				"caption":"Don't mention it"
+			},
+			{
+				"key":13,
+				"name":"amiya_fear",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/amiya_fear.png",
+				"alt":"Amiya smiles through the pain with teary eyes as she trembles."
+			},
+			{
+				"key":14,
+				"name":"chen_amiya_glomp",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/chen_amiya_glomp.png",
+				"alt":"Ch'en is taken aback as Bunny Amiya jumps onto Ch'en's face."
+			},
+			{
+				"key":15,
+				"name":"weasel_bottom",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/weasel_bottom.png",
+				"alt":"The end section of a white long-tailed weasel, although the tail itself in this image is quite short so the length probably went elsewhere. Included are the tail, hind legs, and hind quarters of the weasel."
+			},
+			{
+				"key":16,
+				"name":"sheep_speak",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/sheep_speak.png",
+				"alt":"The image is zoomed in on a face that looks a lot like Temmie from Undertale. According to Xue, the words along the right read, 'You speak in sheep noises.'",
+				"caption":"You speak in sheep noises"
+			},
+			{
+				"key":17,
+				"name":"skele_hardship",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/skele_hardship.png",
+				"alt":"A skeleton with rabbit ears taped to its skull, facing left. According to Xue, the words next to it read, 'Killing me with hardship.'",
+				"caption":"Killing me with hardship"
+			},
+			{
+				"key":18,
+				"name":"skele_too",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/skele_too.png",
+				"alt":"A skeleton with rabbit ears attached to its skull. Cracks above and under its left eye socket are taped over. The skeleton faces right. According to Xue, the words next to it read, 'I as well.'",
+				"caption":"I as well."
+			},
+			{
+				"key":19,
+				"name":"fumizuki_thanks_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/fumizuki_thanks_en.png",
+				"alt":"Fumizuki bows her head in thanks. She says, 'My deepest gratitude.'"
+			},
+			{
+				"key":20,
+				"name":"chen_salute_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/chen_salute_en.png",
+				"alt":"Ch'en stands at attention and salutes with her right arm. She says, 'Affirmative.'"
+			},
+			{
+				"key":21,
+				"name":"chen_shoo_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/chen_shoo_en.png",
+				"alt":"Ch'en furiously swats at some originium slugs with her sword. She makes a 'Shoo Shoo Shoo' sound."
+			},
+			{
+				"key":22,
+				"name":"hoshi_stroll_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/hoshi_stroll_en.png",
+				"alt":"Hoshiguma smiles as she motions for someone to come closer with her right hand. She says, 'Let's take a stroll.'"
+			},
+			{
+				"key":23,
+				"name":"amiya_think_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/amiya_think_en.png",
+				"alt":"Bunny Amiya sits in the corner of the image. A thought bubble indicates that she's thinking of carrots.",
+				"caption":""
+			},
+			{
+				"key":24,
+				"name":"shaw_warning_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/shaw_warning_en.png",
+				"alt":"The image is draw in the style of a safety sign. The background is a light green while everything else is drawn as black silhouettes. Shaw is drawn standing on an elevated platform and using a water hose to blast a person on the lower platform into falling over. Along the bottom it reads, 'Watch Your Step'"
+			},
+			{
+				"key":25,
+				"name":"wei_chilling_en",
+				"href":"https://noktalis.github.io/ak-stickers/2019/set6/wei_chilling_en.png",
+				"alt":"Wei Yenwu beams with his eyes closed and his arms crossed. He says, ''Tis but a trifling matter.'"
+			}
+		]
+	},
+	{
 		"pack":"set5",
 		"fullname":"Set 5",
 		"cn-date":"2019-05-22",
@@ -1217,7 +1396,7 @@
 		"en-date":null,
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726379946419929088/sticker-pack-3-12",
-	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726382854050824192/sticker-pack-3-22",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726382854050824192/sticker-pack-3-22",
 		"en-edit":false,
 		"stickers":[
 			{
