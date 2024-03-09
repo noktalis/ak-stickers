@@ -19,5 +19,5 @@ checklist:
 	info.json
 
 TODO:
-	ch5 (import, info json)
+	ch5 (info json)
 	set 2 extra (import, info json)
