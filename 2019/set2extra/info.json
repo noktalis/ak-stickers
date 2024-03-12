@@ -1,0 +1,125 @@
+{
+	"pack":"set2extra",
+	"fullname":"Set 2 Extra",
+	"cn-date":"2019-07-19",
+	"cn-src":null,
+	"en-date":null,
+	"en-src":null,
+	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726345206452125696/assorted-stickers",
+	"tumblr-source2":null,
+	"en-edit":false,
+	"stickers":[
+		{
+			"key":0,
+			"name":"chen_boss",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2/chen_boss.png",
+			"alt":"Ch'en has her mouth open like she's in the middle of talking hastily about something. Her arms are crossed and her left eye is closed. It seems like she's sitting in a chair with a backrest. According to Xue, the words along the top read, 'Yeah, yeah, go ahead.'",
+			"caption":"Yeah, yeah, go ahead"
+		},
+		{
+			"key":1,
+			"name":"eyja_sorry",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/eyja_sorry.png",
+			"alt":"Eyjafjalla wears a remorseful expression while clamming up. Her hands are sheepishly held behind her back. According to Xue, the words along the bottom read, 'Sorry...'",
+			"caption":"Sorry..."
+		},
+		{
+			"key":2,
+			"name":"steward_unfunny",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/steward_unfunny.png",
+			"alt":"The image is in grayscale as Steward stands with an unimpressed look. According to Xue, the words along the bottom read, 'You want me to laugh or something?'",
+			"caption":"You want me to laugh or something?"
+		},
+		{
+			"key":3,
+			"name":"wei_ok",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set3/wei_ok.png",
+			"alt":"Wei Yenwu has a smugly pleased expression as he leans into his right elbow on a table. His smoking pipe is also in his right hand. According to Xue, the words along the left read, 'I think it is ok.'",
+			"caption":"I think it is ok"
+		},
+		{
+			"key":4,
+			"name":"ptilo_shock",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set3/ptilo_shock.png",
+			"alt":"Ptilopsis has her eyes wide open like she's been surprised. According to Xue, the words along the left read, 'Shocked'",
+			"caption":"Shocked"
+		},
+		{
+			"key":5,
+			"name":"hoshi_hoh",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set3/hoshi_hoh.png",
+			"alt":"Hoshiguma looks apprehensive, like she just heard something she didn't particularly like. Her mouth is partially open as sweat beads on her face. According to Xue, the word on the left reads, 'Hoh.'",
+			"caption":"Hoh"
+		},
+		{
+			"key":6,
+			"name":"sora_cute",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/sora_cute.png",
+			"alt":"A shadow menacingly falls over Sora's face as she smiles. According to Xue, the words along the bottom read, 'Am I not cute enough?'",
+			"caption":"Am I not cute enough?"
+		},
+		{
+			"key":7,
+			"name":"chen_angry",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/chen_angry.png",
+			"alt":"Only Ch'en head is shown, the image cuts off her face below her nose. Ch'en is shown to be visibly angry by her eyes and the lightning bolts on her head. According to Xue, the words along the top read, 'SUPER ANGRY!'",
+			"caption":"SUPER ANGRY"
+		},
+		{
+			"key":8,
+			"name":"liskarm_here",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/liskarm_here.png",
+			"alt":"Liskarm is decked out in gear, earmuffs over her ears and protective eyewear over her eyes. She seems to be motioning to someone. According to Xue, the words along the left read, 'Over here, please.'",
+			"caption":"Over here please"
+		},
+		{
+			"key":9,
+			"name":"franka_bold",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/franka_bold.png",
+			"alt":"Franka gives a closed-eye smile. Her right rests on a what seems to be a crate while she brings her left hand to her cheek in cheeky praise. Earmuffs sit on her human ears while protective eyewear sits atop her head. According to Xue, the words along the left read, 'That manner of speech is quite big!'",
+			"caption":"That manner of speech is quite big"
+		},
+		{
+			"key":10,
+			"name":"angelina_smile",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/angelina_smile.png",
+			"alt":"Angelina smiles as she stands. She holds up a thumbs up with her left hand and waves with her right hand. According to Xue, the words along the bottom read, 'Unfunny.'",
+			"caption":"Unfunny"
+		},
+		{
+			"key":11,
+			"name":"angelina_lmao",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/angelina_lmao.png",
+			"alt":"The image is zoomed in on Angelina's laughing face. According to Xue, the text along the bottom reads, 'HAHAHAHAHA!'",
+			"caption":"HAHAHAHAHA"
+		},
+		{
+			"key":12,
+			"name":"misha_sulk",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2/misha_sulk.png",
+			"alt":"Misha seems to be curled up while sitting on the floor, although the frame is cut off at around her chest. There's a bandaid on her right cheek, and a speech bubble indicates her silence. According to Xue, the words along the right possibly read, 'Go away.'",
+			"caption":"Go away."
+		},
+		{
+			"key":13,
+			"name":"amiya_fish",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/amiya_fish.png",
+			"alt":"Amiya wears earmuffs and protective eyewear as she holds a pistol with both hands. She frowns and looks upset. According to Xue, the words along the bottom read, 'WHO'S PETTING FISH (SLACKING)?!'",
+			"caption":"WHO'S PETTING FISH"
+		},
+		{
+			"key":14,
+			"name":"amiya_volunteer",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/amiya_volunteer.png",
+			"alt":"Amiya seems to be running with a determined expression. According to Xue, the words along the bottom mean, 'I volunteer as tribute!'",
+			"caption":"I volunteer as tribute"
+		},
+		{
+			"key":15,
+			"name":"cliffheart_wink",
+			"href":"https://noktalis.github.io/ak-stickers/2019/set2extra/cliffheart_wink.png",
+			"alt":"Cliffheart grins and winks at the viewer while in the middle of mountain climbing. According to Xue, the words along the left read, 'Working hard!'",
+			"caption":"Working hard"
+		}
+	]
+}
