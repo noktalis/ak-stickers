@@ -20,6 +20,8 @@ checklist:
 	info.json
 
 TODO:
-
+	afternoon stories (update info, import?, info json)
+	all chen (info json, translate 15, 11)
+	cny2020/ancient forge
 
 
