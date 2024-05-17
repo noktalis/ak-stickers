@@ -1,0 +1,20 @@
+{
+	"pack":"bunnies1",
+	"fullname":"All Rabbits",
+	"cn-date":"2020-02-12",
+	"cn-src":null,
+	"en-date":"2021-03-16",
+	"en-src":"https://twitter.com/ArknightsEN/status/1371808469594992641",
+	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726280550229393408/all-rabbits-12",
+	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726283417910722560/all-rabbits-22",
+	"en-edit":true,
+	"stickers":[
+		{
+			"key":0,
+			"name":"sticker_name",
+			"href":"https://noktalis.github.io/ak-stickers/year/pack/sticker_name.png",
+			"alt":"Alttext",
+			"caption":""
+		}
+	]
+}
