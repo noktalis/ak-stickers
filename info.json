@@ -282,6 +282,138 @@
 		]
 	},
 	{
+		"pack":"cny1",
+		"fullname":"Ancient Forge",
+		"cn-date":"2020-01-21",
+		"cn-src":null,
+		"en-date":"2020-08-07",
+		"en-src":"https://twitter.com/ArknightsEN/status/1291705650523918337",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726292264562851840/ancient-forge-stickers-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726295144935178241/ancient-forge-stickers-22",
+		"en-edit":true,
+		"stickers":[
+			{
+				"key":0,
+				"name":"nian_chili",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/nian_chili.png",
+				"alt":"Nian chews as she holds a chili up in her left hand with chopsticks.",
+				"caption":""
+			},
+			{
+				"key":1,
+				"name":"nian_celebrate",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/nian_celebrate.png",
+				"alt":"Nian cheers with her arms in the air as fireworks and explosions go off in the background.",
+				"caption":""
+			},
+			{
+				"key":2,
+				"name":"snowsant_swet",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/snowsant_swet.png",
+				"alt":"Snowsant sheepishly clutches a red envelope. She sweats in a panic and smiles a bit, like she's been caught having financial difficulty.",
+				"caption":""
+			},
+			{
+				"key":3,
+				"name":"snowsant_doctor_coins",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/snowsant_doctor_coins.png",
+				"alt":"Snowsant looks at a coin she picked up, surprised that it's real money. Another coin is at her feet, along with more coins on the ground creating a trail toward the trap the Doctor has set with a basket, propped up with a stick. The Doctor sits on a rock beside the trap, ready to pull the string and close the trap.",
+				"caption":""
+			},
+			{
+				"key":4,
+				"name":"aak_threat",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/aak_threat.png",
+				"alt":"Aak grins menacingly as he holds up a syringe in his right hand. His left arm seems to be holding the viewer in place.",
+				"caption":""
+			},
+			{
+				"key":5,
+				"name":"aak_kidnap",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/aak_kidnap.png",
+				"alt":"Aak looks like a deer in headlights as he is caught red-handed by Kal'tsit in the middle of kidnapping Doctor. Only Kal'tsit's arm is visible, where her right hand is clenched in a fist with an angry vein popping out. The Doctor is tied up with duct tape, a piece of tape covering their mouth over their helmet.",
+				"caption":""
+			},
+			{
+				"key":6,
+				"name":"hung_sheepish",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/hung_sheepish.png",
+				"alt":"Hung sheepishly smiles as he scratches the back of his head with his left hand.",
+				"caption":""
+			},
+			{
+				"key":7,
+				"name":"hung_discipline",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/hung_discipline.png",
+				"alt":"Hung puts his left hand on his hip, giving a sense of reassurance. Hung's right hand is clenched into a fist that bonks Aak over the head, squishing him down, which is presumably his punishment for mischief.",
+				"caption":""
+			},
+			{
+				"key":8,
+				"name":"swire_gift",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/swire_gift.png",
+				"alt":"Swire beams as she holds a pouch in her right hand. In her left hand, she holds out a red envelope to the viewer.",
+				"caption":""
+			},
+			{
+				"key":9,
+				"name":"jessica_celebrate",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/jessica_celebrate.png",
+				"alt":"Jessica smiles as she fires a gun, causing confetti and streamers to pop out.",
+				"caption":""
+			},
+			{
+				"key":10,
+				"name":"amiya_lancet_snowman",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/amiya_lancet_snowman.png",
+				"alt":"Lancet-2 sits in front of Amiya, a pile of snow on top of them. The pile of snow has been decorated like a snowman's head, with two twigs as horns. Amiya wraps a scarf around the base of the snow pile, giving the snowman a scarf.",
+				"caption":""
+			},
+			{
+				"key":11,
+				"name":"liskarm_franka_flash",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/liskarm_franka_flash.png",
+				"alt":"Liskarm holds up her shield at Franka, blinding Franka with an incredibly bright flash. Franka recoils at the flash, trying to cover her eyes with her hands.",
+				"caption":""
+			},
+			{
+				"key":12,
+				"name":"shining_ticked",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/shining_ticked.png",
+				"alt":"Shining looks at the viewer while holding her sword with her right hand. Her left hand is on the sword handle with an angry vein, pulling the sword out of the sheathe and eliciting a glow. Nightingale stands behind Shining with a confused look.",
+				"caption":""
+			},
+			{
+				"key":13,
+				"name":"eyja_snooze",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/eyja_snooze.png",
+				"alt":"Eyjafjalla sleeps while sitting at a kotatsu. One of her pet sheep joined her, poking its sleeping head out from the other end of the kotatsu.",
+				"caption":""
+			},
+			{
+				"key":14,
+				"name":"fumizuki_sit",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/fumizuki_sit.png",
+				"alt":"Fumizuki sits on a cushion with some ceremonial decorations on both sides behind her. The text above her reads 'Welcoming spring' in Chinese.",
+				"caption":"Welcoming spring"
+			},
+			{
+				"key":15,
+				"name":"amiya_celebrate",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/amiya_celebrate.png",
+				"alt":"Amiya grins as she holds a party popper with both hands, confetti coming out of it.",
+				"caption":""
+			},
+			{
+				"key":16,
+				"name":"fumizuki_sit_en",
+				"href":"https://noktalis.github.io/ak-stickers/2020/cny1/fumizuki_sit_en.png",
+				"alt":"Fumizuki sits on a cushion with some ceremonial decorations on both sides behind her.",
+				"caption":""
+			}
+		]
+	},
+	{
 		"pack":"ch6",
 		"fullname":"Episode 6: Partial Necrosis",
 		"cn-date":"2019-12-30",
