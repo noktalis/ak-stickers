@@ -146,13 +146,20 @@
 		},
 		{
 			"key":19,
+			"name":"chen_astonish_en",
+			"href":"https://noktalis.github.io/ak-stickers/2020/all_chen/chen_astonish_en.png",
+			"alt":"Ch'en hold her right hand to her mouth as she gasps in astonishment. She says, 'Buy it!'",
+			"caption":""
+		},
+		{
+			"key":20,
 			"name":"chen_tea_en",
 			"href":"https://noktalis.github.io/ak-stickers/2020/all_chen/chen_tea_en.png",
 			"alt":"Ch'en offers a cup of steaming hot tea to the viewer. In romanized Cantonese she asks, 'Free to have tea?'",
 			"caption":"(Cantonese) Free to have tea?"
 		},
 		{
-			"key":20,
+			"key":21,
 			"name":"chen_rush_en",
 			"href":"https://noktalis.github.io/ak-stickers/2020/all_chen/chen_rush_en.png",
 			"alt":"Ch'en frantically shouts 'Hurry up!!'",
