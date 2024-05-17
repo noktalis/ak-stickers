@@ -1,17 +1,17 @@
-jungle: 3 sept 2020
-frolic: 29 jul 2020
-all penguin: 17 july 2020
-anecdotes (ursus students): 18 jun 2020
-bunnies (kaltsit scrunching face): 26 may 2020
-darknights memoir: 3 may 2020
-lawson collab: 2 may 2020
-coffee shop: 29 april 2020
-reunion: 26 mar 2020
-op barrenland: 13 mar 2020
-anecdotes (stories of afternoon): 26 feb 2020
-bunnies (angelina has a star wand): 12 feb 2020
-all chen: 29 jan 2020
-cny2020 (amiya party popper): 21 jan 2020
+-jungle: 3 sept 2020
+-frolic: 29 jul 2020
+-all penguin: 17 july 2020
+-anecdotes (ursus students): 18 jun 2020
+?bunnies2 (kaltsit scrunching face): 26 may 2020
+-darknights memoir: 3 may 2020
+-lawson collab: 2 may 2020
+-coffee shop: 29 april 2020
+-reunion: 26 mar 2020
+-op barrenland: 13 mar 2020
+- anecdotes (stories of afternoon): 26 feb 2020
+-bunnies (angelina has a star wand): 12 feb 2020
+- all chen: 29 jan 2020
+-cny2020 (amiya party popper): 21 jan 2020
 mostima: 7 dec 2020
 
 checklist:
@@ -23,5 +23,20 @@ TODO:
 	- afternoon stories
 	- all chen
 	cny2020/ancient forge (info json)
-
-
+	children of ursus (json, import)
+	bunnies1 (en edit, json, import)
+	darknights (en edit, json, import)
+	frolic (en edit, json, import)
+	jungle (en edit, json, import)
+	mansfield (re edit, en edit, json, import)
+	op barrenland (json, import)
+	bunnies3 (json, import)
+	all penguins (json, import)
+	ch8 (json, import)
+	maria nearl (json, import)
+	coffee shop (json, import)
+	lawson collab (json, import)
+	reunion (json, import)
+	bunnies2/plushies (json, import)
+	daily life (json, import)
+	anecdotes1 (json, import)

@@ -13,7 +13,7 @@ https://arknights-archive.tumblr.com/post/726295144935178241/ancient-forge-stick
 Stickers edited by Nat
 https://www.arknights.global/fankit
 
-Corresponds to the Ancient Forge event and Lunar New Year 2020
+Corresponds to the Ancient Forge event, Lunar New Year 2020, and Global's half-year anniversary
 https://arknights.wiki.gg/wiki/Ancient_Forge
 
 Features Nian, Snowsant, Doctor, Aak, Kal'tsit, Hung, Swire, Jessica, Amiya, Lancet-2, Liskarm, Franka, Shining, Nightingale, Eyja, and Fumizuki.

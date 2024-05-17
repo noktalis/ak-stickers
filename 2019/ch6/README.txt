@@ -1,6 +1,6 @@
 Released to CN on December 30, 2019
 Released to EN on July 17, 2020
-https://x.com/ArknightsEN/status/1284103056762650625?s=20
+https://twitter.com/ArknightsEN/status/1284103056762650625?s=20
 
 Sticker sheet retrieved from Arknights Choearth Weibo blog by Xue
 https://weibo.com/u/6441489862
