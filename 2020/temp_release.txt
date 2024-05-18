@@ -43,5 +43,5 @@ TODO:
 	lawson collab (json)
 	reunion (json)
 	bunnies2/plushies (json)
-	daily life (json, import)
+	daily life (json)
 	anecdotes1 (json)
