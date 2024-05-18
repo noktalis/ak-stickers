@@ -29,7 +29,7 @@ TODO:
 	- all chen
 	- cny2020/ancient forge (info json)
 	children of ursus (json, import)
-	bunnies1 (en edit, json) ****
+	bunnies1 (json) ****
 	darknights (en edit, json, import)
 	frolic (en edit, json, import)
 	jungle (en edit, json, import)
