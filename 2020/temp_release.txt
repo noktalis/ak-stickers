@@ -39,7 +39,7 @@ TODO:
 	all penguins (json, import)
 	ch8 (json, import)
 	maria nearl (json)
-	coffee shop (json, import)
+	coffee shop (json)
 	lawson collab (json, import)
 	reunion (json, import)
 	bunnies2/plushies (json, import)
