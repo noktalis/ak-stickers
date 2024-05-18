@@ -40,7 +40,7 @@ TODO:
 	ch8 (json, import)
 	maria nearl (json)
 	coffee shop (json)
-	lawson collab (json, import)
+	lawson collab (json)
 	reunion (json, import)
 	bunnies2/plushies (json, import)
 	daily life (json, import)
