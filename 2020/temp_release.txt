@@ -32,7 +32,7 @@ TODO:
 	bunnies1 (json)
 	darknights (json)
 	frolic (json)
-	jungle (en edit, json, import)
+	jungle (json)
 	mansfield (re edit, en edit, json, import)
 	op barrenland (json, import)
 	bunnies3 (json, import)
