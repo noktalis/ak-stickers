@@ -1,0 +1,22 @@
+{
+	"pack":"op_barrenland",
+	"fullname":"Operation Barrenland",
+	"cn-date":"2020-03-13",
+	"cn-src":null,
+	"en-date":"2020-09-14",
+	"en-src":"https://twitter.com/ArknightsEN/status/1305461295320186880?s=20",
+	"tumblr-source1":null,
+	"tumblr-source2":null,
+	"src":"https://stickers.wiki/telegram/arknights_sticker_3/",
+	"src-text":"stickers.wiki",
+	"en-edit":false,
+	"stickers":[
+		{
+			"key":0,
+			"name":"sticker_name",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/sticker_name.png",
+			"alt":"Alttext",
+			"caption":""
+		}
+	]
+}
