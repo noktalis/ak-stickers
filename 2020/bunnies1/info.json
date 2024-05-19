@@ -11,10 +11,178 @@
 	"stickers":[
 		{
 			"key":0,
-			"name":"sticker_name",
-			"href":"https://noktalis.github.io/ak-stickers/year/pack/sticker_name.png",
-			"alt":"Alttext",
+			"name":"amiya_key",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/amiya_key.png",
+			"alt":"Bunny Amiya smacks a key on a keyboard with great force.",
 			"caption":""
+		},
+		{
+			"key":1,
+			"name":"amiya_startle",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/amiya_startle.png",
+			"alt":"Bunny Amiya is startled into jumping straight into the air. Her eyes are wide and her arms are blown back in shock. An exclamation mark visually shows her alarm as she leaves a shadow beneath her while mid-jump.",
+			"caption":""
+		},
+		{
+			"key":2,
+			"name":"bunny_drive",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/bunny_drive.png",
+			"alt":"A bunny wearing a white visor sits in a car seat, holding onto the steering wheel with both... hands? Paws? They're a responsible bunny, wearing their seatbelt properly.",
+			"caption":""
+		},
+		{
+			"key":3,
+			"name":"amiya_roll",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/amiya_roll.png",
+			"alt":"Bunny Amiya rolls around on the floor. She has a slight frown, implying she's upset about something.",
+			"caption":""
+		},
+		{
+			"key":4,
+			"name":"amiya_kaltsit_beg",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/amiya_kaltsit_beg.png",
+			"alt":"Bunny Kal'tsit stands, glancing behind her where Bunny Amiya is gripping the hem of her lab coat. Bunny Amiya is belly-down on the floor, presumably being dragged by Bunny Kal'tsit walking around.",
+			"caption":""
+		},
+		{
+			"key":5,
+			"name":"kaltsit_punish",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/kaltsit_punish.png",
+			"alt":"Bunny Kal'tsit throws a syringe at the silhouette of a distant bunny.",
+			"caption":""
+		},
+		{
+			"key":6,
+			"name":"chen_spin",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/chen_spin.png",
+			"alt":"Bunny Ch'en sits in a bunny-sized wheelchair and spins around and around in the seat.",
+			"caption":""
+		},
+		{
+			"key":7,
+			"name":"chen_huff",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/chen_huff.png",
+			"alt":"Bunny Ch'en sits in a human-sized wheelchair is that much too big for her. She has her arms crossed as she huffs, upset.",
+			"caption":""
+		},
+		{
+			"key":8,
+			"name":"courier_mail",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/courier_mail.png",
+			"alt":"Bunny Courier holds up a letter envelope.",
+			"caption":""
+		},
+		{
+			"key":9,
+			"name":"angelina_star",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/angelina_star.png",
+			"alt":"Bunny Angelina grins as she waves a wand around, making a star spin around the top of the wand.",
+			"caption":""
+		},
+		{
+			"key":10,
+			"name":"lappland_snooze",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/lappland_snooze.png",
+			"alt":"Bunny Lappland stands with her eyes closed. She's snoozing, a snot bubble forming from her nose.",
+			"caption":""
+		},
+		{
+			"key":11,
+			"name":"lappland_sword",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/lappland_sword.png",
+			"alt":"Bunny Lappland smiles as she drags around the sword of the full-size Lappland that is too big for her to pick up.",
+			"caption":""
+		},
+		{
+			"key":12,
+			"name":"lappland_despair",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/lappland_despair.png",
+			"alt":"Bunny Lappland is smiling, but her widened eyes and shadow of despair over her eyes tell that she just received some bad news.",
+			"caption":""
+		},
+		{
+			"key":13,
+			"name":"bunny_call",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/bunny_call.png",
+			"alt":"A bunny with a white visor brings their phone to their left ear. Their speech bubble says 'Hey there?' in Chinese.",
+			"caption":"[Greeting for someone far away]? (or) Hey there?"
+		},
+		{
+			"key":14,
+			"name":"courier_soak",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/courier_soak.png",
+			"alt":"Bunny Courier soaks in a hot spring.",
+			"caption":""
+		},
+		{
+			"key":15,
+			"name":"amiya_crownslayer_tuck",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/amiya_crownslayer_tuck.png",
+			"alt":"Bunny Amiya pulls a blanket over a sleeping Bunny Crownslayer.",
+			"caption":""
+		},
+		{
+			"key":16,
+			"name":"amiya_carrot",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/amiya_carrot.png",
+			"alt":"Bunny Amiya looks down at the carrot in her hands.",
+			"caption":""
+		},
+		{
+			"key":17,
+			"name":"angelina_hurt",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/angelina_hurt.png",
+			"alt":"Bunny Angelina sits with her eyes closed and a tear coming out of her left eye. There are adhesive bandages in a cross formation in the middle of her forehead.",
+			"caption":""
+		},
+		{
+			"key":18,
+			"name":"bunny_box",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/bunny_box.png",
+			"alt":"A bunny with a white visor pops out of a cardboard box with a wink and a smile.",
+			"caption":""
+		},
+		{
+			"key":19,
+			"name":"chen_thisguy",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/chen_thisguy.png",
+			"alt":"Bunny Ch'en points at a polaroid with a suspicous look. 'this guy' is written in the bottom margin. The polaroid is empty, allowing this sticker to be used as a meme template.",
+			"caption":""
+		},
+		{
+			"key":20,
+			"name":"courier_cold",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/courier_cold.png",
+			"alt":"Bunny Courier hugs himself in an effort to keep warm as snot drips out of his nose.",
+			"caption":""
+		},
+		{
+			"key":21,
+			"name":"courier_interview",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/courier_interview.png",
+			"alt":"Bunny Courier stands in front of a microphone for an interview. A black bar censors his eyes. He's smiling like he's just vibing and enjoying life.",
+			"caption":""
+		},
+		{
+			"key":22,
+			"name":"crownslayer_claw",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/crownslayer_claw.png",
+			"alt":"Bunny Crownslayer is alarmed as she is held in the claw of a claw machine. She dangles over bunch of bunnies below.",
+			"caption":""
+		},
+		{
+			"key":23,
+			"name":"crownslayer_sleep",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/crownslayer_sleep.png",
+			"alt":"Bunny Crownslayer sleeps peacefully while holding onto a blanket covering her. She seems to be dreaming, but the bubble is cut off at the top of the frame, allowing this sticker to be used as a meme.",
+			"caption":""
+		},
+		{
+			"key":24,
+			"name":"bunny_call_en",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies1/bunny_call_en.png",
+			"alt":"A bunny with a white visor brings their phone to their left ear. Their speech bubble says 'Hi?'",
+			"caption":"[Greeting for someone far away]? (or) Hey there?"
 		}
 	]
 }
