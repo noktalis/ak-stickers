@@ -13,9 +13,114 @@
 	"stickers":[
 		{
 			"key":0,
-			"name":"sticker_name",
-			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/sticker_name.png",
-			"alt":"Alttext",
+			"name":"bagpipe_tractor",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/bagpipe_tractor.png",
+			"alt":"Bagpipe sits in a tractor with a scoop in front full of Lungmen dollars and headhunting permits. She wipes the sweat off her brow as a small blue bird sits on her straw hat.",
+			"caption":""
+		},
+		{
+			"key":1,
+			"name":"bagpipe_potatoes",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/bagpipe_potatoes.png",
+			"alt":"Bagpipe pokes her head up over the edge of a counter. She rests her right hand on the surface while her left hand makes a thumbs up. Her tongue pokes out as she anticipates food. Three potatoes float above her head alongside a peeler and a fork.",
+			"caption":""
+		},
+		{
+			"key":2,
+			"name":"purestream_bath",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/purestream_bath.png",
+			"alt":"Purestream happily sits in a bath with her hat on. A rubber duck sits in the water with her, while another rubber duck sits outside the tub on the floor.",
+			"caption":""
+		},
+		{
+			"key":3,
+			"name":"utage_plead",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/utage_plead.png",
+			"alt":"Utage tugs on someone with a Rhodes Island jacket, giving them pleading eyes. However, behind her innocent eyes is a shadow of a threat and an angry vein mark if she doesn't get her way.",
+			"caption":""
+		},
+		{
+			"key":4,
+			"name":"bibeak_knit",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/bibeak_knit.png",
+			"alt":"Bibeak happily knits something with a ball of yellow yarn and two knitting needles.",
+			"caption":""
+		},
+		{
+			"key":5,
+			"name":"conviction_crush",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/conviction_crush.png",
+			"alt":"Conviction grins sadistically as they crush something in their right fist. The Doctor's hand can be see in the corner, sweating at Convicition's wrath.",
+			"caption":""
+		},
+		{
+			"key":6,
+			"name":"sesa_angry",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/sesa_angry.png",
+			"alt":"Sesa angrily slams his right fist on a table, sending a mug and its liquid contents jumping striaght up into the air.",
+			"caption":""
+		},
+		{
+			"key":7,
+			"name":"astesia_smile",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/astesia_smile.png",
+			"alt":"Astesia gives the viewer a lovely closed-eye smile.",
+			"caption":""
+		},
+		{
+			"key":8,
+			"name":"ceylon_umbrella",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/ceylon_umbrella.png",
+			"alt":"Ceylon carefully holds her umbrella. Behind her is a raining cloud.",
+			"caption":""
+		},
+		{
+			"key":9,
+			"name":"sussurro_ambulance",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/sussurro_ambulance.png",
+			"alt":"Sussurro rushes somewhere while wearing an alarm light on her head and holding a first aid kit in her right hand.",
+			"caption":""
+		},
+		{
+			"key":10,
+			"name":"myrtle_sleep",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/myrtle_sleep.png",
+			"alt":"Myrtle sleeps during her banner, which is actually a tablecloth, as a blanket. Her eyes are covered by a sleep mask and her feet poke out from underneath her blanket. Her golden apple sits on her belly over the blanket, wearing a cone-shaped hat.",
+			"caption":""
+		},
+		{
+			"key":11,
+			"name":"scavenger_clean",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/scavenger_clean.png",
+			"alt":"Scavenger looks like she's not having a good time as she wears a mask and is covered in balls of dust. She holds a fuzzy paint roller in her right hand while wearing gloves.",
+			"caption":""
+		},
+		{
+			"key":12,
+			"name":"perfumer_water",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/perfumer_water.png",
+			"alt":"Perfumer smiles in confusion as she waters grass with a garden hose. She is probably wonder where her flowers are.",
+			"caption":""
+		},
+		{
+			"key":13,
+			"name":"grani_annoy",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/grani_annoy.png",
+			"alt":"Grani looks irritated by a cursor clicking on her cheek, closing one eye to brace for the disturbance.",
+			"caption":""
+		},
+		{
+			"key":14,
+			"name":"vanilla_hug",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/vanilla_hug.png",
+			"alt":"Vanilla lovingly hugs an Originium slug. The slug has a piece of paper taped to one end, a smiley face drawn on it.",
+			"caption":""
+		},
+		{
+			"key":15,
+			"name":"plume_icecream",
+			"href":"https://noktalis.github.io/ak-stickers/2020/op_barrenland/plume_icecream.png",
+			"alt":"Plume smiles as she holds a double scoop cone of ice cream in her left hand. She holds a spoon in her right hand, ready to dig in.",
 			"caption":""
 		}
 	]
