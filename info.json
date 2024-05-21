@@ -1,5 +1,132 @@
 [
 	{
+		"pack":"reunion",
+		"fullname":"Reunion",
+		"cn-date":"2020-03-26",
+		"cn-src":null,
+		"en-date":"2021-04-22",
+		"en-src":"https://x.com/ArknightsEN/status/1385216822014746627",
+		"tumblr-source1":null,
+		"tumblr-source2":null,
+		"src":"https://stickers.wiki/telegram/arknights_sticker_3/",
+		"src-text":"stickers.wiki",
+		"en-edit":false,
+		"stickers":[
+			{
+				"key":0,
+				"name":"patriot_cookie",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/patriot_cookie.png",
+				"alt":"Patriot happily holds a tray of freshly baked cookies while wearing oven mitts.",
+				"caption":""
+			},
+			{
+				"key":1,
+				"name":"skullshatterer_groceries",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/skullshatterer_groceries.png",
+				"alt":"Skullshatterer stands on some form of public transport. Their right hand holds onto an overhead strap handle while their left arm is looped through the handle of their paper bag of groceries.",
+				"caption":""
+			},
+			{
+				"key":2,
+				"name":"talulah_watch",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/talulah_watch.png",
+				"alt":"Talulah spies on something as she leans around a corner with a determined frown and holding binoculars to her eyes.",
+				"caption":""
+			},
+			{
+				"key":3,
+				"name":"w_angry",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/w_angry.png",
+				"alt":"W angrily tears sheets of paper apart with a look of disgust and distaste on her face.",
+				"caption":""
+			},
+			{
+				"key":4,
+				"name":"mephisto_bully",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/mephisto_bully.png",
+				"alt":"Mephisto grins gleefully as he pets the head of a Possessed Junkman, who is crying.",
+				"caption":""
+			},
+			{
+				"key":5,
+				"name":"crownslayer_sad",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/crownslayer_sad.png",
+				"alt":"Crownslayer sadly sits at what seems to be the counter at a bar. She stares sadly at a glass of orange liquid on the counter.",
+				"caption":""
+			},
+			{
+				"key":6,
+				"name":"frostnova_angry",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/frostnova_angry.png",
+				"alt":"Frostnova smiles, but is clearly angry. There's an angry vein mark on her head as she holds up a snowball over her head in her right hand, ready to throw.",
+				"caption":""
+			},
+			{
+				"key":7,
+				"name":"faust_sad",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/faust_sad.png",
+				"alt":"Faust listlessly sits on the ground with his left elbow on his knee and his face leaning on his left palm. His right hand holds a sticker as he draws a cone on the ground and writes what seems to be notes.",
+				"caption":""
+			},
+			{
+				"key":8,
+				"name":"reunion_bored",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/reunion_bored.png",
+				"alt":"A Senior Caster sits behind a counter with the Reunion logo and a small potted plant. They prop their head on their elbow, looking bored. On the ground in front of the counter is a Wraith Leader lying on their belly and looking at the viewer.",
+				"caption":""
+			},
+			{
+				"key":9,
+				"name":"reunion_drink",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/reunion_drink.png",
+				"alt":"A Junkman and Veteran Junkman sit on beanbags together as they drink. The Veteran Junkman holds up a bottle as the Junkman holds a glass.",
+				"caption":""
+			},
+			{
+				"key":10,
+				"name":"red_blade",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/red_blade.png",
+				"alt":"A Hateful Avenger menacingly wields their blade on fire, a malicious glint in their eye.",
+				"caption":""
+			},
+			{
+				"key":11,
+				"name":"spiders_socmed",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/spiders_socmed.png",
+				"alt":"Three exploding spiders hold the icons for various social media functions. From left to right, an Infused Originium Slug holds a thumbs up for a 'like' icon, an Infused Originium Slug alpha holds a heart icon, and an Infused Glacial Originium Slug holds a loop symbol associate with retweets, reblogs, etc.",
+				"caption":""
+			},
+			{
+				"key":12,
+				"name":"yeti_pelted",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/yeti_pelted.png",
+				"alt":"A Yeti from Frostnova's Yeti Squad is pelted in the side of the head with a snowball. From the shadow of their hood, they seem to have a spray of spit knocked out of them from the impact.",
+				"caption":""
+			},
+			{
+				"key":13,
+				"name":"reunion_rage",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/reunion_rage.png",
+				"alt":"A Butcher has their right foot on the desk and their axe raised over their left shoulder, ready to come down on a desktop computer.",
+				"caption":""
+			},
+			{
+				"key":14,
+				"name":"reunion_feed",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/reunion_feed.png",
+				"alt":"A Reunion soldier holds a paper bag under their right arm. They use their left to disperse what looks like grain for Originium slugs to eat at their feet.",
+				"caption":""
+			},
+			{
+				"key":15,
+				"name":"wolf_meme",
+				"href":"https://noktalis.github.io/ak-stickers/2020/reunion/wolf_meme.png",
+				"alt":"Two Reunion Hounds recreate a meme of wolves being silly. A Hound Pro looks at the viewer with their tongue sticking out. A Rabid Hound Pro has their mouth open and around the side of the Hound Pro's head in a poor attempt to engulf their head.",
+				"caption":""
+			}		
+		]
+	},
+	{
 		"pack":"op_barrenland",
 		"fullname":"Operation Barrenland",
 		"cn-date":"2020-03-13",
