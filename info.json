@@ -1,5 +1,132 @@
 [
 	{
+		"pack":"coffee_shop",
+		"fullname":"Coffee Shop",
+		"cn-date":"2020-04-29",
+		"cn-src":null,
+		"en-date":null,
+		"en-src":null,
+		"tumblr-source1":null,
+		"tumblr-source2":null,
+		"src":"https://stickers.wiki/telegram/arknights_sticker_3/",
+		"src-text":"stickers.wiki",
+		"en-edit":false,
+		"stickers":[
+			{
+				"key":0,
+				"name":"amiya_yay",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/amiya_yay.png",
+				"alt":"Amiya holds her arms out as she beams.",
+				"caption":""
+			},
+			{
+				"key":1,
+				"name":"amiya_tasty",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/amiya_tasty.png",
+				"alt":"Amiya happily licks her lips after eating something tasty. She holds up a spoon in her left hand where the tasty stuff presumably was.",
+				"caption":""
+			},
+			{
+				"key":2,
+				"name":"angelina_cup",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/angelina_cup.png",
+				"alt":"Angelina pokes her head out of a cup of yogurt with a wooden spoon handle sticking out. Her hands hold onto the edge of the cup as she tilts her head and gives the viewer a confused look.",
+				"caption":""
+			},
+			{
+				"key":3,
+				"name":"angelina_heart",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/angelina_heart.png",
+				"alt":"Angelina winks at the viewer as she creates a heart shape with her hands.",
+				"caption":""
+			},
+			{
+				"key":4,
+				"name":"saria_command",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/saria_command.png",
+				"alt":"Saria holds up a bowl of rice in her left hand and has her right hand on her hip. There's a threatening shadow over her face as she seems to make a demand.",
+				"caption":""
+			},
+			{
+				"key":5,
+				"name":"saria_scoop",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/saria_scoop.png",
+				"alt":"Saria pats a fresh scoop of rice from the rice cooker into a serving bowl.",
+				"caption":""
+			},
+			{
+				"key":6,
+				"name":"lapp_snack",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/lapp_snack.png",
+				"alt":"Lappland props up her head on her left elbow as she eats what looks like a yellow and red eraser in her right hand.",
+				"caption":""
+			},
+			{
+				"key":7,
+				"name":"lapp_utensil",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/lapp_utensil.png",
+				"alt":"Lappland menacingly holds an oversized knife in her right hand and an oversized fork in her left hand, ready to eat.",
+				"caption":""
+			},
+			{
+				"key":8,
+				"name":"exe_surprise",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/exe_surprise.png",
+				"alt":"Executor holds up a cupcake in his right hand, only to be surprised as he discovered a plus-shaped cookie to be tasty.",
+				"caption":""
+			},
+			{
+				"key":9,
+				"name":"exe_abandon",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/exe_abandon.png",
+				"alt":"Executor eats a plus shaped cookie, turning his back on a cupcake that is now sulking in the corner.",
+				"caption":""
+			},
+			{
+				"key":10,
+				"name":"greythroat_emptyhanded",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/greythroat_emptyhanded.png",
+				"alt":"GreyThroat keeps a spoon in her mouth with her left hand while her right shows it being empty-handed.",
+				"caption":""
+			},
+			{
+				"key":11,
+				"name":"greythroat_fork",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/greythroat_fork.png",
+				"alt":"GreyThroat holds an oversized and long fork in her hand like it's a lance while walking. There's a cup on her with head with the image of a carrot on the lid.",
+				"caption":""
+			},
+			{
+				"key":12,
+				"name":"beagle_slice",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/beagle_slice.png",
+				"alt":"Beagle takes a bite of a pizza slice, struggling with the cheese pull.",
+				"caption":""
+			},
+			{
+				"key":13,
+				"name":"beagle_pizza",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/beagle_pizza.png",
+				"alt":"Beagle opens a pizza box with a wagging tail, excitedly showing off the pizza within.",
+				"caption":""
+			},
+			{
+				"key":14,
+				"name":"midnight_cone",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/midnight_cone.png",
+				"alt":"Midnight tries to be suave like he's in a shoujo anime, flowers and sparkles in the background. He holds out a cone of ice cream to the viewer with his left hand, eyes closed, and his right hand making some sort of pose to make him seem cool.",
+				"caption":""
+			},
+			{
+				"key":15,
+				"name":"midnight_icecream",
+				"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/midnight_icecream.png",
+				"alt":"Midnight grins as he holds up an ice cream cone that is nearly twice his height, showing it off as shoujo sparkles appear around him.",
+				"caption":""
+			}
+		]
+	},
+	{
 		"pack":"reunion",
 		"fullname":"Reunion",
 		"cn-date":"2020-03-26",
