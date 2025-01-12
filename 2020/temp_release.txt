@@ -4,7 +4,7 @@ x February 12, 2020 - bunnies1
 x February 16, 2020 - afternoon stories
 x March 13, 2020 - operation barrenland
 x March 26, 2020 - reunion
-April 29, 2020 - coffee shop
+x April 29, 2020 - coffee shop
 May 2, 2020 - lawson
 May 3, 2020 - darknights
 May 26, 2020 - bunnies2
@@ -18,6 +18,9 @@ November 30, 2020 - daily life
 December 7, 2020 - anecdotes1
 December 7, 2020 - bunnies3
 December 30, 2020 - mansfield
+
+x - done
+# - without alt text
 
 checklist:
 	stickers (usually 16 count)
@@ -39,7 +42,7 @@ TODO:
 	all penguins (json)
 	ch8 (json)
 	maria nearl (json)
-	coffee shop (json)
+	- coffee shop (json)
 	lawson collab (json)
 	reunion (json)
 	bunnies2/plushies (json)
