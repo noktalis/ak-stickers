@@ -1,11 +1,150 @@
 [
 	{
+		"pack":"darknights",
+		"fullname":"Music of the Night",
+		"cn-date":"2020-05-03",
+		"cn-src":"https://weibo.com/6441489862/J0dIBxiLt",
+		"en-date":"2021-01-12",
+		"en-src":"https://twitter.com/ArknightsEN/status/1348947836079984644",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726245405933928448/darknights-memoir-the-birth-of-tragedy-stickers",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726248360798044160/darknights-memoir-the-birth-of-tragedy-stickers",
+		"en-edit":false,
+		"stickers":[
+			{
+				"key":0,
+				"name":"phantom_cat_bop",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/phantom_cat_bop.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":1,
+				"name":"phantom_doctor_mourn",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/phantom_doctor_mourn.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":2,
+				"name":"w_smile",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/w_smile.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":3,
+				"name":"w_evil",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/w_evil.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":4,
+				"name":"weedy_glove",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/weedy_glove.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":5,
+				"name":"weedy_gasp",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/weedy_gasp.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":6,
+				"name":"sideroca_lift",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/sideroca_lift.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":7,
+				"name":"sideroca_chaos",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/sideroca_chaos.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":8,
+				"name":"shamare_pray",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/shamare_pray.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":9,
+				"name":"shamare_mald",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/shamare_mald.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":10,
+				"name":"elysium_think",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/elysium_think.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":11,
+				"name":"elysium_smile",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/elysium_smile.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":12,
+				"name":"thrm_bomb",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/thrm_bomb.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":13,
+				"name":"thrm_buff",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/thrm_buff.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":14,
+				"name":"cutter_threat",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/cutter_threat.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":15,
+				"name":"cutter_doctor_squish",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/cutter_doctor_squish.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":16,
+				"name":"elysium_smile_en",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/elysium_smile_en.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			},
+			{
+				"key":17,
+				"name":"thrm_bomb_en",
+				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/thrm_bomb_en.png",
+				"alt":"Music of the Night alternative text",
+				"caption":""
+			}
+		]
+	},
+	{
 		"pack":"lawson_collab1",
 		"fullname":"Arknights x Lawson",
 		"cn-date":"2020-05-02",
 		"cn-src":"https://ak.hypergryph.com/special/lawson/index.html",
 		"en-date":null,
-		"en-src":"link",
+		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726251322860568576/arknights-x-lawson-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726254217456762880/arknights-x-lawson-stickers-22",
 		"en-edit":false,
