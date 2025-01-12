@@ -5,7 +5,7 @@ x February 16, 2020 - afternoon stories
 x March 13, 2020 - operation barrenland
 x March 26, 2020 - reunion
 x April 29, 2020 - coffee shop
-May 2, 2020 - lawson
+# May 2, 2020 - lawson
 May 3, 2020 - darknights
 May 26, 2020 - bunnies2
 June 18, 2020 - children of ursus
@@ -43,7 +43,7 @@ TODO:
 	ch8 (json)
 	maria nearl (json)
 	- coffee shop (json)
-	lawson collab (json)
+	- lawson collab (json)
 	reunion (json)
 	bunnies2/plushies (json)
 	daily life (json)
