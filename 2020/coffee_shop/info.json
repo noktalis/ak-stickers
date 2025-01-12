@@ -48,43 +48,43 @@
 		},
 		{
 			"key":5,
-			"name":"saria_scoop",
-			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/saria_scoop.png",
+			"name":"saria_rice",
+			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/saria_rice.png",
 			"alt":"Saria pats a fresh scoop of rice from the rice cooker into a serving bowl.",
 			"caption":""
 		},
 		{
 			"key":6,
-			"name":"lapp_snack",
-			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/lapp_snack.png",
+			"name":"lapp_eat",
+			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/lapp_eat.png",
 			"alt":"Lappland props up her head on her left elbow as she eats what looks like a yellow and red eraser in her right hand.",
 			"caption":""
 		},
 		{
 			"key":7,
-			"name":"lapp_utensil",
-			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/lapp_utensil.png",
+			"name":"lapp_utensils",
+			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/lapp_utensils.png",
 			"alt":"Lappland menacingly holds an oversized knife in her right hand and an oversized fork in her left hand, ready to eat.",
 			"caption":""
 		},
 		{
 			"key":8,
-			"name":"exe_surprise",
-			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/exe_surprise.png",
+			"name":"executor_tasty",
+			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/executor_tasty.png",
 			"alt":"Executor holds up a cupcake in his right hand, only to be surprised as he discovered a plus-shaped cookie to be tasty.",
 			"caption":""
 		},
 		{
 			"key":9,
-			"name":"exe_abandon",
-			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/exe_abandon.png",
+			"name":"executor_nom",
+			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/executor_nom.png",
 			"alt":"Executor eats a plus shaped cookie, turning his back on a cupcake that is now sulking in the corner.",
 			"caption":""
 		},
 		{
 			"key":10,
-			"name":"greythroat_emptyhanded",
-			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/greythroat_emptyhanded.png",
+			"name":"greythroat_spoon",
+			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/greythroat_spoon.png",
 			"alt":"GreyThroat keeps a spoon in her mouth with her left hand while her right shows it being empty-handed.",
 			"caption":""
 		},
@@ -111,15 +111,15 @@
 		},
 		{
 			"key":14,
-			"name":"midnight_cone",
-			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/midnight_cone.png",
+			"name":"midnight_treat",
+			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/midnight_treat.png",
 			"alt":"Midnight tries to be suave like he's in a shoujo anime, flowers and sparkles in the background. He holds out a cone of ice cream to the viewer with his left hand, eyes closed, and his right hand making some sort of pose to make him seem cool.",
 			"caption":""
 		},
 		{
 			"key":15,
-			"name":"midnight_icecream",
-			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/midnight_icecream.png",
+			"name":"midnight_gift",
+			"href":"https://noktalis.github.io/ak-stickers/2020/coffee_shop/midnight_gift.png",
 			"alt":"Midnight grins as he holds up an ice cream cone that is nearly twice his height, showing it off as shoujo sparkles appear around him.",
 			"caption":""
 		}
