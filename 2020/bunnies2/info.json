@@ -1,0 +1,125 @@
+{
+	"pack":"bunnies2",
+	"fullname":"Plushies",
+	"cn-date":"2020-05-26",
+	"cn-src":"https://weibo.com/6441489862/J3JbRC0gA",
+	"en-date":null,
+	"en-src":null,
+	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726239622607306753/plushies-12",
+	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726242510623686656/plushies-22",
+	"en-edit":false,
+	"stickers":[
+		{
+			"key":0,
+			"name":"amiya_frolic",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/amiya_frolic.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":1,
+			"name":"emperor_sigh",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/emperor_sigh.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":2,
+			"name":"emperor_thumbsup",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/emperor_thumbsup.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":3,
+			"name":"schwarz_frozen",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/schwarz_frozen.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":4,
+			"name":"feater_shock",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/feater_shock.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":5,
+			"name":"siege_lick",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/siege_lick.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":6,
+			"name":"exu_pie",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/exu_pie.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":7,
+			"name":"sussurro_alert",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/sussurro_alert.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":8,
+			"name":"kaltsit_disapprove",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/kaltsit_disapprove.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":9,
+			"name":"penguin_panic",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/penguin_panic.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":10,
+			"name":"chen_proud",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/chen_proud.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":11,
+			"name":"skyfire_miserable",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/skyfire_miserable.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":12,
+			"name":"red_glint",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/red_glint.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":13,
+			"name":"specter_teeth",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/specter_teeth.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":14,
+			"name":"lappland_retreat",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/lappland_retreat.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		},
+		{
+			"key":15,
+			"name":"crownslayer_feeble",
+			"href":"https://noktalis.github.io/ak-stickers/2020/bunnies2/crownslayer_feeble.png",
+			"alt":"Plushies sticker alternative text",
+			"caption":""
+		}
+	]
+}
