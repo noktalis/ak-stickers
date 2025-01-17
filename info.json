@@ -1,5 +1,130 @@
 [
 	{
+		"pack":"all_penguins",
+		"fullname":"All Penguins",
+		"cn-date":"2020-07-17",
+		"cn-src":"https://weibo.com/6441489862/JbCntEfXV",
+		"en-date":null,
+		"en-src":null,
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726225033834496000/all-penguins-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726227980555354112/all-penguins-22",
+		"en-edit":false,
+		"stickers":[
+			{
+				"key":0,
+				"name":"emperor_vacation",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/emperor_vacation.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":1,
+				"name":"exu_pie",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/exu_pie.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":2,
+				"name":"amiya_stack",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/amiya_stack.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":3,
+				"name":"emperor_beat",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/emperor_beat.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":4,
+				"name":"amiya_emperor_face",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/amiya_emperor_face.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":5,
+				"name":"schwarz_confused",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/schwarz_confused.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":6,
+				"name":"feater_fall",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/feater_fall.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":7,
+				"name":"penguin_sleep",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/penguin_sleep.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":8,
+				"name":"exu_faceplant",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/exu_faceplant.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":9,
+				"name":"exu_doorslam",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/exu_doorslam.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":10,
+				"name":"penguin_twirl",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/penguin_twirl.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":11,
+				"name":"feater_bamboo",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/feater_bamboo.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":12,
+				"name":"schwarz_sad",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/schwarz_sad.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":13,
+				"name":"emperor_slide",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/emperor_slide.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":14,
+				"name":"emperor_exu_hmph",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/emperor_exu_hmph.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":15,
+				"name":"penguin_hot",
+				"href":"https://noktalis.github.io/ak-stickers/2020/all_penguins/penguin_hot.png",
+				"alt":"All Penguins sticker placeholder alternative text",
+				"caption":""
+			}
+		]
+	},
+	{
 		"pack":"ursus_children",
 		"fullname":"Children of Ursus",
 		"cn-date":"2020-06-18",
