@@ -1,5 +1,130 @@
 [
 	{
+		"pack":"ch8",
+		"fullname":"Work",
+		"cn-date":"2020-11-16",
+		"cn-src":"https://weibo.com/6441489862/JubTSvX5m",
+		"en-date":"2021-04-18",
+		"en-src":"https://twitter.com/ArknightsEN/status/1392011596239622144",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726201644270911488/roaring-flare-stickers-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726204518376882176/roaring-flare-stickers-22",
+		"en-edit":false,
+		"stickers":[
+			{
+				"key":0,
+				"name":"whisperain_sad",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/whisperain_sad.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":1,
+				"name":"whisperain_gasp",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/whisperain_gasp.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":2,
+				"name":"mudrock_plop",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/mudrock_plop.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":3,
+				"name":"mudrock_ready",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/mudrock_ready.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":4,
+				"name":"jackie_fetch",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/jackie_fetch.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":5,
+				"name":"jackie_confused",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/jackie_confused.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":6,
+				"name":"amiya_strong",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/amiya_strong.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":7,
+				"name":"amiya_sword",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/amiya_sword.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":8,
+				"name":"rosmontis_ponder",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/rosmontis_ponder.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":9,
+				"name":"rosmontis_kitty",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/rosmontis_kitty.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":10,
+				"name":"rosmontis_cook",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/rosmontis_cook.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":11,
+				"name":"amiya_huddle",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/amiya_huddle.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":12,
+				"name":"blaze_drink",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/blaze_drink.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":13,
+				"name":"blaze_praise",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/blaze_praise.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":14,
+				"name":"doktah_tired",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/doktah_tired.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":15,
+				"name":"doktah_kettle",
+				"href":"https://noktalis.github.io/ak-stickers/2020/ch8/doktah_kettle.png",
+				"alt":"Work sticker alternative text placeholder",
+				"caption":""
+			}
+		]
+	},
+	{
 		"pack":"jungle",
 		"fullname":"Jungle",
 		"cn-date":"2020-09-03",
