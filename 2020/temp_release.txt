@@ -10,7 +10,7 @@ x April 29, 2020 - coffee shop
 # May 26, 2020 - bunnies2
 # June 18, 2020 - children of ursus
 # July 17, 2020 - all penguins
-July 29, 2020 - frolic
+# July 29, 2020 - frolic
 September 3, 2020 - jungle
 November 16, 2020 - ch8
 November 16, 2020 - maria nearl

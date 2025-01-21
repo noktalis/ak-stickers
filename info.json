@@ -1,5 +1,137 @@
 [
 	{
+		"pack":"frolic",
+		"fullname":"Frolic",
+		"cn-date":"2020-07-29",
+		"cn-src":"https://weibo.com/6441489862/Jdt1RvHK7",
+		"en-date":"2020-11-03",
+		"en-src":"https://twitter.com/ArknightsEN/status/1323610885399683073",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726219109196578816/twilight-of-wolumonde-stickers-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726222023993556992/twilight-of-wolumonde-stickers-22",
+		"en-edit":true,
+		"stickers":[
+			{
+				"key":0,
+				"name":"folinic_chaos",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/folinic_chaos.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":1,
+				"name":"folinic_kal_meme",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/folinic_kal_meme.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":2,
+				"name":"suzu_smile",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/suzu_smile.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":3,
+				"name":"suzu_help",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/suzu_help.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":4,
+				"name":"ayer_leizi_zapbattle",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/ayer_leizi_zapbattle.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":5,
+				"name":"ayer_nom",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/ayer_nom.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":6,
+				"name":"click_lmao",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/click_lmao.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":7,
+				"name":"click_cry",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/click_cry.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":8,
+				"name":"scene_smile",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/scene_smile.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":9,
+				"name":"scene_glance",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/scene_glance.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":10,
+				"name":"beeswax_sandman",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/beeswax_sandman.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":11,
+				"name":"beeswax_snooze",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/beeswax_snooze.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":12,
+				"name":"chiave_confident",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/chiave_confident.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":13,
+				"name":"chiave_swet",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/chiave_swet.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":14,
+				"name":"scenecamera",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/scenecamera.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":15,
+				"name":"clickcamera",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/clickcamera.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			},
+			{
+				"key":16,
+				"name":"scene_smile_en",
+				"href":"https://noktalis.github.io/ak-stickers/2020/frolic/scene_smile_en.png",
+				"alt":"Frolic sticker alternative text placeholder",
+				"caption":""
+			}
+		]
+	},
+	{
 		"pack":"all_penguins",
 		"fullname":"All Penguins",
 		"cn-date":"2020-07-17",
