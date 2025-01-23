@@ -16,7 +16,7 @@ x April 29, 2020 - coffee shop
 # November 16, 2020 - maria nearl
 # November 30, 2020 - daily life
 # December 7, 2020 - anecdotes1
-December 7, 2020 - bunnies3
+# December 7, 2020 - bunnies3
 December 30, 2020 - mansfield
 
 x - done

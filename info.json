@@ -1,5 +1,130 @@
 [
 	{
+		"pack":"bunnies3",
+		"fullname":"All Bunnies",
+		"cn-date":"2020-12-07",
+		"cn-src":"https://weibo.com/6441489862/JxuzQ0d6w",
+		"en-date":"2021-04-03",
+		"en-src":"https://twitter.com/ArknightsEN/status/1378331450165100545",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726184073402417152/all-bunnies-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726186952655863808/all-bunnies-22",
+		"en-edit":false,
+		"stickers":[
+			{
+				"key":0,
+				"name":"amiya_approve",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/amiya_approve.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":1,
+				"name":"courier_call",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/courier_call.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":2,
+				"name":"specter_murder",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/specter_murder.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":3,
+				"name":"chen_sip",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/chen_sip.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":4,
+				"name":"lappland_laugh",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/lappland_laugh.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":5,
+				"name":"siege_yawn",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/siege_yawn.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":6,
+				"name":"amiya_hug",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/amiya_hug.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":7,
+				"name":"kaltsit_pill",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/kaltsit_pill.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":8,
+				"name":"angelina_wink",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/angelina_wink.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":9,
+				"name":"amiya_busy",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/amiya_busy.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":10,
+				"name":"crownslayer_fallen",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/crownslayer_fallen.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":11,
+				"name":"red_drool",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/red_drool.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":12,
+				"name":"amiya_swet",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/amiya_swet.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":13,
+				"name":"bunny_praise",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/bunny_praise.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":14,
+				"name":"chen_stressed",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/chen_stressed.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":15,
+				"name":"siege_disapproval",
+				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/siege_disapproval.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			}
+		]
+	},
+	{
 		"pack":"anecdotes1",
 		"fullname":"Anecdotes",
 		"cn-date":"2020-12-07",
