@@ -1,0 +1,125 @@
+{
+	"pack":"anecdotes1",
+	"fullname":"Anecdotes",
+	"cn-date":"2020-12-07",
+	"cn-src":"https://weibo.com/6441489862/Jxuz0hoYs",
+	"en-date":null,
+	"en-src":null,
+	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726189917835853824/anecdotes-12",
+	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726192825343066112/anecdotes-22",
+	"en-edit":false,
+	"stickers":[
+		{
+			"key":0,
+			"name":"texas_drive",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/texas_drive.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":1,
+			"name":"texas_betrayed",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/texas_betrayed.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":2,
+			"name":"texas_annoyed",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/texas_annoyed.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":3,
+			"name":"pl_dance",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/pl_dance.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":4,
+			"name":"lappland_pie",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/lappland_pie.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":5,
+			"name":"mostima_shades",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/mostima_shades.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":6,
+			"name":"skadi_seal",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/skadi_seal.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":7,
+			"name":"specter_shark",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/specter_shark.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":8,
+			"name":"red_floof",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/red_floof.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":9,
+			"name":"feater_star",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/feater_star.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":10,
+			"name":"manti_yawn",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/manti_yawn.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":11,
+			"name":"gravel_yawn",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/gravel_yawn.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":12,
+			"name":"earthspirit_shiftend",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/earthspirit_shiftend.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":13,
+			"name":"glaucus_mailbox",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/glaucus_mailbox.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":14,
+			"name":"deepcolor_paint",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/deepcolor_paint.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		},
+		{
+			"key":15,
+			"name":"angelina_mail",
+			"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/angelina_mail.png",
+			"alt":"Placeholder alternative text",
+			"caption":""
+		}
+	]
+}
