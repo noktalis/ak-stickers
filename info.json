@@ -1,5 +1,137 @@
 [
 	{
+		"pack":"mansfield",
+		"fullname":"Leisure Time",
+		"cn-date":"2020-12-30",
+		"cn-src":"https://weibo.com/6441489862/JB0TLwJZw",
+		"en-date":"2021-06-29",
+		"en-src":"https://twitter.com/ArknightsEN/status/1410100788727205890",
+		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726178228238221312/mansfield-break-stickers-12",
+		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726181124694540288/mansfield-break-stickers-22",
+		"en-edit":true,
+		"stickers":[
+			{
+				"key":0,
+				"name":"kafka_sad",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/kafka_sad.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":1,
+				"name":"kafka_plant",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/kafka_plant.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":2,
+				"name":"mountain_revelation",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/mountain_revelation.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":3,
+				"name":"mountain_cheers",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/mountain_cheers.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":4,
+				"name":"robin_catch",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/robin_catch.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":5,
+				"name":"robin_admire",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/robin_admire.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":6,
+				"name":"pinecone_headache",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/pinecone_headache.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":7,
+				"name":"pinecone_sleepy",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/pinecone_sleepy.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":8,
+				"name":"vanilla_fear",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/vanilla_fear.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":9,
+				"name":"vanilla_happy",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/vanilla_happy.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":10,
+				"name":"saria_threat",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/saria_threat.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":11,
+				"name":"saria_door",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/saria_door.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":12,
+				"name":"franka_wink",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/franka_wink.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":13,
+				"name":"liskarm_disapprove",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/liskarm_disapprove.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":14,
+				"name":"liskarm_shoot",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/liskarm_shoot.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":15,
+				"name":"franka_skewer",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/franka_skewer.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			},
+			{
+				"key":16,
+				"name":"robin_admire_en",
+				"href":"https://noktalis.github.io/ak-stickers/2020/mansfield/robin_admire_en.png",
+				"alt":"Placeholder alternative text",
+				"caption":""
+			}
+		]
+	},
+	{
 		"pack":"bunnies3",
 		"fullname":"All Bunnies",
 		"cn-date":"2020-12-07",
