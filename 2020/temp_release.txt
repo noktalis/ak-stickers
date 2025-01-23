@@ -14,7 +14,7 @@ x April 29, 2020 - coffee shop
 # September 3, 2020 - jungle
 # November 16, 2020 - ch8/work
 # November 16, 2020 - maria nearl
-November 30, 2020 - daily life
+# November 30, 2020 - daily life
 December 7, 2020 - anecdotes1
 December 7, 2020 - bunnies3
 December 30, 2020 - mansfield
@@ -26,25 +26,3 @@ checklist:
 	stickers (usually 16 count)
 	README.txt
 	info.json
-
-TODO:
-	- afternoon stories
-	- all chen
-	- cny2020/ancient forge (info json)
-	children of ursus (json)
-	bunnies1 (json)
-	darknights (json)
-	frolic (json)
-	jungle (json)
-	mansfield (json)
-	op barrenland (json)
-	bunnies3 (json)
-	all penguins (json)
-	ch8 (json)
-	maria nearl (json)
-	- coffee shop (json)
-	- lawson collab (json)
-	reunion (json)
-	bunnies2/plushies (json)
-	daily life (json)
-	anecdotes1 (json)
