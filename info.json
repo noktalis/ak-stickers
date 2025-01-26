@@ -8,7 +8,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1410100788727205890",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726178228238221312/mansfield-break-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726181124694540288/mansfield-break-stickers-22",
-		"en-edit":true,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -140,7 +141,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1378331450165100545",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726184073402417152/all-bunnies-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726186952655863808/all-bunnies-22",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -265,7 +267,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726189917835853824/anecdotes-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726192825343066112/anecdotes-22",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -390,7 +393,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726195709444014080/carefree-daily-life-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726198730756390912/carefree-daily-life-22",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -515,7 +519,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1383767392711430148",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726207409376411648/rewinding-breeze-maria-nearl-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726210437160615936/rewinding-breeze-maria-nearl-stickers-22",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -640,7 +645,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1392011596239622144",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726201644270911488/roaring-flare-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726204518376882176/roaring-flare-stickers-22",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -765,7 +771,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1366704845261004806",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726213320386936832/great-chief-returns-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726216237910196224/great-chief-returns-stickers-22",
-		"en-edit":true,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -897,7 +904,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1323610885399683073",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726219109196578816/twilight-of-wolumonde-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726222023993556992/twilight-of-wolumonde-stickers-22",
-		"en-edit":true,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -1029,7 +1037,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726225033834496000/all-penguins-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726227980555354112/all-penguins-22",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -1154,7 +1163,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1313101641512554498",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726230811488190464/children-of-ursus-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726236613350473728/children-of-ursus-stickers-22",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -1279,7 +1289,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726239622607306753/plushies-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726242510623686656/plushies-22",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -1404,7 +1415,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1348947836079984644",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726245405933928448/darknights-memoir-the-birth-of-tragedy-stickers",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726248360798044160/darknights-memoir-the-birth-of-tragedy-stickers",
-		"en-edit":true,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -1543,7 +1555,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726251322860568576/arknights-x-lawson-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726254217456762880/arknights-x-lawson-stickers-22",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -1675,7 +1688,8 @@
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726260024144510976/coffeeshop-22",
 		"src":"https://stickers.wiki/telegram/arknights_sticker_3/",
 		"src-text":"stickers.wiki",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -1802,7 +1816,8 @@
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726265932980289536/reunion-22",
 		"src":"https://stickers.wiki/telegram/arknights_sticker_3/",
 		"src-text":"stickers.wiki",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -1929,7 +1944,8 @@
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726271711879757824/barrenland-stickers-22",
 		"src":"https://stickers.wiki/telegram/arknights_sticker_3/",
 		"src-text":"stickers.wiki",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -2056,7 +2072,8 @@
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726277626738688000/stories-of-afternoon-stickers-22",
 		"src":"https://stickers.wiki/telegram/arknights_sticker_3/",
 		"src-text":"stickers.wiki",
-		"en-edit":false,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -2181,7 +2198,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1371808469594992641",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726280550229393408/all-rabbits-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726283417910722560/all-rabbits-22",
-		"en-edit":true,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -2371,7 +2389,8 @@
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726289221826002944/all-chen-22",
 		"src":"https://stickers.wiki/telegram/arknights_sticker_3/",
 		"src-text":"stickers.wiki",
-		"en-edit":true,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -2524,7 +2543,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1291705650523918337",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726292264562851840/ancient-forge-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726295144935178241/ancient-forge-stickers-22",
-		"en-edit":true,
+		"featured":[],
+"search":[],
 		"stickers":[
 			{
 				"key":0,
@@ -2656,7 +2676,9 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1284103056762650625?s=20",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726298027486298112/anecdotes-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726301060448337920/anecdotes-ii-22",
-		"en-edit":false,
+		"featured":["ambriel","greythroat","blaze","doctor","doktah","amiya","reed","broca","cardigan","silverash","pramanix","schwarz","vigna","gavial","estelle","nearl"],
+		"search":["ch6","ch 6","chapter 6","ep6","ep 6","episode 6","partial necrosis","anecdotes"],
+		"note":"EN name is \"Anecdotes\".",
 		"stickers":[
 			{
 				"key":0,
@@ -2765,7 +2787,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726303937841528832/taking-a-break-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726306817202913280/taking-a-break-22",
-		"en-edit":false,
+		"featured":["kroos","yato","hibiscus","lava","durin","dobermann","rangers","beagle","fang","noir corne","amiya","kal'tsit","kaltsit"],
+		"search":["break"],
 		"stickers":[
 			{
 				"key":0,
@@ -2874,7 +2897,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1267409828411871232?s=20",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726309716258603008/code-of-brawl-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726312613051564032/code-of-brawl-stickers-22",
-		"en-edit":true,
+		"featured":["mostima","breeze","bison","may","ethan","waai fu","waaifu","siege","doctor","doktah","warfarin","nightingale","firewatch","kroos","rope"],
+		"search":["code of brawl"],
 		"stickers":[
 			{
 				"key":0,
@@ -3001,7 +3025,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1247771424833454081",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726315555885301760/operational-intelligence-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726318522037354496/operational-intelligence-stickers-22",
-		"en-edit":true,
+		"featured":["executor","flamebringer","vermeil","amiya","magallan","silence","jessica","meteorite"],
+		"search":["operation intelligence"],
 		"stickers":[
 			{
 				"key":0,
@@ -3146,7 +3171,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726321405702045696/rumors-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726327317270544384/rumors-12",
-		"en-edit":false,
+		"featured":["silverash","pramanix","cliffheart","courier","matterhorn","zima","gummy","istina"],
+		"search":["rumors","kjerag","karlan trade","ursus","ussg"],
 		"stickers":[
 			{
 				"key":0,
@@ -3261,7 +3287,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1274688705530220545?s=20",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726331371845517312/at-work-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726334746599227392/at-work-22",
-		"en-edit":true,
+		"featured":["silence","ifrit","mayer","saria","ptilopsis","texas","exusiai","exu","croissant","doctor","doktah","sora","emperor"],
+		"search":["work","rhine lab","penguin logistics"],
 		"stickers":[
 			{
 				"key":0,
@@ -3383,7 +3410,8 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1285937643684007936?s=20",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726338271433588736/all-amiya-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726341737187098624/all-amiya-22",
-		"en-edit":true,
+		"featured":["amiya","doctor","doktah"],
+		"search":["amiya"],
 		"stickers":[
 			{
 				"key":0,
@@ -3510,7 +3538,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726348746271621120/lungmen-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726352236301664256/lungmen-22",
-		"en-edit":false,
+		"featured":["shaw","ch'en","chen","hoshiguma","feater","swire","matoimaru","shirayuki"],
+		"search":["lungmen"],
 		"stickers":[
 			{
 				"key":0,
@@ -3623,7 +3652,9 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726345206452125696/assorted-stickers",
 		"tumblr-source2":null,
-		"en-edit":false,
+		"featured":["ch'en","chen","eyjafjalla","steward","wei yenwu","ptilopsis","hoshiguma","sora","liskarm","franka","angelina","misha","amiya","cliffheart"],
+		"search":["set2","set 2","2","extra"],
+		"note":"The Misha sticker is a duplicate from the original set 2.",
 		"stickers":[
 			{
 				"key":0,
@@ -3748,7 +3779,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726456489780379648/necessary-solutions-stickers-22",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726467831016914944/test-post-again",
-		"en-edit":false,
+		"featured":["chen","ch'en","hoshiguma","swire","greyy","wei yenwu","fumizuki","shaw","shirayuki","orchid","catapult","midnight","spot","popukar","amiya","savage","croissant"],
+		"search":["ch5","ch 5","chapter 5","ep5","ep 5","episode 5","necessary solutions"],
 		"stickers":[
 			{
 				"key":0,
@@ -3852,13 +3884,14 @@
 	{
 		"pack":"set7",
 		"fullname":"Set 7",
-		"cn-date":"2019-06-07",
+		"cn-date":"2019-05-23",
 		"cn-src":"https://weibo.com/6441489862/HvxoNf8mr",
 		"en-date":null,
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726355763542523904/everyday-rhodes-ii-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726359163404484608/everyday-rhodes-ii-22",
-		"en-edit":false,
+		"featured":["orchid","w","shaw","zima","melantha","durin","gummy","reunion","mephisto","chen","ch'en","rope","mousse","kal'tsit","kaltsit","haze","amiya"],
+		"search":["set7","set 7","7"],
 		"stickers":[
 			{
 				"key":0,
@@ -3975,14 +4008,16 @@
 	},
 	{
 		"pack":"set6",
-		"fullname":"Set 6/Everyday Lungmen",
-		"cn-date":"2019-06-07",
+		"fullname":"Set 6",
+		"cn-date":"2019-05-23",
 		"cn-src":"https://weibo.com/6441489862/HvxoNf8mr",
 		"en-date":null,
 		"en-src":"https://www.arknights.global/fankit",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726362383735554048/everyday-lungmen-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726365202258542592/everyday-lungmen-12",
-		"en-edit":true,
+		"featured":["fumizuki","chen","ch'en","wei yenwu","hoshiguma","talulah","shirayuki","amiya","shaw"],
+		"search":["set6","set 6", "6", "everyday lungmen","lungmen"],
+		"note":"As the first sticker pack available on the EN server, I could not find an announcement with a date for when it was released to EN. The EN name is \"Everyday Lungmen\" and includes the FEater \"Don't wanna work\" sticker.",
 		"stickers":[
 			{
 				"key":0,
@@ -4160,7 +4195,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726368214167207937/everyday-rhodes-i-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726371132360491008/sticker-pack-5-22",
-		"en-edit":false,
+		"featured":["amiya","dobermann","talulah","shaw","liskarm","franka","jessica","texas","exusiai","exu","hoshiguma","misha","skullshatterer","frostnova","mephisto","deepcolor","cuora"],
+		"search":["set5","set 5","5"],
 		"stickers":[
 			{
 				"key":0,
@@ -4282,7 +4318,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726374051889676288/daily-life-iii-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726376906082123776/daily-life-iii-22",
-		"en-edit":false,
+		"featured":["amiya","doctor","doktah","feater","specter","myrrh","12f","kal'tsit","kaltsit","monster","mon3tr"],
+		"search":["set4"," set 4", "4"],
 		"stickers":[
 			{
 				"key":0,
@@ -4404,7 +4441,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726379946419929088/sticker-pack-3-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726382854050824192/sticker-pack-3-22",
-		"en-edit":false,
+		"featured":["silence","ptilopsis","ifrit","kal'tsit","kaltsit","croissant","hoshiguma","chen","ch'en","wei yenwu"],
+		"search":["set3", "set 3", "3"],
 		"stickers":[
 			{
 				"key":0,
@@ -4527,7 +4565,8 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726385713490378752/sticker-pack-2",
 		"tumblr-source2":null,
-		"en-edit":false,
+		"featured":["amiya","lappland","texas","exusiai","exu","kal'tsit","kaltsit","ch'en","chen","emperor","misha"],
+		"search":["set2", "set 2", "2"],
 		"stickers":[
 			{
 				"key":0,
@@ -4638,7 +4677,9 @@
 		"en-src":null,
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726388598804447232/sticker-pack-1-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726391634329206784/sticker-pack-1-23",
-		"en-edit":false,
+		"featured":["amiya","bunny"],
+		"search":["set1", "set 1", "1"],
+		"note":"Gifs!",
 		"stickers":[
 			{
 				"key":0,
