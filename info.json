@@ -3032,13 +3032,15 @@
 				"key":0,
 				"name":"executor_whack",
 				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_whack.png",
-				"alt":"Executor performs a 'percussive maintenance' on a screen with an antenna on its side."
+				"alt":"Executor performs a 'percussive maintenance' on a screen with an antenna on its side.",
+				"caption":"\"Pa!\" or \"Smack!\""
 			},
 			{
 				"key":2,
 				"name":"executor_sign",
 				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/executor_sign.png",
-				"alt":"Executors holds out a document in his left hand and a pen in his right, telling someone to sign."
+				"alt":"Executors holds out a document in his left hand and a pen in his right, telling someone to sign.",
+				"caption":"Please."
 			},
 			{
 				"key":4,
@@ -3062,7 +3064,8 @@
 				"key":7,
 				"name":"vermeil_sniff",
 				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/vermeil_sniff.png",
-				"alt":"Vermeil sniffs the air with her eyes closed and her ears perked up. The sniffing sound effect is written in Chinese."
+				"alt":"Vermeil sniffs the air with her eyes closed and her ears perked up. The sniffing sound effect is written in Chinese.",
+				"caption":"Sniff sniff"
 			},
 			{
 				"key":9,
@@ -3074,7 +3077,8 @@
 				"key":10,
 				"name":"amiya_spray",
 				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/amiya_spray.png",
-				"alt":"Amiya wears a gas mask as she sprays a bottle of disinfectant."
+				"alt":"Amiya wears a gas mask as she sprays a bottle of disinfectant.",
+				"caption":"\"Pshhhhhh\" or [spray can sound effect]"
 			},
 			{
 				"key":12,
@@ -3092,7 +3096,8 @@
 				"key":14,
 				"name":"silence_scan",
 				"href":"https://noktalis.github.io/ak-stickers/2019/op_intel/silence_scan.png",
-				"alt":"Silence scans Doctor's head with a handheld device. It makes a sound as it completes the scan."
+				"alt":"Silence scans Doctor's head with a handheld device. It makes a sound as it completes the scan.",
+				"caption":"Beep!"
 			},
 			{
 				"key":16,
