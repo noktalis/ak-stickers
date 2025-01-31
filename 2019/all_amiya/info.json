@@ -7,7 +7,8 @@
 	"en-src":"https://twitter.com/ArknightsEN/status/1285937643684007936?s=20",
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726338271433588736/all-amiya-12",
 	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726341737187098624/all-amiya-22",
-	"en-edit":true,
+	"featured":["amiya","doctor","doktah"],
+	"search":["amiya"],
 	"stickers":[
 		{
 			"key":0,

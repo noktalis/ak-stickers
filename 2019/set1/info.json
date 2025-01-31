@@ -3,11 +3,11 @@
 	"fullname":"Set 1",
 	"cn-date":"2019-04-29",
 	"cn-src":"https://weibo.com/6441489862/HrT2R7uiJ",
-	"en-date":null,
-	"en-src":null,
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726388598804447232/sticker-pack-1-12",
 	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726391634329206784/sticker-pack-1-23",
-	"en-edit":false,
+	"featured":["amiya","bunny"],
+	"search":["set1", "set 1", "1"],
+	"note":"Gifs!",
 	"stickers":[
 		{
 			"key":0,
@@ -122,7 +122,8 @@
 			"name":"amiya_smile",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set1/amiya_smile.gif",
 			"alt":"A gif of Bunny Amiya being happy and enjoying life. She sits while swaying her head from side to side. She also has her hands on her feet, moving the top of her feet side to side."
-		},{
+		},
+		{
 			"key":19,
 			"name":"amiya_bounce",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set1/amiya_bounce.gif",

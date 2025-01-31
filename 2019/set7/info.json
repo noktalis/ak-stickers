@@ -1,13 +1,12 @@
 {
 	"pack":"set7",
 	"fullname":"Set 7",
-	"cn-date":"2019-06-07",
+	"cn-date":"2019-05-23",
 	"cn-src":"https://weibo.com/6441489862/HvxoNf8mr",
-	"en-date":null,
-	"en-src":null,
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726355763542523904/everyday-rhodes-ii-12",
 	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726359163404484608/everyday-rhodes-ii-22",
-	"en-edit":false,
+	"featured":["orchid","w","shaw","zima","melantha","durin","gummy","reunion","mephisto","chen","ch'en","rope","mousse","kal'tsit","kaltsit","haze","amiya"],
+	"search":["set7","set 7","7"],
 	"stickers":[
 		{
 			"key":0,

@@ -3,11 +3,10 @@
 	"fullname":"Set 5",
 	"cn-date":"2019-05-22",
 	"cn-src":"https://weibo.com/6441489862/Hvo8q26JW",
-	"en-date":null,
-	"en-src":null,
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726368214167207937/everyday-rhodes-i-12",
 	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726371132360491008/sticker-pack-5-22",
-	"en-edit":false,
+	"featured":["amiya","dobermann","talulah","shaw","liskarm","franka","jessica","texas","exusiai","exu","hoshiguma","misha","skullshatterer","frostnova","mephisto","deepcolor","cuora"],
+	"search":["set5","set 5","5"],
 	"stickers":[
 		{
 			"key":0,
@@ -110,7 +109,7 @@
 			"name":"deepcolor_glasses",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set5/deepcolor_glasses.png",
 			"alt":"The image is zoomed in on Deepcolor's face. The frame only shows half of her face. She points to her eye with her left hand. A person's silhouette is reflected in her eye. According to Xue, the words to the right read, 'Have colored glasses'",
-			"caption":"[Lit.] \"Have colored glasses\" or \"You're biased (seeing things through a colored lens)\""
+		"caption":"[Lit.] \"Have colored glasses\" or \"You're biased (seeing things through a colored lens)\""
 		},
 		{
 			"key":15,

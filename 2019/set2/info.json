@@ -3,11 +3,10 @@
 	"fullname":"Set 2",
 	"cn-date":"2019-04-29",
 	"cn-src":"https://weibo.com/6441489862/HrT2R7uiJ",
-	"en-date":null,
-	"en-src":null,
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726385713490378752/sticker-pack-2",
 	"tumblr-source2":null,
-	"en-edit":false,
+	"featured":["amiya","lappland","texas","exusiai","exu","kal'tsit","kaltsit","ch'en","chen","emperor","misha"],
+	"search":["set2", "set 2", "2"],
 	"stickers":[
 		{
 			"key":0,

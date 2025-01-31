@@ -7,7 +7,8 @@
 	"en-src":"https://twitter.com/ArknightsEN/status/1267409828411871232?s=20",
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726309716258603008/code-of-brawl-stickers-12",
 	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726312613051564032/code-of-brawl-stickers-22",
-	"en-edit":true,
+	"featured":["mostima","breeze","bison","may","ethan","waai fu","waaifu","siege","doctor","doktah","warfarin","nightingale","firewatch","kroos","rope"],
+	"search":["code of brawl"],
 	"stickers":[
 		{
 			"key":0,
@@ -91,7 +92,8 @@
 			"key":15,
 			"name":"firewatch_button",
 			"href":"https://noktalis.github.io/ak-stickers/2019/code_of_brawl/firewatch_button.png",
-			"alt":"Firewatch stands before a button with a deadpan expression. The lid on the button is labelled 'DANGER' and has been removed out of the way. The button makes a sound as Firewatch's finger presses down on it."
+			"alt":"Firewatch stands before a button with a deadpan expression. The lid on the button is labelled 'DANGER' and has been removed out of the way. The button makes a sound as Firewatch's finger presses down on it.",
+			"caption":"Beep"
 		},
 		{
 			"key":16,

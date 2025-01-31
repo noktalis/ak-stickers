@@ -3,11 +3,10 @@
 	"fullname":"Take a Break",
 	"cn-date":"2019-12-17",
 	"cn-src":"https://weibo.com/6441489862/IleaajIAr",
-	"en-date":null,
-	"en-src":null,
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726303937841528832/taking-a-break-12",
 	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726306817202913280/taking-a-break-22",
-	"en-edit":false,
+	"featured":["kroos","yato","hibiscus","lava","durin","dobermann","rangers","beagle","fang","noir corne","amiya","kal'tsit","kaltsit"],
+	"search":["break"],
 	"stickers":[
 		{
 			"key":0,
@@ -73,7 +72,8 @@
 			"key":10,
 			"name":"beagle_swet",
 			"href":"https://noktalis.github.io/ak-stickers/2019/ri_break/beagle_swet.png",
-			"alt":"Beagles sweats profusely in a panic as she hides her report card behind her back."
+			"alt":"Beagles sweats profusely in a panic as she hides her report card behind her back.",
+			"caption":"Report Card"
 		},
 		{
 			"key":11,

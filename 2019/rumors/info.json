@@ -3,11 +3,10 @@
 	"fullname":"Rumors",
 	"cn-date":"2019-09-23",
 	"cn-src":"https://weibo.com/6441489862/I8ouxwdfo",
-	"en-date":null,
-	"en-src":null,
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726321405702045696/rumors-12",
 	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726327317270544384/rumors-12",
-	"en-edit":false,
+	"featured":["silverash","pramanix","cliffheart","courier","matterhorn","zima","gummy","istina"],
+	"search":["rumors","kjerag","karlan trade","ursus","ussg"],
 	"stickers":[
 		{
 			"key":0,

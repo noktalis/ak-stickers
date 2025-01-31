@@ -3,11 +3,10 @@
 	"fullname":"Set 3",
 	"cn-date":"2019-04-29",
 	"cn-src":"https://weibo.com/6441489862/HrT2R7uiJ",
-	"en-date":null,
-	"en-src":null,
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726379946419929088/sticker-pack-3-12",
 	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726382854050824192/sticker-pack-3-22",
-	"en-edit":false,
+	"featured":["silence","ptilopsis","ifrit","kal'tsit","kaltsit","croissant","hoshiguma","chen","ch'en","wei yenwu"],
+	"search":["set3", "set 3", "3"],
 	"stickers":[
 		{
 			"key":0,

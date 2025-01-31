@@ -3,11 +3,11 @@
 	"fullname":"Set 2 Extra",
 	"cn-date":"2019-07-19",
 	"cn-src":"https://weibo.com/6441489862/HEf52zvZE",
-	"en-date":null,
-	"en-src":null,
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726345206452125696/assorted-stickers",
 	"tumblr-source2":null,
-	"en-edit":false,
+	"featured":["ch'en","chen","eyjafjalla","steward","wei yenwu","ptilopsis","hoshiguma","sora","liskarm","franka","angelina","misha","amiya","cliffheart"],
+	"search":["set2","set 2","2","extra"],
+	"note":"The Misha sticker is a duplicate from the original set 2.",
 	"stickers":[
 		{
 			"key":0,

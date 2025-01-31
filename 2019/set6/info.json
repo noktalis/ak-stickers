@@ -1,13 +1,15 @@
 {
 	"pack":"set6",
-	"fullname":"Set 6/Everyday Lungmen",
-	"cn-date":"2019-06-07",
+	"fullname":"Set 6",
+	"cn-date":"2019-05-23",
 	"cn-src":"https://weibo.com/6441489862/HvxoNf8mr",
 	"en-date":null,
 	"en-src":"https://www.arknights.global/fankit",
 	"tumblr-source1":"https://arknights-archive.tumblr.com/post/726362383735554048/everyday-lungmen-12",
 	"tumblr-source2":"https://arknights-archive.tumblr.com/post/726365202258542592/everyday-lungmen-12",
-	"en-edit":true,
+	"featured":["fumizuki","chen","ch'en","wei yenwu","hoshiguma","talulah","shirayuki","amiya","shaw"],
+	"search":["set6","set 6", "6", "everyday lungmen","lungmen"],
+	"note":"As the first sticker pack available on the EN server, I could not find an announcement with a date for when it was released to EN. The EN name is \"Everyday Lungmen\" and includes the FEater \"Don't wanna work\" sticker. The CN version also includes three extra stickers in another art style that are not shown in the sticker sheet.",
 	"stickers":[
 		{
 			"key":0,
@@ -159,8 +161,7 @@
 			"key":23,
 			"name":"amiya_think_en",
 			"href":"https://noktalis.github.io/ak-stickers/2019/set6/amiya_think_en.png",
-			"alt":"Bunny Amiya sits in the corner of the image. A thought bubble indicates that she's thinking of carrots.",
-			"caption":""
+			"alt":"Bunny Amiya sits in the corner of the image. A thought bubble indicates that she's thinking of carrots."
 		},
 		{
 			"key":24,
