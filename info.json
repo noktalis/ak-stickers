@@ -1414,114 +1414,120 @@
 				"key":0,
 				"name":"phantom_cat_bop",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/phantom_cat_bop.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Phantom holds up Miss Christine as she presses her paws on his eyes."
 			},
 			{
 				"key":1,
 				"name":"phantom_doctor_mourn",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/phantom_doctor_mourn.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Phantom dramatically holds a collapsed Doctor under a spotlight as if he is grieving."
 			},
 			{
 				"key":2,
 				"name":"w_smile",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/w_smile.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"W grins as she makes a heart with her left index and thumb."
 			},
 			{
 				"key":3,
 				"name":"w_evil",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/w_evil.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"W menacingly laughs, a dark shadow cast over her expression like she has wicked plans."
 			},
 			{
 				"key":4,
 				"name":"weedy_glove",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/weedy_glove.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Weedy smiles in self satisfaction as she push on her gloves."
 			},
 			{
 				"key":5,
 				"name":"weedy_gasp",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/weedy_gasp.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Weedy recoils back, horrified and aghast."
 			},
 			{
 				"key":6,
 				"name":"sideroca_lift",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/sideroca_lift.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Sideroca nonchalantly lifts a dumbbell with her right arm."
 			},
 			{
 				"key":7,
 				"name":"sideroca_chaos",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/sideroca_chaos.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Sideroca seems overwhelmed as she handed a drink with a little parasol as she sits on a massage chair vibrating at a high frequency."
 			},
 			{
 				"key":8,
 				"name":"shamare_pray",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/shamare_pray.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Shamare screws her eyes shut and clasps her hands together tightly as if in desperate prayer."
 			},
 			{
 				"key":9,
 				"name":"shamare_mald",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/shamare_mald.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Shamare throws her doll on the ground in frustration."
 			},
 			{
 				"key":10,
 				"name":"elysium_think",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/elysium_think.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Elysium smirks at the thought of something."
 			},
 			{
 				"key":11,
 				"name":"elysium_smile",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/elysium_smile.png",
-				"alt":"Music of the Night alternative text",
+				"alt":"Elysium grins with his hands spread out to say something was 'Easy.'",
 				"caption":"EZ"
 			},
 			{
 				"key":12,
 				"name":"thrm_bomb",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/thrm_bomb.png",
-				"alt":"Music of the Night alternative text",
+				"alt":"Thermal-Ex emits energy. There is a label on top of him that says 'Time to self destruct' and a timer at 0.",
 				"caption":"Time to self destruct"
 			},
 			{
 				"key":13,
 				"name":"thrm_buff",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/thrm_buff.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"The top of Thermal-Ex's head has been put on top of a buff man's body."
 			},
 			{
 				"key":14,
 				"name":"cutter_threat",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/cutter_threat.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Cutter menacing holds up her sword over her head, ready to chop down."
 			},
 			{
 				"key":15,
 				"name":"cutter_doctor_squish",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/cutter_doctor_squish.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Doctor curiously turns toward Cutter as she squishes their cheeks over their hood."
 			},
 			{
 				"key":16,
 				"name":"elysium_smile_en",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/elysium_smile_en.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Elysium grins with his hands spread out to say something was 'Easy,' but in English this time."
 			},
 			{
 				"key":17,
 				"name":"thrm_bomb_en",
 				"href":"https://noktalis.github.io/ak-stickers/2020/darknights/thrm_bomb_en.png",
-				"alt":"Music of the Night alternative text"
+				"alt":"Thermal-Ex emits energy like he is about to explode. There is a label on top of him that says 'Countdown' and a timer above it at 0."
 			}
 		]
 	},
+
+
+
+
+
+
 	{
 		"pack":"lawson_collab1",
 		"fullname":"Arknights x Lawson",
@@ -1630,11 +1636,6 @@
 			}
 		]
 	},
-	
-	
-	
-	
-	
 	{
 		"pack":"coffee_shop",
 		"fullname":"Coffee Shop",
