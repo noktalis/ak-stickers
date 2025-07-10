@@ -1,95 +1,118 @@
 {
-    "pack": "as2021",
-    "fullname": "AS2021",
-    "cn-date": "2021-06-08",
-    "cn-src": "https://www.bilibili.com/opus/533868016900148365",
-    "tumblr-source1": "https://arknights-archive.tumblr.com/post/757001314893021184/as2021-stickers",
+    "pack": "preluding_lights",
+    "fullname": "Preluding Lights",
+    "cn-date": "2021-06-18",
+    "cn-src": "https://weibo.com/6441489862/KkM5yyvpM",
+    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726146119924580352/preluding-lights-stickers-12",
+    "tumblr-source2": "https://arknights-archive.tumblr.com/post/726149016316968960/preluding-lights-stickers-22",
     "featured": [
-        "Amiya",
-        "Schwarz",
-        "Shining",
-        "Angelina",
-        "Silence",
-        "Hellagur",
-        "Sussurro",
-        "W",
-        "Courier",
-        "Vigna",
-        "Blaze",
-        "Bagpipe"
+        "Bena",
+        "Kirara",
+        "Indigo",
+        "Carnelian",
+        "Folinic",
+        "Zima",
+        "Thorns",
+        "Blue Poison",
+        "Surtr",
+        "Closure"
     ],
-    "search": ["ambience synesthesia","concert"],
+    "search": ["preluding","lights","carnelian"],
     "stickers": [
         {
             "key": 0,
-            "name": "amiya_paper",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/amiya_paper.png",
+            "name": "bena_go",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/bena_go.png",
             "alt": "Alternative text"
         },
         {
             "key": 1,
-            "name": "schwarz_thumbs_up",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/schwarz_thumbs_up.png",
+            "name": "bena_fusion",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/bena_fusion.png",
             "alt": "Alternative text"
         },
         {
             "key": 2,
-            "name": "shining_disappoint",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/shining_disappoint.png",
+            "name": "kirara_struggle",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/kirara_struggle.png",
             "alt": "Alternative text"
         },
         {
             "key": 3,
-            "name": "angelina_amazed",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/angelina_amazed.png",
+            "name": "kirara_cry",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/kirara_cry.png",
             "alt": "Alternative text"
         },
         {
             "key": 4,
-            "name": "silence_fury",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/silence_fury.png",
+            "name": "indigo_nest",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/indigo_nest.png",
             "alt": "Alternative text"
         },
         {
             "key": 5,
-            "name": "hellagur_squint",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/hellagur_squint.png",
+            "name": "indigo_here",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/indigo_here.png",
             "alt": "Alternative text"
         },
         {
             "key": 6,
-            "name": "sussurro_sad",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/sussurro_sad.png",
+            "name": "carnelian_work",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/carnelian_work.png",
             "alt": "Alternative text"
         },
         {
             "key": 7,
-            "name": "w_melon",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/w_melon.png",
+            "name": "carnelian_flinch",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/carnelian_flinch.png",
             "alt": "Alternative text"
         },
         {
             "key": 8,
-            "name": "courier_confused",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/courier_confused.png",
+            "name": "folinic_inspect",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/folinic_inspect.png",
             "alt": "Alternative text"
         },
         {
             "key": 9,
-            "name": "vigna_rock",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/vigna_rock.png",
+            "name": "zima_bears",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/zima_bears.png",
             "alt": "Alternative text"
         },
         {
             "key": 10,
-            "name": "blaze_ticked",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/blaze_ticked.png",
+            "name": "thorns_nom",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/thorns_nom.png",
             "alt": "Alternative text"
         },
         {
             "key": 11,
-            "name": "bagpipe_scold",
-            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/bagpipe_scold.png",
+            "name": "bp_notice",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/bp_notice.png",
+            "alt": "Alternative text"
+        },
+        {
+            "key": 12,
+            "name": "surtr_come",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/surtr_come.png",
+            "alt": "Alternative text"
+        },
+        {
+            "key": 13,
+            "name": "surtr_go",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/surtr_go.png",
+            "alt": "Alternative text"
+        },
+        {
+            "key": 14,
+            "name": "closure_break",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/closure_break.png",
+            "alt": "Alternative text"
+        },
+        {
+            "key": 15,
+            "name": "closure_work",
+            "href": "https://noktalis.github.io/ak-stickers/2021/preluding_lights/closure_work.png",
             "alt": "Alternative text"
         }
     ]
