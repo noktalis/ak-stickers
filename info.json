@@ -148,7 +148,8 @@
 				"key": 1,
 				"name": "skalter_what",
 				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/skalter_what.png",
-				"alt": "Alternative text"
+				"alt": "Alternative text",
+				"caption":"Why/How/What"
 			},
 			{
 				"key": 2,
@@ -172,7 +173,8 @@
 				"key": 5,
 				"name": "pass_math",
 				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/pass_math.png",
-				"alt": "Alternative text"
+				"alt": "Alternative text",
+				"caption":"Listen to me elaborate"
 			},
 			{
 				"key": 6,
@@ -202,7 +204,8 @@
 				"key": 10,
 				"name": "gladiia_stare",
 				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/gladiia_stare.png",
-				"alt": "Alternative text"
+				"alt": "Alternative text",
+				"caption":"*Stare*"
 			},
 			{
 				"key": 11,
@@ -214,13 +217,15 @@
 				"key": 12,
 				"name": "kal_sip",
 				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/kal_sip.png",
-				"alt": "Alternative text"
+				"alt": "Alternative text",
+				"caption":"*Siiiiip*"
 			},
 			{
 				"key": 13,
 				"name": "kal_spit",
 				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/kal_spit.png",
-				"alt": "Alternative text"
+				"alt": "Alternative text",
+				"caption":"*Bleeeeeh*"
 			},
 			{
 				"key": 14,
