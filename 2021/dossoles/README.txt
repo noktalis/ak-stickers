@@ -12,11 +12,7 @@ Stickers from @arknights-archive on tumblr
 https://arknights-archive.tumblr.com/post/726137332943732736/dossoles-holiday-stickers-12
 https://arknights-archive.tumblr.com/post/726140222280269824/dossoles-holiday-stickers-22
 
-(if stickers edited and cropped myself)
-Stickers edited by Nat
-https://www.arknights.global/fankit
-
 Corresponds to Dossoles Holiday
 https://arknights.wiki.gg/wiki/Dossoles_Holiday
 
-Features Mudrock, Mizuki, Ch'en the Holungday, Talulah (cat), Sideroca, Jaye, Hoshiguma, Swire the Elegant Wit, Tequila, Sussurro, Lin, Angelina, Projekt Red, Tomimi, La Pluma, Eyjafjalla, Pallas.
+Features Mudrock, Mizuki, Ch'en, Talulah, Sideroca, Jaye, Hoshiguma, Swire the Elegant Wit, Tequila, Sussurro, Lin, Angelina, Projekt Red, Tomimi, La Pluma, Eyjafjalla, Pallas.
