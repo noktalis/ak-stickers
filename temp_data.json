@@ -1,114 +1,95 @@
 {
-    "pack": "all_skadi",
-    "fullname": "All Skadi",
-    "cn-date": "2021-05-08",
-    "cn-src": "https://weibo.com/6441489862/KewnTqfk0",
-    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726151916719128576/all-skadi-12",
-    "tumblr-source2": "https://arknights-archive.tumblr.com/post/726154807917871104/all-skadi-22",
+    "pack": "as2021",
+    "fullname": "AS2021",
+    "cn-date": "2021-06-08",
+    "cn-src": "https://www.bilibili.com/opus/533868016900148365",
+    "tumblr-source1": "https://arknights-archive.tumblr.com/post/757001314893021184/as2021-stickers",
     "featured": [
-        "Skadi the Corrupting Heart",
-        "Doctor",
-        "Skadi",
-        "Specter",
-        "Grani"
+        "Amiya",
+        "Schwarz",
+        "Shining",
+        "Angelina",
+        "Silence",
+        "Hellagur",
+        "Sussurro",
+        "W",
+        "Courier",
+        "Vigna",
+        "Blaze",
+        "Bagpipe"
     ],
-    "search": ["skadi"],
+    "search": ["ambience synesthesia","concert"],
     "stickers": [
         {
             "key": 0,
-            "name": "skadi_sing",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_sing.png",
+            "name": "amiya_paper",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/amiya_paper.png",
             "alt": "Alternative text"
         },
         {
             "key": 1,
-            "name": "skadi_cry",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_cry.png",
+            "name": "schwarz_thumbs_up",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/schwarz_thumbs_up.png",
             "alt": "Alternative text"
         },
         {
             "key": 2,
-            "name": "skadi_doc_pull",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_doc_pull.png",
+            "name": "shining_disappoint",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/shining_disappoint.png",
             "alt": "Alternative text"
         },
         {
             "key": 3,
-            "name": "skadi_spits",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_spits.png",
-            "alt": "Alternative text",
-			"caption":"*spits*"
+            "name": "angelina_amazed",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/angelina_amazed.png",
+            "alt": "Alternative text"
         },
         {
             "key": 4,
-            "name": "skadi_hug",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_hug.png",
+            "name": "silence_fury",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/silence_fury.png",
             "alt": "Alternative text"
         },
         {
             "key": 5,
-            "name": "skadi_plushie",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_plushie.png",
+            "name": "hellagur_squint",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/hellagur_squint.png",
             "alt": "Alternative text"
         },
         {
             "key": 6,
-            "name": "skadi_sweat",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_sweat.png",
+            "name": "sussurro_sad",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/sussurro_sad.png",
             "alt": "Alternative text"
         },
         {
             "key": 7,
-            "name": "abyss_down",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/abyss_down.png",
+            "name": "w_melon",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/w_melon.png",
             "alt": "Alternative text"
         },
         {
             "key": 8,
-            "name": "skadi_swim",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_swim.png",
+            "name": "courier_confused",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/courier_confused.png",
             "alt": "Alternative text"
         },
         {
             "key": 9,
-            "name": "skadi_grani_friend",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_grani_friend.png",
+            "name": "vigna_rock",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/vigna_rock.png",
             "alt": "Alternative text"
         },
         {
             "key": 10,
-            "name": "skadi_sunset",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_sunset.png",
+            "name": "blaze_ticked",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/blaze_ticked.png",
             "alt": "Alternative text"
         },
         {
             "key": 11,
-            "name": "skadi_sleep",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_sleep.png",
-            "alt": "Alternative text"
-        },
-        {
-            "key": 12,
-            "name": "abyss_beating",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/abyss_beating.png",
-            "alt": "Alternative text"
-        },
-        {
-            "key": 13,
-            "name": "skadi_nom",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_nom.png",
-            "alt": "Alternative text"
-        },
-        {
-            "key": 14,
-            "name": "skadi_idiot",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_idiot.png",
-            "alt": "Alternative text"
-        },
-        {
-            "key": 15,
-            "name": "skadi_confused",
-            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_confused.png",
+            "name": "bagpipe_scold",
+            "href": "https://noktalis.github.io/ak-stickers/2021/as2021/bagpipe_scold.png",
             "alt": "Alternative text"
         }
     ]

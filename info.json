@@ -118,6 +118,102 @@
 		]
 	},
 	{
+		"pack": "as2021",
+		"fullname": "AS2021",
+		"cn-date": "2021-06-08",
+		"cn-src": "https://www.bilibili.com/opus/533868016900148365",
+		"tumblr-source1": "https://arknights-archive.tumblr.com/post/757001314893021184/as2021-stickers",
+		"featured": [
+			"Amiya",
+			"Schwarz",
+			"Shining",
+			"Angelina",
+			"Silence",
+			"Hellagur",
+			"Sussurro",
+			"W",
+			"Courier",
+			"Vigna",
+			"Blaze",
+			"Bagpipe"
+		],
+		"search": ["ambience synesthesia","concert"],
+		"stickers": [
+			{
+				"key": 0,
+				"name": "amiya_paper",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/amiya_paper.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 1,
+				"name": "schwarz_thumbs_up",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/schwarz_thumbs_up.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 2,
+				"name": "shining_disappoint",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/shining_disappoint.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 3,
+				"name": "angelina_amazed",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/angelina_amazed.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 4,
+				"name": "silence_fury",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/silence_fury.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 5,
+				"name": "hellagur_squint",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/hellagur_squint.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 6,
+				"name": "sussurro_sad",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/sussurro_sad.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 7,
+				"name": "w_melon",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/w_melon.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 8,
+				"name": "courier_confused",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/courier_confused.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 9,
+				"name": "vigna_rock",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/vigna_rock.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 10,
+				"name": "blaze_ticked",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/blaze_ticked.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 11,
+				"name": "bagpipe_scold",
+				"href": "https://noktalis.github.io/ak-stickers/2021/as2021/bagpipe_scold.png",
+				"alt": "Alternative text"
+			}
+		]
+	},
+	{
 		"pack": "all_skadi",
 		"fullname": "All Skadi",
 		"cn-date": "2021-05-08",
