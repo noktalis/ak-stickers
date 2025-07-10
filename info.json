@@ -76,7 +76,8 @@
 				"key": 9,
 				"name": "dusk_yawn",
 				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/dusk_yawn.png",
-				"alt": "Alternative text"
+				"alt": "Alternative text",
+				"caption":"So what? (indifferent)"
 			},
 			{
 				"key": 10,
@@ -112,6 +113,275 @@
 				"key": 15,
 				"name": "aurora_swet",
 				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/aurora_swet.png",
+				"alt": "Alternative text"
+			}
+		]
+	},
+	{
+		"pack": "under_tides",
+		"fullname": "Gift of the Deep Ones",
+		"cn-date": "2021-04-30",
+		"cn-src": "https://weibo.com/6441489862/KdjwA0X9R",
+		"en-date": "2021-11-04",
+		"en-src": "https://twitter.com/ArknightsEN/status/1456471336218288136",
+		"tumblr-source1": "https://arknights-archive.tumblr.com/post/726157697271185408/a-walk-in-the-dust-under-tides-stickers-12",
+		"tumblr-source2": "https://arknights-archive.tumblr.com/post/726160725270282240/a-walk-in-the-dust-under-tides-stickers-22",
+		"featured": [
+			"Skadi the Corrupting Heart",
+			"Heavyrain",
+			"Passenger",
+			"Toddifons",
+			"Akafuyu",
+			"Gladiia",
+			"Kal'tsit",
+			"Specter"
+		],
+		"search": [],
+		"stickers": [
+			{
+				"key": 0,
+				"name": "skalter_fallen",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/skalter_fallen.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 1,
+				"name": "skalter_what",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/skalter_what.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 2,
+				"name": "heavyrain_tired",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/heavyrain_tired.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 3,
+				"name": "heavyrain_fist",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/heavyrain_fist.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 4,
+				"name": "pass_bleed",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/pass_bleed.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 5,
+				"name": "pass_math",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/pass_math.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 6,
+				"name": "toddi_smile",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/toddi_smile.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 7,
+				"name": "toddi_power",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/toddi_power.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 8,
+				"name": "akafuyu_wtf",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/akafuyu_wtf.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 9,
+				"name": "akafuyu_hungry",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/akafuyu_hungry.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 10,
+				"name": "gladiia_stare",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/gladiia_stare.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 11,
+				"name": "gladiia_shh",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/gladiia_shh.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 12,
+				"name": "kal_sip",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/kal_sip.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 13,
+				"name": "kal_spit",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/kal_spit.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 14,
+				"name": "specter_drained",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/specter_drained.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 15,
+				"name": "specter_prayer",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/specter_prayer.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 16,
+				"name": "skalter_what_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/skalter_what_en.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 17,
+				"name": "pass_math_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/pass_math_en.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 18,
+				"name": "kal_sip_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/kal_sip_en.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 19,
+				"name": "kal_spit_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/under_tides/kal_spit_en.png",
+				"alt": "Alternative text"
+			}
+		]
+	},
+	{
+		"pack": "break_time",
+		"fullname": "Break Time",
+		"cn-date": "2021-01-20",
+		"cn-src": "https://weibo.com/6441489862/JEb5N9cri",
+		"tumblr-source1": "https://arknights-archive.tumblr.com/post/726172433913200640/break-time-12",
+		"tumblr-source2": "https://arknights-archive.tumblr.com/post/726175318791045120/break-time-22",
+		"featured": [
+			"Hung",
+			"Aak",
+			"Waai Fu",
+			"Hoshiguma",
+			"Ch'en",
+			"FEater",
+			"Swire",
+			"Shaw",
+			"Shirayuki",
+			"Matoimaru",
+			"Snowsant",
+			"Purestream",
+			"Utage",
+			"Nian",
+			"Fumizuki",
+			"Wei Yenwu"
+		],
+		"search": ["break","anecdotes","lungmen"],
+		"stickers": [
+			{
+				"key": 0,
+				"name": "hung_wow",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/hung_wow.png",
+				"alt": "Alternative text",
+				"caption":"'Woah!' or 'Waow!'"
+			},
+			{
+				"key": 1,
+				"name": "aak_menace",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/aak_menace.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 2,
+				"name": "waaifu_fight",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/waaifu_fight.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 3,
+				"name": "hoshi_cheer",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/hoshi_cheer.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 4,
+				"name": "chen_disturbed",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/chen_disturbed.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 5,
+				"name": "feater_loud",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/feater_loud.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 6,
+				"name": "swire_bitter",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/swire_bitter.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 7,
+				"name": "shaw_pout",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/shaw_pout.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 8,
+				"name": "shirayuki_polite",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/shirayuki_polite.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 9,
+				"name": "matoimaru_door",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/matoimaru_door.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 10,
+				"name": "snowsant_mercy",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/snowsant_mercy.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 11,
+				"name": "purestream_yay",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/purestream_yay.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 12,
+				"name": "utage_crepe",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/utage_crepe.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 13,
+				"name": "nian_angry",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/nian_angry.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 14,
+				"name": "fumizuki_curious",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/fumizuki_curious.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 15,
+				"name": "wei_shock",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_time/wei_shock.png",
 				"alt": "Alternative text"
 			}
 		]

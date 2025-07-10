@@ -1,10 +1,16 @@
 break time: January 20, 2021
+	- alt text
 cny2 (who is real, beyond here): February 5, 2021
 	- en version in photoshop
 	- alt text
 	- captions
 r6: March 11, 2021
+	- need translation
 under tides (gift of the deep ones): 30 april 2021
+	- need translation
+	- en ver photoshop
+	- alt text
+	- captions
 all skadi: May 8, 2021
 AS2021 jun 8 2021
 	https://www.bilibili.com/opus/533868016900148365
@@ -16,7 +22,6 @@ near light: November 16, 2021
 winter supply: December 10, 2021
 break the ice: 16 dec 2021
 	- alt text
-	- caption
 
 checklist:
 	- README.txt
