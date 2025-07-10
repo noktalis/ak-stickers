@@ -1,116 +1,115 @@
 {
-    "pack": "r6",
-    "fullname": "Rainbow 6 Siege",
-    "cn-date": "2021-03-11",
-    "cn-src": "https://weibo.com/6441489862/K5IdNlyOJ",
-    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726163612427747328/arknights-x-r6s-stickers",
+    "pack": "all_skadi",
+    "fullname": "All Skadi",
+    "cn-date": "2021-05-08",
+    "cn-src": "https://weibo.com/6441489862/KewnTqfk0",
+    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726151916719128576/all-skadi-12",
+    "tumblr-source2": "https://arknights-archive.tumblr.com/post/726154807917871104/all-skadi-22",
     "featured": [
-        "Tachanka",
-        "Blitz",
-        "Liskarm",
-        "Ash",
-        "Schwarz",
-        "Reunion",
-        "Frost"
+        "Skadi the Corrupting Heart",
+        "Doctor",
+        "Skadi",
+        "Specter",
+        "Grani"
     ],
-    "search": ["r6","r6s","rainbow","six","siege","collab"],
+    "search": ["skadi"],
     "stickers": [
         {
             "key": 0,
-            "name": "tachanka_flower",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/tachanka_flower.png",
+            "name": "skadi_sing",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_sing.png",
             "alt": "Alternative text"
         },
         {
             "key": 1,
-            "name": "tachanka_shake",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/tachanka_shake.png",
+            "name": "skadi_cry",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_cry.png",
             "alt": "Alternative text"
         },
         {
             "key": 2,
-            "name": "tachanka_egg",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/tachanka_egg.png",
+            "name": "skadi_doc_pull",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_doc_pull.png",
             "alt": "Alternative text"
         },
         {
             "key": 3,
-            "name": "tachanka_drink",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/tachanka_drink.png",
-            "alt": "Alternative text"
+            "name": "skadi_spits",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_spits.png",
+            "alt": "Alternative text",
+			"caption":"*spits*"
         },
         {
             "key": 4,
-            "name": "blitz_plead",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/blitz_plead.png",
+            "name": "skadi_hug",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_hug.png",
             "alt": "Alternative text"
         },
         {
             "key": 5,
-            "name": "liskarm_shine",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/liskarm_shine.png",
+            "name": "skadi_plushie",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_plushie.png",
             "alt": "Alternative text"
         },
         {
             "key": 6,
-            "name": "blitz_shine",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/blitz_shine.png",
+            "name": "skadi_sweat",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_sweat.png",
             "alt": "Alternative text"
         },
         {
             "key": 7,
-            "name": "",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/.png",
+            "name": "abyss_down",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/abyss_down.png",
             "alt": "Alternative text"
         },
         {
             "key": 8,
-            "name": "ash_door",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/ash_door.png",
+            "name": "skadi_swim",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_swim.png",
             "alt": "Alternative text"
         },
         {
             "key": 9,
-            "name": "schwarz_nuke",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/schwarz_nuke.png",
+            "name": "skadi_grani_friend",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_grani_friend.png",
             "alt": "Alternative text"
         },
         {
             "key": 10,
-            "name": "ash_run",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/ash_run.png",
+            "name": "skadi_sunset",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_sunset.png",
             "alt": "Alternative text"
         },
         {
             "key": 11,
-            "name": "ash_cat",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/ash_cat.png",
+            "name": "skadi_sleep",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_sleep.png",
             "alt": "Alternative text"
         },
         {
             "key": 12,
-            "name": "blitz_pat",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/blitz_pat.png",
+            "name": "abyss_beating",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/abyss_beating.png",
             "alt": "Alternative text"
         },
         {
             "key": 13,
-            "name": "frost_book",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/frost_book.png",
+            "name": "skadi_nom",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_nom.png",
             "alt": "Alternative text"
         },
         {
             "key": 14,
-            "name": "frost_pout",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/frost_pout.png",
+            "name": "skadi_idiot",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_idiot.png",
             "alt": "Alternative text"
         },
         {
             "key": 15,
-            "name": "frost_gtfo",
-            "href": "https://noktalis.github.io/ak-stickers/2021/r6/frost_gtfo.png",
-            "alt": "Alternative text",
-			"caption":"'gtfo.' or 'Get out.'"
+            "name": "skadi_confused",
+            "href": "https://noktalis.github.io/ak-stickers/2021/all_skadi/skadi_confused.png",
+            "alt": "Alternative text"
         }
     ]
 }

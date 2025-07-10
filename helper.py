@@ -192,13 +192,30 @@ def get_sticker_name():
 
 def get_sticker_names():
 	names = []
+	standardSize = False
+	STANDARD: int = 16
+
+	# If sticker pack is standard size, run loop until list is length of 16
+	check_standard = get_input("Is this sticker pack the standard size of at least 16? (y/n)")
+	if check_standard == "y":
+		standardSize = True
 
 	out = False
 	while not out:
+
+		# Get sticker name
 		names.append(get_sticker_name())
-		response = get_input("Add another sticker? (y/n)")
-		if response == "n":
-			out = True
+
+		# Standard pack
+		if standardSize and len(names) >= STANDARD:
+			response = get_input("Add another sticker? (y/n)")
+			if response == "n":
+				out = True
+		# Non standard pack
+		elif not standardSize:
+			response = get_input("Add another sticker? (y/n)")
+			if response == "n":
+				out = True
 
 	return names
 
