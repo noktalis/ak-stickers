@@ -1,5 +1,122 @@
 [
 	{
+		"pack": "break_the_ice",
+		"fullname": "Break the Ice",
+		"cn-date": "2021-12-16",
+		"cn-src": "https://weibo.com/6441489862/L6jKCsXth",
+		"tumblr-source1": "https://arknights-archive.tumblr.com/post/726108011852152832/break-the-ice-stickers-12",
+		"tumblr-source2": "https://arknights-archive.tumblr.com/post/726111057232461824/break-the-ice-stickers-22",
+		"featured": [
+			"Nian",
+			"Aak",
+			"Hung",
+			"Amiya",
+			"Dusk",
+			"Gnosis",
+			"Kjera",
+			"Aurora"
+		],
+		"search": ["break","ice","gnosis"],
+		"stickers": [
+			{
+				"key": 0,
+				"name": "nian_firecracker",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/nian_firecracker.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 1,
+				"name": "aak_lighter",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/aak_lighter.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 2,
+				"name": "aak_peek",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/aak_peek.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 3,
+				"name": "hung_wok",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/hung_wok.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 4,
+				"name": "hung_meal",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/hung_meal.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 5,
+				"name": "nian_nom",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/nian_nom.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 6,
+				"name": "amiya_meal",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/amiya_meal.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 7,
+				"name": "amiya_clean",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/amiya_clean.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 8,
+				"name": "dusk_model",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/dusk_model.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 9,
+				"name": "dusk_yawn",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/dusk_yawn.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 10,
+				"name": "gnosis_what",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/gnosis_what.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 11,
+				"name": "gnosis_scrutinize",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/gnosis_scrutinize.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 12,
+				"name": "kjera_smug",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/kjera_smug.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 13,
+				"name": "kjera_chat",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/kjera_chat.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 14,
+				"name": "aurora_eat",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/aurora_eat.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 15,
+				"name": "aurora_swet",
+				"href": "https://noktalis.github.io/ak-stickers/2021/break_the_ice/aurora_swet.png",
+				"alt": "Alternative text"
+			}
+		]
+	},
+	{
 		"pack":"mansfield",
 		"fullname":"Leisure Time",
 		"cn-date":"2020-12-30",
