@@ -1,5 +1,8 @@
 break time: January 20, 2021
 cny2 (who is real, beyond here): February 5, 2021
+	- en version in photoshop
+	- alt text
+	- captions
 r6: March 11, 2021
 under tides (gift of the deep ones): 30 april 2021
 all skadi: May 8, 2021
@@ -12,6 +15,8 @@ bunnies4 (cats are here): 21 oct 2021
 near light: November 16, 2021
 winter supply: December 10, 2021
 break the ice: 16 dec 2021
+	- alt text
+	- caption
 
 checklist:
 	- README.txt

@@ -12,4 +12,4 @@ https://arknights-archive.tumblr.com/post/726175318791045120/break-time-22
 
 Doesn't seem to correspond to any particular event.
 
-Features Hung, Aak, Waai Fu, Hoshiguma, Ch'en, FEater, Swire, Shaw, Shirayuki, Matoimaru, Snowsant, Purestream, Utage, Nian, Fumizuki, Wei Yenwu.
+Features Hung, Aak, Waai Fu, Hoshiguma, Ch'en, FEater, Swire, Shaw, Shirayuki, Matoimaru, Snowsant, Purestream, Utage, Nian, Fumizuki, Wei Yenwu
