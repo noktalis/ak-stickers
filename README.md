@@ -5,10 +5,9 @@ A repository of all the official Arknights stickers I could get my hands on with
 Ordered by CN release date.
 
 ### Current Status:
-Adding 2020 sticker packs
+Adding 2021 sticker packs
 
 ## TODO:
-- 2020 packs
 - 2021 packs
 - 2022 packs
 - 2023 packs
