@@ -261,6 +261,161 @@
 		]
 	},
 	{
+		"pack": "cny2",
+		"fullname": "Who Is Real",
+		"cn-date": "2021-02-05",
+		"cn-src": "https://weibo.com/6441489862/K0xkw1y6l",
+		"en-date": "2021-07-28",
+		"en-src": "https://twitter.com/ArknightsEN/status/1420323144502587395",
+		"tumblr-source1": "https://arknights-archive.tumblr.com/post/726166503867793408/beyond-here-who-is-real-stickers-12",
+		"tumblr-source2": "https://arknights-archive.tumblr.com/post/726169404017082368/beyond-here-who-is-real-stickers-22",
+		"featured": [
+			"Dusk",
+			"Doctor",
+			"Archetto",
+			"Mr Nothing",
+			"Iris",
+			"Saga",
+			"Beanstalk",
+			"Lava the Purgatory",
+			"Tuye"
+		],
+		"search": ["who","real","beyond","here","dusk","archetto","cny","lny"],
+		"stickers": [
+			{
+				"key": 0,
+				"name": "dusk_judge",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/dusk_judge.png",
+				"alt": "Alternative text",
+				"caption":"Like this"
+			},
+			{
+				"key": 1,
+				"name": "dusk_doc_swet",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/dusk_doc_swet.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 2,
+				"name": "archetto_girlboss",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/archetto_girlboss.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 3,
+				"name": "archetto_unimpressed",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/archetto_unimpressed.png",
+				"alt": "Alternative text",
+				"caption":"Incredible"
+			},
+			{
+				"key": 4,
+				"name": "nothing_here",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/nothing_here.png",
+				"alt": "Alternative text",
+				"caption":"Let me see"
+			},
+			{
+				"key": 5,
+				"name": "nothing_fish",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/nothing_fish.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 6,
+				"name": "iris_facepalm",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/iris_facepalm.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 7,
+				"name": "iris_bed",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/iris_bed.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 8,
+				"name": "saga_doc_snooze",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/saga_doc_snooze.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 9,
+				"name": "saga_blank",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/saga_blank.png",
+				"alt": "Alternative text",
+				"caption":"'Blank' or 'Empty'"
+			},
+			{
+				"key": 10,
+				"name": "beanstalk_groom",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/beanstalk_groom.png",
+				"alt": "Alternative text",
+				"caption":"*scrub scrub scrub*"
+			},
+			{
+				"key": 11,
+				"name": "beanstalk_parade",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/beanstalk_parade.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 12,
+				"name": "lava_avoid",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/lava_avoid.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 13,
+				"name": "lava_rage",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/lava_rage.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 14,
+				"name": "tuye_cloud",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/tuye_cloud.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 15,
+				"name": "tuye_bright",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/tuye_bright.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 16,
+				"name": "dusk_judge_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/dusk_judge_en.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 17,
+				"name": "archetto_unimpressed_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/archetto_unimpressed_en.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 18,
+				"name": "nothing_here_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/nothing_here_en.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 19,
+				"name": "saga_blank_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/saga_blank_en.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 20,
+				"name": "beanstalk_groom_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/cny2/beanstalk_groom_en.png",
+				"alt": "Alternative text"
+			}
+		]
+	},
+	{
 		"pack": "break_time",
 		"fullname": "Break Time",
 		"cn-date": "2021-01-20",
