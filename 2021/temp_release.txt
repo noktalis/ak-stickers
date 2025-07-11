@@ -20,6 +20,8 @@ ch9 (stormwatch): September 21, 2021
 	- photoshop en ver
 	- alt text
 bunnies4 (cats are here): 21 oct 2021
+	- alt text
+	- caption
 near light: November 16, 2021
 winter supply: December 10, 2021
 break the ice: 16 dec 2021

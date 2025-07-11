@@ -118,6 +118,125 @@
 		]
 	},
 	{
+		"pack": "bunnies4",
+		"fullname": "Cats Are Here",
+		"cn-date": "2021-10-21",
+		"cn-src": "https://weibo.com/6441489862/4695069255275709",
+		"tumblr-source1": "https://arknights-archive.tumblr.com/post/726125621186592768/cats-are-here-12",
+		"tumblr-source2": "https://arknights-archive.tumblr.com/post/726128514489843712/cats-are-here-22",
+		"featured": [
+			"Amiya",
+			"Ch'en",
+			"Doctor",
+			"Blaze",
+			"Kal'tsit",
+			"Talulah",
+			"Faust",
+			"Mephisto"
+		],
+		"search": ["bunnies","cats","kitties","kitty"],
+		"stickers": [
+			{
+				"key": 0,
+				"name": "amiya_megaphone",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/amiya_megaphone.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 1,
+				"name": "chen_bike",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/chen_bike.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 2,
+				"name": "doc_wallet",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/doc_wallet.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 3,
+				"name": "doc_flop",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/doc_flop.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 4,
+				"name": "blaze_cheer",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/blaze_cheer.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 5,
+				"name": "blaze_fan",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/blaze_fan.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 6,
+				"name": "kal_ask",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/kal_ask.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 7,
+				"name": "kal_angry",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/kal_angry.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 8,
+				"name": "tal_that",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/tal_that.png",
+				"alt": "Alternative text",
+				"caption":"Ah this"
+			},
+			{
+				"key": 9,
+				"name": "tal_flop",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/tal_flop.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 10,
+				"name": "tal_swet",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/tal_swet.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 11,
+				"name": "mephfaust_tug",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/mephfaust_tug.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 12,
+				"name": "meph_oh",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/meph_oh.png",
+				"alt": "Alternative text",
+				"caption":"Oh?"
+			},
+			{
+				"key": 13,
+				"name": "meph_curl",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/meph_curl.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 14,
+				"name": "mephfaust_pic",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/mephfaust_pic.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 15,
+				"name": "mephfaust_fish",
+				"href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/mephfaust_fish.png",
+				"alt": "Alternative text"
+			}
+		]
+	},
+	{
 		"pack": "ch9",
 		"fullname": "Episode 9: Stormwatch",
 		"cn-date": "2021-09-21",

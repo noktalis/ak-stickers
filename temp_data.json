@@ -1,130 +1,118 @@
 {
-    "pack": "ch9",
-    "fullname": "Episode 9: Stormwatch",
-    "cn-date": "2021-09-21",
-    "cn-src": "https://weibo.com/6441489862/KzkKX1J0E",
-    "en-date": "2022-05-18",
-    "en-src": "https://twitter.com/ArknightsEN/status/1527136966956961792",
-    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726131422972231680/stormwatch-stickers-12",
-    "tumblr-source2": "https://arknights-archive.tumblr.com/post/726134433923629056/stormwatch-stickers-22",
+    "pack": "bunnies4",
+    "fullname": "Cats Are Here",
+    "cn-date": "2021-10-21",
+    "cn-src": "https://weibo.com/6441489862/4695069255275709",
+    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726125621186592768/cats-are-here-12",
+    "tumblr-source2": "https://arknights-archive.tumblr.com/post/726128514489843712/cats-are-here-22",
     "featured": [
-        "Saileach",
-        "Mulberry",
-        "Roberta",
-        "Warfarin",
-        "Archetto",
-        "Pinecone",
-        "Astesia",
-        "Meteor",
-        "Whislash",
-        "Jessica",
+        "Amiya",
+        "Ch'en",
         "Doctor",
-        "Rosmontis",
-        "Nian",
-        "Dusk"
+        "Blaze",
+        "Kal'tsit",
+        "Talulah",
+        "Faust",
+        "Mephisto"
     ],
-    "search": ["chapter","episode","9","nine"],
+    "search": ["bunnies","cats","kitties","kitty"],
     "stickers": [
         {
             "key": 0,
-            "name": "sail_pet",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/sail_pet.png",
+            "name": "amiya_megaphone",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/amiya_megaphone.png",
             "alt": "Alternative text"
         },
         {
             "key": 1,
-            "name": "sail_flag",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/sail_flag.png",
+            "name": "chen_bike",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/chen_bike.png",
             "alt": "Alternative text"
         },
         {
             "key": 2,
-            "name": "mulberry_sad",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/mulberry_sad.png",
+            "name": "doc_wallet",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/doc_wallet.png",
             "alt": "Alternative text"
         },
         {
             "key": 3,
-            "name": "mulberry_safe",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/mulberry_safe.png",
+            "name": "doc_flop",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/doc_flop.png",
             "alt": "Alternative text"
         },
         {
             "key": 4,
-            "name": "roberta_offer",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/roberta_offer.png",
+            "name": "blaze_cheer",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/blaze_cheer.png",
             "alt": "Alternative text"
         },
         {
             "key": 5,
-            "name": "roberta_drop",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/roberta_drop.png",
+            "name": "blaze_fan",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/blaze_fan.png",
             "alt": "Alternative text"
         },
         {
             "key": 6,
-            "name": "warfarin_melt",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/warfarin_melt.png",
+            "name": "kal_ask",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/kal_ask.png",
             "alt": "Alternative text"
         },
         {
             "key": 7,
-            "name": "archetto_idol",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/archetto_idol.png",
+            "name": "kal_angry",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/kal_angry.png",
             "alt": "Alternative text"
         },
         {
             "key": 8,
-            "name": "pinecone_cry",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/pinecone_cry.png",
-            "alt": "Alternative text"
+            "name": "tal_that",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/tal_that.png",
+            "alt": "Alternative text",
+			"caption":"Ah this"
         },
         {
             "key": 9,
-            "name": "astesia_dance",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/astesia_dance.png",
+            "name": "tal_flop",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/tal_flop.png",
             "alt": "Alternative text"
         },
         {
             "key": 10,
-            "name": "meteor_chill",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/meteor_chill.png",
+            "name": "tal_swet",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/tal_swet.png",
             "alt": "Alternative text"
         },
         {
             "key": 11,
-            "name": "whislash_uh",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/whislash_uh.png",
+            "name": "mephfaust_tug",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/mephfaust_tug.png",
             "alt": "Alternative text"
         },
         {
             "key": 12,
-            "name": "jess_buried",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/jess_buried.png",
-            "alt": "Alternative text"
+            "name": "meph_oh",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/meph_oh.png",
+            "alt": "Alternative text",
+			"caption":"Oh?"
         },
         {
             "key": 13,
-            "name": "ros_thumbs_up",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/ros_thumbs_up.png",
+            "name": "meph_curl",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/meph_curl.png",
             "alt": "Alternative text"
         },
         {
             "key": 14,
-            "name": "nian_tada",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/nian_tada.png",
+            "name": "mephfaust_pic",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/mephfaust_pic.png",
             "alt": "Alternative text"
         },
         {
             "key": 15,
-            "name": "dusk_no",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/dusk_no.png",
-            "alt": "Alternative text"
-        },
-        {
-            "key": 16,
-            "name": "mulberry_safe_en",
-            "href": "https://noktalis.github.io/ak-stickers/2021/ch9/mulberry_safe_en.png",
+            "name": "mephfaust_fish",
+            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/mephfaust_fish.png",
             "alt": "Alternative text"
         }
     ]
