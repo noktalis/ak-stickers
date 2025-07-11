@@ -1,118 +1,117 @@
 {
-    "pack": "near_light",
-    "fullname": "Near Light",
-    "cn-date": "2021-11-16",
-    "cn-src": "https://weibo.com/6441489862/L1Tgyx7Gc",
-    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726119709697867776/near-light-stickers-12",
-    "tumblr-source2": "https://arknights-archive.tumblr.com/post/726122747189723136/near-light-stickers-22",
+    "pack": "winter_supply",
+    "fullname": "Winter Supply",
+    "cn-date": "2021-12-10",
+    "cn-src": "https://weibo.com/6441489862/L5pCtAOmI",
+    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726113955694641152/winter-supply-12",
+    "tumblr-source2": "https://arknights-archive.tumblr.com/post/726116818162532352/winter-supply-22",
     "featured": [
-        "Honeyberry",
-        "Corroserum",
-        "Doctor",
-        "Nearl the Radiant Knight",
-        "Flametail",
-        "Pudding",
-        "Justice Knight",
-        "Ashlock",
-        "Wildmane",
-        "Fartooth"
+        "SilverAsh",
+        "Schwarz",
+        "Pramanix",
+        "Rosa",
+        "Flamebringer",
+        "Closure",
+        "Ch'en",
+        "Blaze",
+        "Amiya"
     ],
-    "search": [],
+    "search": ["silverash","family","winter supply"],
     "stickers": [
         {
             "key": 0,
-            "name": "honeyberry_tea",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/honeyberry_tea.png",
+            "name": "cliffheart_bag",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/cliffheart_bag.png",
             "alt": "Alternative text"
         },
         {
             "key": 1,
-            "name": "corro_sleep",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/corro_sleep.png",
+            "name": "cliffheart_donut",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/cliffheart_donut.png",
             "alt": "Alternative text"
         },
         {
             "key": 2,
-            "name": "ntrk_idea",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/ntrk_idea.png",
+            "name": "schwarz_cake",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/schwarz_cake.png",
             "alt": "Alternative text"
         },
         {
             "key": 3,
-            "name": "flame_chips",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/flame_chips.png",
+            "name": "schwarz_call",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/schwarz_call.png",
             "alt": "Alternative text"
         },
         {
             "key": 4,
-            "name": "pudding",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/pudding.png",
+            "name": "silverash_tea",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/silverash_tea.png",
             "alt": "Alternative text"
         },
         {
             "key": 5,
-            "name": "justice_grocery",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/justice_grocery.png",
+            "name": "silverash_hungry",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/silverash_hungry.png",
             "alt": "Alternative text"
         },
         {
             "key": 6,
-            "name": "ashlock_what",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/ashlock_what.png",
+            "name": "pram_nom",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/pram_nom.png",
             "alt": "Alternative text"
         },
         {
             "key": 7,
-            "name": "wild_drink",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/wild_drink.png",
+            "name": "pram_jar",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/pram_jar.png",
             "alt": "Alternative text"
         },
         {
             "key": 8,
-            "name": "wild_read",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/wild_read.png",
+            "name": "rosa_woah",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/rosa_woah.png",
             "alt": "Alternative text"
         },
         {
             "key": 9,
-            "name": "pudding_device",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/pudding_device.png",
+            "name": "rosa_tea",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/rosa_tea.png",
             "alt": "Alternative text"
         },
         {
             "key": 10,
-            "name": "flame_cool",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/flame_cool.png",
+            "name": "flame_drink",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/flame_drink.png",
             "alt": "Alternative text"
         },
         {
             "key": 11,
-            "name": "honeyberry_fall",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/honeyberry_fall.png",
+            "name": "flame_fries",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/flame_fries.png",
             "alt": "Alternative text"
         },
         {
             "key": 12,
-            "name": "fartooth_think",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/fartooth_think.png",
+            "name": "closure_receipt",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/closure_receipt.png",
             "alt": "Alternative text"
         },
         {
             "key": 13,
-            "name": "corro_vial",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/corro_vial.png",
+            "name": "chen_nom",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/chen_nom.png",
             "alt": "Alternative text"
         },
         {
             "key": 14,
-            "name": "ntrk_dizzy",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/ntrk_dizzy.png",
+            "name": "blaze_beer",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/blaze_beer.png",
             "alt": "Alternative text"
         },
         {
             "key": 15,
-            "name": "fartooth_ignore",
-            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/fartooth_ignore.png",
+            "name": "amiya_curry",
+            "href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/amiya_curry.png",
             "alt": "Alternative text"
         }
     ]

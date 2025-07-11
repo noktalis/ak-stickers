@@ -24,10 +24,12 @@ bunnies4 (cats are here): 21 oct 2021
 near light: November 16, 2021
 	- alt text
 winter supply: December 10, 2021
+	- alt text
 break the ice: 16 dec 2021
 	- alt text
 
 checklist:
 	- README.txt
-	- stickers
+	- stickers (en version if applicable)
 	- alt text
+	- captions

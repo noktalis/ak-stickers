@@ -10,10 +10,6 @@ Stickers from @arknights-archive on tumblr
 https://arknights-archive.tumblr.com/post/726113955694641152/winter-supply-12
 https://arknights-archive.tumblr.com/post/726116818162532352/winter-supply-22
 
-(if stickers edited and cropped myself)
-Stickers edited by Nat
-https://www.arknights.global/fankit
-
 Doesn't seem to correspond to any particular event.
 
 Features SilverAsh, Schwarz, Pramanix, Rosa, Flamebringer, Closure, Ch'en, Blaze, Amiya.

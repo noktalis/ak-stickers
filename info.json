@@ -118,6 +118,124 @@
 		]
 	},
 	{
+		"pack": "winter_supply",
+		"fullname": "Winter Supply",
+		"cn-date": "2021-12-10",
+		"cn-src": "https://weibo.com/6441489862/L5pCtAOmI",
+		"tumblr-source1": "https://arknights-archive.tumblr.com/post/726113955694641152/winter-supply-12",
+		"tumblr-source2": "https://arknights-archive.tumblr.com/post/726116818162532352/winter-supply-22",
+		"featured": [
+			"SilverAsh",
+			"Schwarz",
+			"Pramanix",
+			"Rosa",
+			"Flamebringer",
+			"Closure",
+			"Ch'en",
+			"Blaze",
+			"Amiya"
+		],
+		"search": ["silverash","family","winter supply"],
+		"stickers": [
+			{
+				"key": 0,
+				"name": "cliffheart_bag",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/cliffheart_bag.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 1,
+				"name": "cliffheart_donut",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/cliffheart_donut.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 2,
+				"name": "schwarz_cake",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/schwarz_cake.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 3,
+				"name": "schwarz_call",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/schwarz_call.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 4,
+				"name": "silverash_tea",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/silverash_tea.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 5,
+				"name": "silverash_hungry",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/silverash_hungry.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 6,
+				"name": "pram_nom",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/pram_nom.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 7,
+				"name": "pram_jar",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/pram_jar.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 8,
+				"name": "rosa_woah",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/rosa_woah.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 9,
+				"name": "rosa_tea",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/rosa_tea.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 10,
+				"name": "flame_drink",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/flame_drink.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 11,
+				"name": "flame_fries",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/flame_fries.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 12,
+				"name": "closure_receipt",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/closure_receipt.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 13,
+				"name": "chen_nom",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/chen_nom.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 14,
+				"name": "blaze_beer",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/blaze_beer.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 15,
+				"name": "amiya_curry",
+				"href": "https://noktalis.github.io/ak-stickers/2021/winter_supply/amiya_curry.png",
+				"alt": "Alternative text"
+			}
+		]
+	},
+	{
 		"pack": "near_light",
 		"fullname": "Near Light",
 		"cn-date": "2021-11-16",
