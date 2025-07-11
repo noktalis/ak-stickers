@@ -1,118 +1,118 @@
 {
-    "pack": "bunnies4",
-    "fullname": "Cats Are Here",
-    "cn-date": "2021-10-21",
-    "cn-src": "https://weibo.com/6441489862/4695069255275709",
-    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726125621186592768/cats-are-here-12",
-    "tumblr-source2": "https://arknights-archive.tumblr.com/post/726128514489843712/cats-are-here-22",
+    "pack": "near_light",
+    "fullname": "Near Light",
+    "cn-date": "2021-11-16",
+    "cn-src": "https://weibo.com/6441489862/L1Tgyx7Gc",
+    "tumblr-source1": "https://arknights-archive.tumblr.com/post/726119709697867776/near-light-stickers-12",
+    "tumblr-source2": "https://arknights-archive.tumblr.com/post/726122747189723136/near-light-stickers-22",
     "featured": [
-        "Amiya",
-        "Ch'en",
+        "Honeyberry",
+        "Corroserum",
         "Doctor",
-        "Blaze",
-        "Kal'tsit",
-        "Talulah",
-        "Faust",
-        "Mephisto"
+        "Nearl the Radiant Knight",
+        "Flametail",
+        "Pudding",
+        "Justice Knight",
+        "Ashlock",
+        "Wildmane",
+        "Fartooth"
     ],
-    "search": ["bunnies","cats","kitties","kitty"],
+    "search": [],
     "stickers": [
         {
             "key": 0,
-            "name": "amiya_megaphone",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/amiya_megaphone.png",
+            "name": "honeyberry_tea",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/honeyberry_tea.png",
             "alt": "Alternative text"
         },
         {
             "key": 1,
-            "name": "chen_bike",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/chen_bike.png",
+            "name": "corro_sleep",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/corro_sleep.png",
             "alt": "Alternative text"
         },
         {
             "key": 2,
-            "name": "doc_wallet",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/doc_wallet.png",
+            "name": "ntrk_idea",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/ntrk_idea.png",
             "alt": "Alternative text"
         },
         {
             "key": 3,
-            "name": "doc_flop",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/doc_flop.png",
+            "name": "flame_chips",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/flame_chips.png",
             "alt": "Alternative text"
         },
         {
             "key": 4,
-            "name": "blaze_cheer",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/blaze_cheer.png",
+            "name": "pudding",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/pudding.png",
             "alt": "Alternative text"
         },
         {
             "key": 5,
-            "name": "blaze_fan",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/blaze_fan.png",
+            "name": "justice_grocery",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/justice_grocery.png",
             "alt": "Alternative text"
         },
         {
             "key": 6,
-            "name": "kal_ask",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/kal_ask.png",
+            "name": "ashlock_what",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/ashlock_what.png",
             "alt": "Alternative text"
         },
         {
             "key": 7,
-            "name": "kal_angry",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/kal_angry.png",
+            "name": "wild_drink",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/wild_drink.png",
             "alt": "Alternative text"
         },
         {
             "key": 8,
-            "name": "tal_that",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/tal_that.png",
-            "alt": "Alternative text",
-			"caption":"Ah this"
+            "name": "wild_read",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/wild_read.png",
+            "alt": "Alternative text"
         },
         {
             "key": 9,
-            "name": "tal_flop",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/tal_flop.png",
+            "name": "pudding_device",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/pudding_device.png",
             "alt": "Alternative text"
         },
         {
             "key": 10,
-            "name": "tal_swet",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/tal_swet.png",
+            "name": "flame_cool",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/flame_cool.png",
             "alt": "Alternative text"
         },
         {
             "key": 11,
-            "name": "mephfaust_tug",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/mephfaust_tug.png",
+            "name": "honeyberry_fall",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/honeyberry_fall.png",
             "alt": "Alternative text"
         },
         {
             "key": 12,
-            "name": "meph_oh",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/meph_oh.png",
-            "alt": "Alternative text",
-			"caption":"Oh?"
+            "name": "fartooth_think",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/fartooth_think.png",
+            "alt": "Alternative text"
         },
         {
             "key": 13,
-            "name": "meph_curl",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/meph_curl.png",
+            "name": "corro_vial",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/corro_vial.png",
             "alt": "Alternative text"
         },
         {
             "key": 14,
-            "name": "mephfaust_pic",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/mephfaust_pic.png",
+            "name": "ntrk_dizzy",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/ntrk_dizzy.png",
             "alt": "Alternative text"
         },
         {
             "key": 15,
-            "name": "mephfaust_fish",
-            "href": "https://noktalis.github.io/ak-stickers/2021/bunnies4/mephfaust_fish.png",
+            "name": "fartooth_ignore",
+            "href": "https://noktalis.github.io/ak-stickers/2021/near_light/fartooth_ignore.png",
             "alt": "Alternative text"
         }
     ]

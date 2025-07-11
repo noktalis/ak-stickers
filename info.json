@@ -118,6 +118,125 @@
 		]
 	},
 	{
+		"pack": "near_light",
+		"fullname": "Near Light",
+		"cn-date": "2021-11-16",
+		"cn-src": "https://weibo.com/6441489862/L1Tgyx7Gc",
+		"tumblr-source1": "https://arknights-archive.tumblr.com/post/726119709697867776/near-light-stickers-12",
+		"tumblr-source2": "https://arknights-archive.tumblr.com/post/726122747189723136/near-light-stickers-22",
+		"featured": [
+			"Honeyberry",
+			"Corroserum",
+			"Doctor",
+			"Nearl the Radiant Knight",
+			"Flametail",
+			"Pudding",
+			"Justice Knight",
+			"Ashlock",
+			"Wildmane",
+			"Fartooth"
+		],
+		"search": ["near light","nearl alter"],
+		"stickers": [
+			{
+				"key": 0,
+				"name": "honeyberry_tea",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/honeyberry_tea.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 1,
+				"name": "corro_sleep",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/corro_sleep.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 2,
+				"name": "ntrk_idea",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/ntrk_idea.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 3,
+				"name": "flame_chips",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/flame_chips.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 4,
+				"name": "pudding",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/pudding.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 5,
+				"name": "justice_grocery",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/justice_grocery.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 6,
+				"name": "ashlock_what",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/ashlock_what.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 7,
+				"name": "wild_drink",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/wild_drink.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 8,
+				"name": "wild_read",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/wild_read.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 9,
+				"name": "pudding_device",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/pudding_device.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 10,
+				"name": "flame_cool",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/flame_cool.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 11,
+				"name": "honeyberry_fall",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/honeyberry_fall.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 12,
+				"name": "fartooth_think",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/fartooth_think.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 13,
+				"name": "corro_vial",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/corro_vial.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 14,
+				"name": "ntrk_dizzy",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/ntrk_dizzy.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 15,
+				"name": "fartooth_ignore",
+				"href": "https://noktalis.github.io/ak-stickers/2021/near_light/fartooth_ignore.png",
+				"alt": "Alternative text"
+			}
+		]
+	},
+	{
 		"pack": "bunnies4",
 		"fullname": "Cats Are Here",
 		"cn-date": "2021-10-21",
