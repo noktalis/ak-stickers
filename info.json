@@ -118,6 +118,137 @@
 		]
 	},
 	{
+		"pack": "ch9",
+		"fullname": "Episode 9: Stormwatch",
+		"cn-date": "2021-09-21",
+		"cn-src": "https://weibo.com/6441489862/KzkKX1J0E",
+		"en-date": "2022-05-18",
+		"en-src": "https://twitter.com/ArknightsEN/status/1527136966956961792",
+		"tumblr-source1": "https://arknights-archive.tumblr.com/post/726131422972231680/stormwatch-stickers-12",
+		"tumblr-source2": "https://arknights-archive.tumblr.com/post/726134433923629056/stormwatch-stickers-22",
+		"featured": [
+			"Saileach",
+			"Mulberry",
+			"Roberta",
+			"Warfarin",
+			"Archetto",
+			"Pinecone",
+			"Astesia",
+			"Meteor",
+			"Whislash",
+			"Jessica",
+			"Doctor",
+			"Rosmontis",
+			"Nian",
+			"Dusk"
+		],
+		"search": ["chapter","episode","9","nine"],
+		"stickers": [
+			{
+				"key": 0,
+				"name": "sail_pet",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/sail_pet.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 1,
+				"name": "sail_flag",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/sail_flag.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 2,
+				"name": "mulberry_sad",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/mulberry_sad.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 3,
+				"name": "mulberry_safe",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/mulberry_safe.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 4,
+				"name": "roberta_offer",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/roberta_offer.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 5,
+				"name": "roberta_drop",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/roberta_drop.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 6,
+				"name": "warfarin_melt",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/warfarin_melt.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 7,
+				"name": "archetto_idol",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/archetto_idol.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 8,
+				"name": "pinecone_cry",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/pinecone_cry.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 9,
+				"name": "astesia_dance",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/astesia_dance.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 10,
+				"name": "meteor_chill",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/meteor_chill.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 11,
+				"name": "whislash_uh",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/whislash_uh.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 12,
+				"name": "jess_buried",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/jess_buried.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 13,
+				"name": "ros_thumbs_up",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/ros_thumbs_up.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 14,
+				"name": "nian_tada",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/nian_tada.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 15,
+				"name": "dusk_no",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/dusk_no.png",
+				"alt": "Alternative text"
+			},
+			{
+				"key": 16,
+				"name": "mulberry_safe_en",
+				"href": "https://noktalis.github.io/ak-stickers/2021/ch9/mulberry_safe_en.png",
+				"alt": "Alternative text"
+			}
+		]
+	},
+	{
 		"pack": "dossoles",
 		"fullname": "Dossoles Holiday",
 		"cn-date": "2021-08-01",
