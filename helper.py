@@ -167,6 +167,7 @@ class Parser:
 				line = line.replace("Features ","")
 				line = line.replace(".","")
 				line = line.split(", ")
+				line = [x.lower() for x in line]
 				self.ft_list = line
 
 			i += 1 # iterate while loop

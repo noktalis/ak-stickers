@@ -8,7 +8,8 @@ x April 29, 2020 - coffee shop
 x May 2, 2020 - lawson
 x May 3, 2020 - darknights
 x May 26, 2020 - bunnies2
-# June 18, 2020 - children of ursus
+x June 18, 2020 - children of ursus
+	- translate manticore sticker
 # July 17, 2020 - all penguins
 # July 29, 2020 - frolic
 # September 3, 2020 - jungle
