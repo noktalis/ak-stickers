@@ -1607,6 +1607,7 @@
 			}
 		]
 	},
+	
 	{
 		"pack":"mansfield",
 		"fullname":"Leisure Time",
@@ -2375,130 +2376,123 @@
 		"en-src":"https://twitter.com/ArknightsEN/status/1366704845261004806",
 		"tumblr-source1":"https://arknights-archive.tumblr.com/post/726213320386936832/great-chief-returns-stickers-12",
 		"tumblr-source2":"https://arknights-archive.tumblr.com/post/726216237910196224/great-chief-returns-stickers-22",
-		"featured":["jaye","eunectes","lancet-2","thorns","doctor","doktah","andreana","tomimi","aciddrop","bagpipe","flint","adnachiel"],
+		"featured":["jaye","eunectes","lancet-2","lancet","thorns","doctor","doktah","andreana","tomimi","aciddrop","bagpipe","flint","adnachiel"],
 		"search":["jungle","great chief returns"],
 		"stickers":[
 			{
 				"key":0,
 				"name":"jaye_shop",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/jaye_shop.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Jaye sits next to a pile of a stuff and a sign that says 'closed' in a Beijing accent.",
+				"caption":"Closed up shop (Beijing)"
 			},
 			{
 				"key":1,
 				"name":"eunectes_lancet_happy",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/eunectes_lancet_happy.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Eunectus and Lancet-2 happily look off into the distance together."
 			},
 			{
 				"key":2,
 				"name":"thorns_doctor_drink",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/thorns_doctor_drink.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Thorns force feeds Doctor a golden liquid, but misses the lip of the Doctor's helmet and it dribbles down the helmet's chin."
 			},
 			{
 				"key":3,
 				"name":"andreana_lovestruck",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/andreana_lovestruck.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Andreana appears to be lovestruck despite having a blank face. Her face is red and an arrow is pierced through the heart on her shirt."
 			},
 			{
 				"key":4,
 				"name":"tomimi_gape",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/tomimi_gape.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Tomimi's mouth gapes open as she looks slightly confused, like a sloth about to point at themselves and ask, 'me?'"
 			},
 			{
 				"key":5,
 				"name":"aciddrop_skateboard",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/aciddrop_skateboard.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Aciddrop catches air while riding her skateboard."
 			},
 			{
 				"key":6,
 				"name":"bagpipe_warn",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/bagpipe_warn.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Bagpipe holds up a finger like she's about to give a stern warning."
 			},
 			{
 				"key":7,
 				"name":"eunectes_punch",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/eunectes_punch.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Eunectus angrily throws a punch toward the viewer and giving us a close up of her fist."
 			},
 			{
 				"key":8,
 				"name":"thorns_experiment",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/thorns_experiment.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Thorns holds his beakers while glancing over his shoulder. His hair exploded and looks like a sea urchin."
 			},
 			{
 				"key":9,
 				"name":"flint_anger",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/flint_anger.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Flint huffs steam from her nostils while her eyes gleam with the idea of payback and fire surrounds her. She holds up her right hand like she's about to pull a fist."
 			},
 			{
 				"key":10,
 				"name":"jaye_nom",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/jaye_nom.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Jaye eats a kabob made of deployment cost points while wearing a shirt that says 'supermarket.'",
+				"caption":"Supermarket"
 			},
 			{
 				"key":11,
 				"name":"andreana_stuck",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/andreana_stuck.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Andreana stands and gives a confused glance over her shoulder. A wooden stool is stuck to her tail of tentacles."
 			},
 			{
 				"key":12,
 				"name":"aciddrop_innocent",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/aciddrop_innocent.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Aciddrop looks away and whistles with a look of innocence."
 			},
 			{
 				"key":13,
 				"name":"adnachiel_grin",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/adnachiel_grin.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Adnachiel smiles brightly, making his halo also glow very brightly."
 			},
 			{
 				"key":14,
 				"name":"flint_flower",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/flint_flower.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Flint smiles as she holds up a smiling flower."
 			},
 			{
 				"key":15,
 				"name":"tomimi_tail",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/tomimi_tail.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Tomimi pouts a bit and has a tear in her eye as she hugs her tail, insecure about its thickness."
 			},
 			{
 				"key":16,
 				"name":"jaye_shop_en",
 				"href":"https://noktalis.github.io/ak-stickers/2020/jungle/jaye_shop_en.png",
-				"alt":"Jungle sticker alternative text placeholder",
-				"caption":""
+				"alt":"Jaye sits next to a pile of a stuff and a sign that says 'closed'"
 			}
 		]
 	},
+
+
+
+
+
+
+
+
 	{
 		"pack":"frolic",
 		"fullname":"Frolic",
@@ -2944,12 +2938,6 @@
 			}
 		]
 	},
-	
-
-
-
-
-
 	{
 		"pack":"darknights",
 		"fullname":"Music of the Night",
