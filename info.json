@@ -1867,6 +1867,15 @@
 			}
 		]
 	},
+
+
+
+
+
+
+
+
+
 	{
 		"pack":"anecdotes1",
 		"fullname":"Anecdotes",
@@ -1881,125 +1890,100 @@
 				"key":0,
 				"name":"texas_drive",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/texas_drive.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Texas motions for the viewer to get in the car from the driver's seat."
 			},
 			{
 				"key":1,
 				"name":"texas_betrayed",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/texas_betrayed.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Texas is aghast as she points to herself in confirmation. Exusiai smiles cheekily from the side."
 			},
 			{
 				"key":2,
 				"name":"texas_annoyed",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/texas_annoyed.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Texas is frustrated and annoyed as she has to work. She writes on a notepad as a crumpled paper ball bounces off her head."
 			},
 			{
 				"key":3,
 				"name":"pl_dance",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/pl_dance.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Texas, Exusiai, and Emperor dance in sync."
 			},
 			{
 				"key":4,
 				"name":"lappland_pie",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/lappland_pie.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Lappland beams as she holds up a bag of what looks to be pie or cake."
 			},
 			{
 				"key":5,
 				"name":"mostima_shades",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/mostima_shades.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Mostima gives the viewer the 'okay' gesture, looking cool with shades on."
 			},
 			{
 				"key":6,
 				"name":"skadi_seal",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/skadi_seal.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Skadi squints as she scrutinizes a baby seal in her hands."
 			},
 			{
 				"key":7,
 				"name":"specter_shark",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/specter_shark.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Specter loafs around, leaning on and patting a shark plushy."
 			},
 			{
 				"key":8,
 				"name":"red_floof",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/red_floof.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Projekt Red dreams of petting fluffy tails."
 			},
 			{
 				"key":9,
 				"name":"feater_star",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/feater_star.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"FEater stylishly winks as she holds arts supplies in one arm and holds her sunglasses up with another."
 			},
 			{
 				"key":10,
 				"name":"manti_yawn",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/manti_yawn.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Manticore yawns politely."
 			},
 			{
 				"key":11,
-				"name":"gravel_yawn",
-				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/gravel_yawn.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"name":"gravel_wink",
+				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/gravel_wink.png",
+				"alt":"Gravel winks flirtingly."
 			},
 			{
 				"key":12,
 				"name":"earthspirit_shiftend",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/earthspirit_shiftend.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Earthspirit looks at her wristwatch, holding up a sign that says 'No' to deny working on the stack of papers Doctor holds out to her."
 			},
 			{
 				"key":13,
 				"name":"glaucus_mailbox",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/glaucus_mailbox.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Glaucus holds a wooden hammer in one hand and a mailbox covered in bandages in the other. She seems to be tired after hitting the mailbox and wishes for messenger pigeons."
 			},
 			{
 				"key":14,
 				"name":"deepcolor_paint",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/deepcolor_paint.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Deepcolor smiles at the viewer with art supplies in her hand."
 			},
 			{
 				"key":15,
 				"name":"angelina_mail",
 				"href":"https://noktalis.github.io/ak-stickers/2020/anecdotes1/angelina_mail.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Angelina pops out of a mailbox with a bunch of letters, holding one up. A notification icon indicates there are more than 99 letters to be viewed."
 			}
 		]
 	},	
-
-
-
-
-
-
-
-
-	
 	{
 		"pack":"daily_life",
 		"fullname":"Carefree Daily Life",
