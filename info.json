@@ -1990,7 +1990,16 @@
 				"caption":""
 			}
 		]
-	},
+	},	
+
+
+
+
+
+
+
+
+	
 	{
 		"pack":"daily_life",
 		"fullname":"Carefree Daily Life",
@@ -2005,113 +2014,98 @@
 				"key":0,
 				"name":"amiya_frustrated",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/amiya_frustrated.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Amiya glares at a bill in her hands like it offends her.",
+				"caption":"The Bills"
 			},
 			{
 				"key":1,
 				"name":"skadi_vibe",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/skadi_vibe.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Skadi peacefully looks up at a butterfly fluttering by after defeating a heap of enemies."
 			},
 			{
 				"key":2,
 				"name":"bagpipe_tired",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/bagpipe_tired.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Bagpipe is collapsed over the desk, pen in her right hand, surrounded by stacks of paperwork."
 			},
 			{
 				"key":3,
 				"name":"ceobe_dream",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/ceobe_dream.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Ceobe sleeps, dreaming of tasty food like pancakes, roast, jam, and a mug of drink."
 			},
 			{
 				"key":4,
 				"name":"steward_facepalm",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/steward_facepalm.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Steward expresses frustration and secondhand embarrassment with a facepalm and a sweat drop."
 			},
 			{
 				"key":5,
 				"name":"reed_read",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/reed_read.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Reed contentedly writes in a notebook."
 			},
 			{
 				"key":6,
 				"name":"siege_baby",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/siege_baby.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Siege angrily grips a plastic hammer while wearing a pacifier and sunflower petals around her head."
 			},
 			{
 				"key":7,
 				"name":"hellagur_think",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/hellagur_think.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Hellagur ponders something while holding his thumb and index finger under his chin."
 			},
 			{
 				"key":8,
 				"name":"specter_crouch",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/specter_crouch.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Specter pathetically crouches down in a fetal position as she draws what looks to be a jellyfish in the sand."
 			},
 			{
 				"key":9,
 				"name":"melantha_warm",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/melantha_warm.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Melantha is completely red-faced, appearing mildly distressed."
 			},
 			{
 				"key":10,
 				"name":"schwarz_cool",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/schwarz_cool.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Schwarz holds a gun in a cool pose as she wears shades and manifests the shining star of coolness."
 			},
 			{
 				"key":11,
 				"name":"adnachiel_smith",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/adnachiel_smith.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Adnachiel welds something while wearing a welding mask."
 			},
 			{
 				"key":12,
 				"name":"cardigan_uhoh",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/cardigan_uhoh.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Cardigan looks over her shoulder with dread. Something in front of her is broken and super dead, a halo and pair of wings ascending from the rubble like a soul."
 			},
 			{
 				"key":13,
 				"name":"ansel_sus",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/ansel_sus.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Ansel squints suspiciously at the viewer."
 			},
 			{
 				"key":14,
 				"name":"hibiscus_feed",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/hibiscus_feed.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Hibiscus beams as she tries to feed her 'healthy meal' to the Doctor. Doctor sweats heavily, not wanting food poisoning."
 			},
 			{
 				"key":15,
 				"name":"lava_fear",
 				"href":"https://noktalis.github.io/ak-stickers/2020/daily_life/lava_fear.png",
-				"alt":"Carefree Daily Life sticker placeholder alt text",
-				"caption":""
+				"alt":"Lava looks at a bowl of Hibiscus's 'healthy meal' with great dread and despair."
 			}
 		]
 	},
@@ -2453,14 +2447,6 @@
 			}
 		]
 	},
-
-
-
-
-
-
-
-
 	{
 		"pack":"frolic",
 		"fullname":"Frolic",
