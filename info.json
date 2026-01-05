@@ -1741,6 +1741,15 @@
 			}
 		]
 	},
+
+
+
+
+
+
+
+
+
 	{
 		"pack":"bunnies3",
 		"fullname":"All Bunnies",
@@ -1757,125 +1766,100 @@
 				"key":0,
 				"name":"amiya_approve",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/amiya_approve.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Amiya hypes the viewer up with great encouragement."
 			},
 			{
 				"key":1,
 				"name":"courier_call",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/courier_call.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Courier calls out that he has a letter to deliver."
 			},
 			{
 				"key":2,
 				"name":"specter_murder",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/specter_murder.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Specter menacingly holds up a chainsaw while stained in blood."
 			},
 			{
 				"key":3,
 				"name":"chen_sip",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/chen_sip.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Ch'en sips from a mug with a furrowed brow, anticipating trouble."
 			},
 			{
 				"key":4,
 				"name":"lappland_laugh",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/lappland_laugh.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Lappland laughs maniacally, her arms crossed pompously."
 			},
 			{
 				"key":5,
 				"name":"siege_yawn",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/siege_yawn.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Siege yawns as she lays down facing away from the viewer, seemingly uninterested in anything else."
 			},
 			{
 				"key":6,
 				"name":"amiya_hug",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/amiya_hug.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Amiya nuzzles and hugs a penguin."
 			},
 			{
 				"key":7,
 				"name":"kaltsit_pill",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/kaltsit_pill.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Kal'tsit grumpily holds up a pill, expecting the viewer to take it."
 			},
 			{
 				"key":8,
 				"name":"angelina_wink",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/angelina_wink.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Angelina winks cutely while holding her cheek."
 			},
 			{
 				"key":9,
 				"name":"amiya_busy",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/amiya_busy.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Amiya struggles to balance a tower of paperwork in her hands."
 			},
 			{
 				"key":10,
 				"name":"crownslayer_fallen",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/crownslayer_fallen.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Crownslayer has fallen, her soul departing from her body."
 			},
 			{
 				"key":11,
 				"name":"red_drool",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/red_drool.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Projekt Red glances up from the middle of her chewing on a purple tail."
 			},
 			{
 				"key":12,
 				"name":"amiya_swet",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/amiya_swet.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Amiya bows in profuse apology."
 			},
 			{
 				"key":13,
 				"name":"bunny_praise",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/bunny_praise.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"A bunny wearing a white visor gives a double thumbs up in praise and/or encouragement."
 			},
 			{
 				"key":14,
 				"name":"chen_stressed",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/chen_stressed.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"A stressed and disappointed Bunny Ch'en pinches between her brows in deep frustration. Her other hand is clenched in a fist."
 			},
 			{
 				"key":15,
 				"name":"siege_disapproval",
 				"href":"https://noktalis.github.io/ak-stickers/2020/bunnies3/siege_disapproval.png",
-				"alt":"Placeholder alternative text",
-				"caption":""
+				"alt":"Bunny Siege gives the viewer a disgusted sneer as she exhales in contempt."
 			}
 		]
 	},
-
-
-
-
-
-
-
-
-
 	{
 		"pack":"anecdotes1",
 		"fullname":"Anecdotes",
